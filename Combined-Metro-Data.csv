@@ -1,0 +1,1483 @@
+Metro,Population_Category,Industry,Rank,Full-Time Male Median Earnings (Dollars),Full-Time Female Median Earnings (Dollars),Median House Value (Dollars),Median Gross Rent (Dollars),Public transportation (excluding taxicab),Walked,Worked from home
+"Akron, OH ",small,"Agriculture, forestry, fishing and hunting, and mining",13.0,"61,980","49,377","199,400",948,0.6%,1.5%,15.4%
+"Akron, OH ",small,Construction,8.0,"61,980","49,377","199,400",948,0.6%,1.5%,15.4%
+"Akron, OH ",small,Manufacturing,2.0,"61,980","49,377","199,400",948,0.6%,1.5%,15.4%
+"Akron, OH ",small,Wholesale trade,11.0,"61,980","49,377","199,400",948,0.6%,1.5%,15.4%
+"Akron, OH ",small,Retail trade,3.0,"61,980","49,377","199,400",948,0.6%,1.5%,15.4%
+"Akron, OH ",small,"Transportation and warehousing, and utilities",6.0,"61,980","49,377","199,400",948,0.6%,1.5%,15.4%
+"Akron, OH ",small,Information,12.0,"61,980","49,377","199,400",948,0.6%,1.5%,15.4%
+"Akron, OH ",small,"Finance and insurance, and real estate and rental and leasing",6.0,"61,980","49,377","199,400",948,0.6%,1.5%,15.4%
+"Akron, OH ",small,"Professional, scientific, and management, and administrative and waste management services",4.0,"61,980","49,377","199,400",948,0.6%,1.5%,15.4%
+"Akron, OH ",small,"Educational services, and health care and social assistance",1.0,"61,980","49,377","199,400",948,0.6%,1.5%,15.4%
+"Akron, OH ",small,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"61,980","49,377","199,400",948,0.6%,1.5%,15.4%
+"Akron, OH ",small,Other services (except public administration),9.0,"61,980","49,377","199,400",948,0.6%,1.5%,15.4%
+"Akron, OH ",small,Public administration,10.0,"61,980","49,377","199,400",948,0.6%,1.5%,15.4%
+"Albany-Schenectady-Troy, NY ",medium,"Agriculture, forestry, fishing and hunting, and mining",13.0,"72,436","59,424","269,600","1,182",2.5%,3.0%,14.9%
+"Albany-Schenectady-Troy, NY ",medium,Construction,8.0,"72,436","59,424","269,600","1,182",2.5%,3.0%,14.9%
+"Albany-Schenectady-Troy, NY ",medium,Manufacturing,4.0,"72,436","59,424","269,600","1,182",2.5%,3.0%,14.9%
+"Albany-Schenectady-Troy, NY ",medium,Wholesale trade,12.0,"72,436","59,424","269,600","1,182",2.5%,3.0%,14.9%
+"Albany-Schenectady-Troy, NY ",medium,Retail trade,3.0,"72,436","59,424","269,600","1,182",2.5%,3.0%,14.9%
+"Albany-Schenectady-Troy, NY ",medium,"Transportation and warehousing, and utilities",9.0,"72,436","59,424","269,600","1,182",2.5%,3.0%,14.9%
+"Albany-Schenectady-Troy, NY ",medium,Information,11.0,"72,436","59,424","269,600","1,182",2.5%,3.0%,14.9%
+"Albany-Schenectady-Troy, NY ",medium,"Finance and insurance, and real estate and rental and leasing",7.0,"72,436","59,424","269,600","1,182",2.5%,3.0%,14.9%
+"Albany-Schenectady-Troy, NY ",medium,"Professional, scientific, and management, and administrative and waste management services",2.0,"72,436","59,424","269,600","1,182",2.5%,3.0%,14.9%
+"Albany-Schenectady-Troy, NY ",medium,"Educational services, and health care and social assistance",1.0,"72,436","59,424","269,600","1,182",2.5%,3.0%,14.9%
+"Albany-Schenectady-Troy, NY ",medium,"Arts, entertainment, and recreation, and accommodation and food services",6.0,"72,436","59,424","269,600","1,182",2.5%,3.0%,14.9%
+"Albany-Schenectady-Troy, NY ",medium,Other services (except public administration),10.0,"72,436","59,424","269,600","1,182",2.5%,3.0%,14.9%
+"Albany-Schenectady-Troy, NY ",medium,Public administration,4.0,"72,436","59,424","269,600","1,182",2.5%,3.0%,14.9%
+"Albuquerque, NM ",medium,"Agriculture, forestry, fishing and hunting, and mining",13.0,"58,010","49,309","281,600","1,048",1.0%,1.5%,14.5%
+"Albuquerque, NM ",medium,Construction,5.0,"58,010","49,309","281,600","1,048",1.0%,1.5%,14.5%
+"Albuquerque, NM ",medium,Manufacturing,8.0,"58,010","49,309","281,600","1,048",1.0%,1.5%,14.5%
+"Albuquerque, NM ",medium,Wholesale trade,12.0,"58,010","49,309","281,600","1,048",1.0%,1.5%,14.5%
+"Albuquerque, NM ",medium,Retail trade,3.0,"58,010","49,309","281,600","1,048",1.0%,1.5%,14.5%
+"Albuquerque, NM ",medium,"Transportation and warehousing, and utilities",10.0,"58,010","49,309","281,600","1,048",1.0%,1.5%,14.5%
+"Albuquerque, NM ",medium,Information,11.0,"58,010","49,309","281,600","1,048",1.0%,1.5%,14.5%
+"Albuquerque, NM ",medium,"Finance and insurance, and real estate and rental and leasing",7.0,"58,010","49,309","281,600","1,048",1.0%,1.5%,14.5%
+"Albuquerque, NM ",medium,"Professional, scientific, and management, and administrative and waste management services",2.0,"58,010","49,309","281,600","1,048",1.0%,1.5%,14.5%
+"Albuquerque, NM ",medium,"Educational services, and health care and social assistance",1.0,"58,010","49,309","281,600","1,048",1.0%,1.5%,14.5%
+"Albuquerque, NM ",medium,"Arts, entertainment, and recreation, and accommodation and food services",4.0,"58,010","49,309","281,600","1,048",1.0%,1.5%,14.5%
+"Albuquerque, NM ",medium,Other services (except public administration),9.0,"58,010","49,309","281,600","1,048",1.0%,1.5%,14.5%
+"Albuquerque, NM ",medium,Public administration,5.0,"58,010","49,309","281,600","1,048",1.0%,1.5%,14.5%
+"Allentown-Bethlehem-Easton, PA-NJ ",small,"Agriculture, forestry, fishing and hunting, and mining",13.0,"61,728","51,124","288,500","1,250",1.6%,1.7%,12.3%
+"Allentown-Bethlehem-Easton, PA-NJ ",small,Construction,7.0,"61,728","51,124","288,500","1,250",1.6%,1.7%,12.3%
+"Allentown-Bethlehem-Easton, PA-NJ ",small,Manufacturing,2.0,"61,728","51,124","288,500","1,250",1.6%,1.7%,12.3%
+"Allentown-Bethlehem-Easton, PA-NJ ",small,Wholesale trade,10.0,"61,728","51,124","288,500","1,250",1.6%,1.7%,12.3%
+"Allentown-Bethlehem-Easton, PA-NJ ",small,Retail trade,3.0,"61,728","51,124","288,500","1,250",1.6%,1.7%,12.3%
+"Allentown-Bethlehem-Easton, PA-NJ ",small,"Transportation and warehousing, and utilities",5.0,"61,728","51,124","288,500","1,250",1.6%,1.7%,12.3%
+"Allentown-Bethlehem-Easton, PA-NJ ",small,Information,12.0,"61,728","51,124","288,500","1,250",1.6%,1.7%,12.3%
+"Allentown-Bethlehem-Easton, PA-NJ ",small,"Finance and insurance, and real estate and rental and leasing",8.0,"61,728","51,124","288,500","1,250",1.6%,1.7%,12.3%
+"Allentown-Bethlehem-Easton, PA-NJ ",small,"Professional, scientific, and management, and administrative and waste management services",4.0,"61,728","51,124","288,500","1,250",1.6%,1.7%,12.3%
+"Allentown-Bethlehem-Easton, PA-NJ ",small,"Educational services, and health care and social assistance",1.0,"61,728","51,124","288,500","1,250",1.6%,1.7%,12.3%
+"Allentown-Bethlehem-Easton, PA-NJ ",small,"Arts, entertainment, and recreation, and accommodation and food services",6.0,"61,728","51,124","288,500","1,250",1.6%,1.7%,12.3%
+"Allentown-Bethlehem-Easton, PA-NJ ",small,Other services (except public administration),9.0,"61,728","51,124","288,500","1,250",1.6%,1.7%,12.3%
+"Allentown-Bethlehem-Easton, PA-NJ ",small,Public administration,11.0,"61,728","51,124","288,500","1,250",1.6%,1.7%,12.3%
+"Atlanta-Sandy Springs-Alpharetta, GA ",xlarge,"Agriculture, forestry, fishing and hunting, and mining",13.0,"65,356","53,610","362,600","1,549",1.4%,1.2%,21.0%
+"Atlanta-Sandy Springs-Alpharetta, GA ",xlarge,Construction,8.0,"65,356","53,610","362,600","1,549",1.4%,1.2%,21.0%
+"Atlanta-Sandy Springs-Alpharetta, GA ",xlarge,Manufacturing,4.0,"65,356","53,610","362,600","1,549",1.4%,1.2%,21.0%
+"Atlanta-Sandy Springs-Alpharetta, GA ",xlarge,Wholesale trade,12.0,"65,356","53,610","362,600","1,549",1.4%,1.2%,21.0%
+"Atlanta-Sandy Springs-Alpharetta, GA ",xlarge,Retail trade,3.0,"65,356","53,610","362,600","1,549",1.4%,1.2%,21.0%
+"Atlanta-Sandy Springs-Alpharetta, GA ",xlarge,"Transportation and warehousing, and utilities",6.0,"65,356","53,610","362,600","1,549",1.4%,1.2%,21.0%
+"Atlanta-Sandy Springs-Alpharetta, GA ",xlarge,Information,11.0,"65,356","53,610","362,600","1,549",1.4%,1.2%,21.0%
+"Atlanta-Sandy Springs-Alpharetta, GA ",xlarge,"Finance and insurance, and real estate and rental and leasing",7.0,"65,356","53,610","362,600","1,549",1.4%,1.2%,21.0%
+"Atlanta-Sandy Springs-Alpharetta, GA ",xlarge,"Professional, scientific, and management, and administrative and waste management services",2.0,"65,356","53,610","362,600","1,549",1.4%,1.2%,21.0%
+"Atlanta-Sandy Springs-Alpharetta, GA ",xlarge,"Educational services, and health care and social assistance",1.0,"65,356","53,610","362,600","1,549",1.4%,1.2%,21.0%
+"Atlanta-Sandy Springs-Alpharetta, GA ",xlarge,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"65,356","53,610","362,600","1,549",1.4%,1.2%,21.0%
+"Atlanta-Sandy Springs-Alpharetta, GA ",xlarge,Other services (except public administration),9.0,"65,356","53,610","362,600","1,549",1.4%,1.2%,21.0%
+"Atlanta-Sandy Springs-Alpharetta, GA ",xlarge,Public administration,10.0,"65,356","53,610","362,600","1,549",1.4%,1.2%,21.0%
+"Augusta-Richmond County, GA-SC ",xsmall,"Agriculture, forestry, fishing and hunting, and mining",13.0,"58,669","45,163","217,500",994,0.9%,1.5%,9.9%
+"Augusta-Richmond County, GA-SC ",xsmall,Construction,6.0,"58,669","45,163","217,500",994,0.9%,1.5%,9.9%
+"Augusta-Richmond County, GA-SC ",xsmall,Manufacturing,3.0,"58,669","45,163","217,500",994,0.9%,1.5%,9.9%
+"Augusta-Richmond County, GA-SC ",xsmall,Wholesale trade,12.0,"58,669","45,163","217,500",994,0.9%,1.5%,9.9%
+"Augusta-Richmond County, GA-SC ",xsmall,Retail trade,4.0,"58,669","45,163","217,500",994,0.9%,1.5%,9.9%
+"Augusta-Richmond County, GA-SC ",xsmall,"Transportation and warehousing, and utilities",7.0,"58,669","45,163","217,500",994,0.9%,1.5%,9.9%
+"Augusta-Richmond County, GA-SC ",xsmall,Information,11.0,"58,669","45,163","217,500",994,0.9%,1.5%,9.9%
+"Augusta-Richmond County, GA-SC ",xsmall,"Finance and insurance, and real estate and rental and leasing",10.0,"58,669","45,163","217,500",994,0.9%,1.5%,9.9%
+"Augusta-Richmond County, GA-SC ",xsmall,"Professional, scientific, and management, and administrative and waste management services",2.0,"58,669","45,163","217,500",994,0.9%,1.5%,9.9%
+"Augusta-Richmond County, GA-SC ",xsmall,"Educational services, and health care and social assistance",1.0,"58,669","45,163","217,500",994,0.9%,1.5%,9.9%
+"Augusta-Richmond County, GA-SC ",xsmall,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"58,669","45,163","217,500",994,0.9%,1.5%,9.9%
+"Augusta-Richmond County, GA-SC ",xsmall,Other services (except public administration),9.0,"58,669","45,163","217,500",994,0.9%,1.5%,9.9%
+"Augusta-Richmond County, GA-SC ",xsmall,Public administration,8.0,"58,669","45,163","217,500",994,0.9%,1.5%,9.9%
+"Austin-Round Rock-Georgetown, TX ",large,"Agriculture, forestry, fishing and hunting, and mining",13.0,"75,103","59,736","490,000","1,599",1.1%,1.8%,28.0%
+"Austin-Round Rock-Georgetown, TX ",large,Construction,7.0,"75,103","59,736","490,000","1,599",1.1%,1.8%,28.0%
+"Austin-Round Rock-Georgetown, TX ",large,Manufacturing,5.0,"75,103","59,736","490,000","1,599",1.1%,1.8%,28.0%
+"Austin-Round Rock-Georgetown, TX ",large,Wholesale trade,12.0,"75,103","59,736","490,000","1,599",1.1%,1.8%,28.0%
+"Austin-Round Rock-Georgetown, TX ",large,Retail trade,3.0,"75,103","59,736","490,000","1,599",1.1%,1.8%,28.0%
+"Austin-Round Rock-Georgetown, TX ",large,"Transportation and warehousing, and utilities",10.0,"75,103","59,736","490,000","1,599",1.1%,1.8%,28.0%
+"Austin-Round Rock-Georgetown, TX ",large,Information,11.0,"75,103","59,736","490,000","1,599",1.1%,1.8%,28.0%
+"Austin-Round Rock-Georgetown, TX ",large,"Finance and insurance, and real estate and rental and leasing",6.0,"75,103","59,736","490,000","1,599",1.1%,1.8%,28.0%
+"Austin-Round Rock-Georgetown, TX ",large,"Professional, scientific, and management, and administrative and waste management services",1.0,"75,103","59,736","490,000","1,599",1.1%,1.8%,28.0%
+"Austin-Round Rock-Georgetown, TX ",large,"Educational services, and health care and social assistance",2.0,"75,103","59,736","490,000","1,599",1.1%,1.8%,28.0%
+"Austin-Round Rock-Georgetown, TX ",large,"Arts, entertainment, and recreation, and accommodation and food services",4.0,"75,103","59,736","490,000","1,599",1.1%,1.8%,28.0%
+"Austin-Round Rock-Georgetown, TX ",large,Other services (except public administration),9.0,"75,103","59,736","490,000","1,599",1.1%,1.8%,28.0%
+"Austin-Round Rock-Georgetown, TX ",large,Public administration,8.0,"75,103","59,736","490,000","1,599",1.1%,1.8%,28.0%
+"Bakersfield, CA ",medium,"Agriculture, forestry, fishing and hunting, and mining",2.0,"54,180","41,247","330,000","1,208",0.3%,1.0%,6.9%
+"Bakersfield, CA ",medium,Construction,6.0,"54,180","41,247","330,000","1,208",0.3%,1.0%,6.9%
+"Bakersfield, CA ",medium,Manufacturing,9.0,"54,180","41,247","330,000","1,208",0.3%,1.0%,6.9%
+"Bakersfield, CA ",medium,Wholesale trade,12.0,"54,180","41,247","330,000","1,208",0.3%,1.0%,6.9%
+"Bakersfield, CA ",medium,Retail trade,3.0,"54,180","41,247","330,000","1,208",0.3%,1.0%,6.9%
+"Bakersfield, CA ",medium,"Transportation and warehousing, and utilities",7.0,"54,180","41,247","330,000","1,208",0.3%,1.0%,6.9%
+"Bakersfield, CA ",medium,Information,13.0,"54,180","41,247","330,000","1,208",0.3%,1.0%,6.9%
+"Bakersfield, CA ",medium,"Finance and insurance, and real estate and rental and leasing",11.0,"54,180","41,247","330,000","1,208",0.3%,1.0%,6.9%
+"Bakersfield, CA ",medium,"Professional, scientific, and management, and administrative and waste management services",4.0,"54,180","41,247","330,000","1,208",0.3%,1.0%,6.9%
+"Bakersfield, CA ",medium,"Educational services, and health care and social assistance",1.0,"54,180","41,247","330,000","1,208",0.3%,1.0%,6.9%
+"Bakersfield, CA ",medium,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"54,180","41,247","330,000","1,208",0.3%,1.0%,6.9%
+"Bakersfield, CA ",medium,Other services (except public administration),10.0,"54,180","41,247","330,000","1,208",0.3%,1.0%,6.9%
+"Bakersfield, CA ",medium,Public administration,8.0,"54,180","41,247","330,000","1,208",0.3%,1.0%,6.9%
+"Baltimore-Columbia-Towson, MD ",xlarge,"Agriculture, forestry, fishing and hunting, and mining",13.0,"75,773","62,021","371,200","1,461",3.2%,1.9%,18.1%
+"Baltimore-Columbia-Towson, MD ",xlarge,Construction,7.0,"75,773","62,021","371,200","1,461",3.2%,1.9%,18.1%
+"Baltimore-Columbia-Towson, MD ",xlarge,Manufacturing,9.0,"75,773","62,021","371,200","1,461",3.2%,1.9%,18.1%
+"Baltimore-Columbia-Towson, MD ",xlarge,Wholesale trade,11.0,"75,773","62,021","371,200","1,461",3.2%,1.9%,18.1%
+"Baltimore-Columbia-Towson, MD ",xlarge,Retail trade,4.0,"75,773","62,021","371,200","1,461",3.2%,1.9%,18.1%
+"Baltimore-Columbia-Towson, MD ",xlarge,"Transportation and warehousing, and utilities",8.0,"75,773","62,021","371,200","1,461",3.2%,1.9%,18.1%
+"Baltimore-Columbia-Towson, MD ",xlarge,Information,11.0,"75,773","62,021","371,200","1,461",3.2%,1.9%,18.1%
+"Baltimore-Columbia-Towson, MD ",xlarge,"Finance and insurance, and real estate and rental and leasing",6.0,"75,773","62,021","371,200","1,461",3.2%,1.9%,18.1%
+"Baltimore-Columbia-Towson, MD ",xlarge,"Professional, scientific, and management, and administrative and waste management services",2.0,"75,773","62,021","371,200","1,461",3.2%,1.9%,18.1%
+"Baltimore-Columbia-Towson, MD ",xlarge,"Educational services, and health care and social assistance",1.0,"75,773","62,021","371,200","1,461",3.2%,1.9%,18.1%
+"Baltimore-Columbia-Towson, MD ",xlarge,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"75,773","62,021","371,200","1,461",3.2%,1.9%,18.1%
+"Baltimore-Columbia-Towson, MD ",xlarge,Other services (except public administration),10.0,"75,773","62,021","371,200","1,461",3.2%,1.9%,18.1%
+"Baltimore-Columbia-Towson, MD ",xlarge,Public administration,3.0,"75,773","62,021","371,200","1,461",3.2%,1.9%,18.1%
+"Baton Rouge, LA ",medium,"Agriculture, forestry, fishing and hunting, and mining",13.0,"61,912","44,301","234,000","1,079",0.6%,2.3%,7.5%
+"Baton Rouge, LA ",medium,Construction,6.0,"61,912","44,301","234,000","1,079",0.6%,2.3%,7.5%
+"Baton Rouge, LA ",medium,Manufacturing,5.0,"61,912","44,301","234,000","1,079",0.6%,2.3%,7.5%
+"Baton Rouge, LA ",medium,Wholesale trade,12.0,"61,912","44,301","234,000","1,079",0.6%,2.3%,7.5%
+"Baton Rouge, LA ",medium,Retail trade,4.0,"61,912","44,301","234,000","1,079",0.6%,2.3%,7.5%
+"Baton Rouge, LA ",medium,"Transportation and warehousing, and utilities",10.0,"61,912","44,301","234,000","1,079",0.6%,2.3%,7.5%
+"Baton Rouge, LA ",medium,Information,11.0,"61,912","44,301","234,000","1,079",0.6%,2.3%,7.5%
+"Baton Rouge, LA ",medium,"Finance and insurance, and real estate and rental and leasing",8.0,"61,912","44,301","234,000","1,079",0.6%,2.3%,7.5%
+"Baton Rouge, LA ",medium,"Professional, scientific, and management, and administrative and waste management services",3.0,"61,912","44,301","234,000","1,079",0.6%,2.3%,7.5%
+"Baton Rouge, LA ",medium,"Educational services, and health care and social assistance",1.0,"61,912","44,301","234,000","1,079",0.6%,2.3%,7.5%
+"Baton Rouge, LA ",medium,"Arts, entertainment, and recreation, and accommodation and food services",2.0,"61,912","44,301","234,000","1,079",0.6%,2.3%,7.5%
+"Baton Rouge, LA ",medium,Other services (except public administration),9.0,"61,912","44,301","234,000","1,079",0.6%,2.3%,7.5%
+"Baton Rouge, LA ",medium,Public administration,7.0,"61,912","44,301","234,000","1,079",0.6%,2.3%,7.5%
+"Birmingham-Hoover, AL ",medium,"Agriculture, forestry, fishing and hunting, and mining",13.0,"62,011","47,261","247,500","1,082",0.5%,1.0%,11.8%
+"Birmingham-Hoover, AL ",medium,Construction,7.0,"62,011","47,261","247,500","1,082",0.5%,1.0%,11.8%
+"Birmingham-Hoover, AL ",medium,Manufacturing,4.0,"62,011","47,261","247,500","1,082",0.5%,1.0%,11.8%
+"Birmingham-Hoover, AL ",medium,Wholesale trade,11.0,"62,011","47,261","247,500","1,082",0.5%,1.0%,11.8%
+"Birmingham-Hoover, AL ",medium,Retail trade,2.0,"62,011","47,261","247,500","1,082",0.5%,1.0%,11.8%
+"Birmingham-Hoover, AL ",medium,"Transportation and warehousing, and utilities",8.0,"62,011","47,261","247,500","1,082",0.5%,1.0%,11.8%
+"Birmingham-Hoover, AL ",medium,Information,12.0,"62,011","47,261","247,500","1,082",0.5%,1.0%,11.8%
+"Birmingham-Hoover, AL ",medium,"Finance and insurance, and real estate and rental and leasing",5.0,"62,011","47,261","247,500","1,082",0.5%,1.0%,11.8%
+"Birmingham-Hoover, AL ",medium,"Professional, scientific, and management, and administrative and waste management services",3.0,"62,011","47,261","247,500","1,082",0.5%,1.0%,11.8%
+"Birmingham-Hoover, AL ",medium,"Educational services, and health care and social assistance",1.0,"62,011","47,261","247,500","1,082",0.5%,1.0%,11.8%
+"Birmingham-Hoover, AL ",medium,"Arts, entertainment, and recreation, and accommodation and food services",6.0,"62,011","47,261","247,500","1,082",0.5%,1.0%,11.8%
+"Birmingham-Hoover, AL ",medium,Other services (except public administration),9.0,"62,011","47,261","247,500","1,082",0.5%,1.0%,11.8%
+"Birmingham-Hoover, AL ",medium,Public administration,10.0,"62,011","47,261","247,500","1,082",0.5%,1.0%,11.8%
+"Boise City, ID ",small,"Agriculture, forestry, fishing and hunting, and mining",13.0,"59,685","46,589","486,500","1,421",0.5%,1.9%,17.0%
+"Boise City, ID ",small,Construction,4.0,"59,685","46,589","486,500","1,421",0.5%,1.9%,17.0%
+"Boise City, ID ",small,Manufacturing,5.0,"59,685","46,589","486,500","1,421",0.5%,1.9%,17.0%
+"Boise City, ID ",small,Wholesale trade,11.0,"59,685","46,589","486,500","1,421",0.5%,1.9%,17.0%
+"Boise City, ID ",small,Retail trade,3.0,"59,685","46,589","486,500","1,421",0.5%,1.9%,17.0%
+"Boise City, ID ",small,"Transportation and warehousing, and utilities",9.0,"59,685","46,589","486,500","1,421",0.5%,1.9%,17.0%
+"Boise City, ID ",small,Information,12.0,"59,685","46,589","486,500","1,421",0.5%,1.9%,17.0%
+"Boise City, ID ",small,"Finance and insurance, and real estate and rental and leasing",7.0,"59,685","46,589","486,500","1,421",0.5%,1.9%,17.0%
+"Boise City, ID ",small,"Professional, scientific, and management, and administrative and waste management services",2.0,"59,685","46,589","486,500","1,421",0.5%,1.9%,17.0%
+"Boise City, ID ",small,"Educational services, and health care and social assistance",1.0,"59,685","46,589","486,500","1,421",0.5%,1.9%,17.0%
+"Boise City, ID ",small,"Arts, entertainment, and recreation, and accommodation and food services",6.0,"59,685","46,589","486,500","1,421",0.5%,1.9%,17.0%
+"Boise City, ID ",small,Other services (except public administration),10.0,"59,685","46,589","486,500","1,421",0.5%,1.9%,17.0%
+"Boise City, ID ",small,Public administration,8.0,"59,685","46,589","486,500","1,421",0.5%,1.9%,17.0%
+"Boston-Cambridge-Newton, MA-NH ",xlarge,"Agriculture, forestry, fishing and hunting, and mining",13.0,"85,547","72,017","618,100","1,859",8.0%,4.5%,20.8%
+"Boston-Cambridge-Newton, MA-NH ",xlarge,Construction,7.0,"85,547","72,017","618,100","1,859",8.0%,4.5%,20.8%
+"Boston-Cambridge-Newton, MA-NH ",xlarge,Manufacturing,4.0,"85,547","72,017","618,100","1,859",8.0%,4.5%,20.8%
+"Boston-Cambridge-Newton, MA-NH ",xlarge,Wholesale trade,12.0,"85,547","72,017","618,100","1,859",8.0%,4.5%,20.8%
+"Boston-Cambridge-Newton, MA-NH ",xlarge,Retail trade,3.0,"85,547","72,017","618,100","1,859",8.0%,4.5%,20.8%
+"Boston-Cambridge-Newton, MA-NH ",xlarge,"Transportation and warehousing, and utilities",9.0,"85,547","72,017","618,100","1,859",8.0%,4.5%,20.8%
+"Boston-Cambridge-Newton, MA-NH ",xlarge,Information,11.0,"85,547","72,017","618,100","1,859",8.0%,4.5%,20.8%
+"Boston-Cambridge-Newton, MA-NH ",xlarge,"Finance and insurance, and real estate and rental and leasing",5.0,"85,547","72,017","618,100","1,859",8.0%,4.5%,20.8%
+"Boston-Cambridge-Newton, MA-NH ",xlarge,"Professional, scientific, and management, and administrative and waste management services",2.0,"85,547","72,017","618,100","1,859",8.0%,4.5%,20.8%
+"Boston-Cambridge-Newton, MA-NH ",xlarge,"Educational services, and health care and social assistance",1.0,"85,547","72,017","618,100","1,859",8.0%,4.5%,20.8%
+"Boston-Cambridge-Newton, MA-NH ",xlarge,"Arts, entertainment, and recreation, and accommodation and food services",6.0,"85,547","72,017","618,100","1,859",8.0%,4.5%,20.8%
+"Boston-Cambridge-Newton, MA-NH ",xlarge,Other services (except public administration),8.0,"85,547","72,017","618,100","1,859",8.0%,4.5%,20.8%
+"Boston-Cambridge-Newton, MA-NH ",xlarge,Public administration,10.0,"85,547","72,017","618,100","1,859",8.0%,4.5%,20.8%
+"Bridgeport-Stamford-Norwalk, CT ",medium,"Agriculture, forestry, fishing and hunting, and mining",13.0,"83,600","70,365","536,600","1,776",6.0%,2.8%,19.3%
+"Bridgeport-Stamford-Norwalk, CT ",medium,Construction,7.0,"83,600","70,365","536,600","1,776",6.0%,2.8%,19.3%
+"Bridgeport-Stamford-Norwalk, CT ",medium,Manufacturing,5.0,"83,600","70,365","536,600","1,776",6.0%,2.8%,19.3%
+"Bridgeport-Stamford-Norwalk, CT ",medium,Wholesale trade,12.0,"83,600","70,365","536,600","1,776",6.0%,2.8%,19.3%
+"Bridgeport-Stamford-Norwalk, CT ",medium,Retail trade,4.0,"83,600","70,365","536,600","1,776",6.0%,2.8%,19.3%
+"Bridgeport-Stamford-Norwalk, CT ",medium,"Transportation and warehousing, and utilities",9.0,"83,600","70,365","536,600","1,776",6.0%,2.8%,19.3%
+"Bridgeport-Stamford-Norwalk, CT ",medium,Information,10.0,"83,600","70,365","536,600","1,776",6.0%,2.8%,19.3%
+"Bridgeport-Stamford-Norwalk, CT ",medium,"Finance and insurance, and real estate and rental and leasing",3.0,"83,600","70,365","536,600","1,776",6.0%,2.8%,19.3%
+"Bridgeport-Stamford-Norwalk, CT ",medium,"Professional, scientific, and management, and administrative and waste management services",2.0,"83,600","70,365","536,600","1,776",6.0%,2.8%,19.3%
+"Bridgeport-Stamford-Norwalk, CT ",medium,"Educational services, and health care and social assistance",1.0,"83,600","70,365","536,600","1,776",6.0%,2.8%,19.3%
+"Bridgeport-Stamford-Norwalk, CT ",medium,"Arts, entertainment, and recreation, and accommodation and food services",6.0,"83,600","70,365","536,600","1,776",6.0%,2.8%,19.3%
+"Bridgeport-Stamford-Norwalk, CT ",medium,Other services (except public administration),8.0,"83,600","70,365","536,600","1,776",6.0%,2.8%,19.3%
+"Bridgeport-Stamford-Norwalk, CT ",medium,Public administration,11.0,"83,600","70,365","536,600","1,776",6.0%,2.8%,19.3%
+"Buffalo-Cheektowaga, NY ",medium,"Agriculture, forestry, fishing and hunting, and mining",13.0,"62,529","53,172","219,300",980,2.6%,2.7%,12.8%
+"Buffalo-Cheektowaga, NY ",medium,Construction,7.0,"62,529","53,172","219,300",980,2.6%,2.7%,12.8%
+"Buffalo-Cheektowaga, NY ",medium,Manufacturing,3.0,"62,529","53,172","219,300",980,2.6%,2.7%,12.8%
+"Buffalo-Cheektowaga, NY ",medium,Wholesale trade,11.0,"62,529","53,172","219,300",980,2.6%,2.7%,12.8%
+"Buffalo-Cheektowaga, NY ",medium,Retail trade,2.0,"62,529","53,172","219,300",980,2.6%,2.7%,12.8%
+"Buffalo-Cheektowaga, NY ",medium,"Transportation and warehousing, and utilities",8.0,"62,529","53,172","219,300",980,2.6%,2.7%,12.8%
+"Buffalo-Cheektowaga, NY ",medium,Information,12.0,"62,529","53,172","219,300",980,2.6%,2.7%,12.8%
+"Buffalo-Cheektowaga, NY ",medium,"Finance and insurance, and real estate and rental and leasing",6.0,"62,529","53,172","219,300",980,2.6%,2.7%,12.8%
+"Buffalo-Cheektowaga, NY ",medium,"Professional, scientific, and management, and administrative and waste management services",4.0,"62,529","53,172","219,300",980,2.6%,2.7%,12.8%
+"Buffalo-Cheektowaga, NY ",medium,"Educational services, and health care and social assistance",1.0,"62,529","53,172","219,300",980,2.6%,2.7%,12.8%
+"Buffalo-Cheektowaga, NY ",medium,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"62,529","53,172","219,300",980,2.6%,2.7%,12.8%
+"Buffalo-Cheektowaga, NY ",medium,Other services (except public administration),10.0,"62,529","53,172","219,300",980,2.6%,2.7%,12.8%
+"Buffalo-Cheektowaga, NY ",medium,Public administration,9.0,"62,529","53,172","219,300",980,2.6%,2.7%,12.8%
+"Cape Coral-Fort Myers, FL ",small,"Agriculture, forestry, fishing and hunting, and mining",13.0,"51,590","44,223","361,400","1,620",0.6%,1.1%,15.2%
+"Cape Coral-Fort Myers, FL ",small,Construction,4.0,"51,590","44,223","361,400","1,620",0.6%,1.1%,15.2%
+"Cape Coral-Fort Myers, FL ",small,Manufacturing,9.0,"51,590","44,223","361,400","1,620",0.6%,1.1%,15.2%
+"Cape Coral-Fort Myers, FL ",small,Wholesale trade,11.0,"51,590","44,223","361,400","1,620",0.6%,1.1%,15.2%
+"Cape Coral-Fort Myers, FL ",small,Retail trade,3.0,"51,590","44,223","361,400","1,620",0.6%,1.1%,15.2%
+"Cape Coral-Fort Myers, FL ",small,"Transportation and warehousing, and utilities",8.0,"51,590","44,223","361,400","1,620",0.6%,1.1%,15.2%
+"Cape Coral-Fort Myers, FL ",small,Information,12.0,"51,590","44,223","361,400","1,620",0.6%,1.1%,15.2%
+"Cape Coral-Fort Myers, FL ",small,"Finance and insurance, and real estate and rental and leasing",6.0,"51,590","44,223","361,400","1,620",0.6%,1.1%,15.2%
+"Cape Coral-Fort Myers, FL ",small,"Professional, scientific, and management, and administrative and waste management services",2.0,"51,590","44,223","361,400","1,620",0.6%,1.1%,15.2%
+"Cape Coral-Fort Myers, FL ",small,"Educational services, and health care and social assistance",1.0,"51,590","44,223","361,400","1,620",0.6%,1.1%,15.2%
+"Cape Coral-Fort Myers, FL ",small,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"51,590","44,223","361,400","1,620",0.6%,1.1%,15.2%
+"Cape Coral-Fort Myers, FL ",small,Other services (except public administration),7.0,"51,590","44,223","361,400","1,620",0.6%,1.1%,15.2%
+"Cape Coral-Fort Myers, FL ",small,Public administration,10.0,"51,590","44,223","361,400","1,620",0.6%,1.1%,15.2%
+"Charleston-North Charleston, SC ",small,"Agriculture, forestry, fishing and hunting, and mining",13.0,"63,801","48,376","363,000","1,447",0.6%,2.4%,14.5%
+"Charleston-North Charleston, SC ",small,Construction,6.0,"63,801","48,376","363,000","1,447",0.6%,2.4%,14.5%
+"Charleston-North Charleston, SC ",small,Manufacturing,5.0,"63,801","48,376","363,000","1,447",0.6%,2.4%,14.5%
+"Charleston-North Charleston, SC ",small,Wholesale trade,11.0,"63,801","48,376","363,000","1,447",0.6%,2.4%,14.5%
+"Charleston-North Charleston, SC ",small,Retail trade,4.0,"63,801","48,376","363,000","1,447",0.6%,2.4%,14.5%
+"Charleston-North Charleston, SC ",small,"Transportation and warehousing, and utilities",8.0,"63,801","48,376","363,000","1,447",0.6%,2.4%,14.5%
+"Charleston-North Charleston, SC ",small,Information,11.0,"63,801","48,376","363,000","1,447",0.6%,2.4%,14.5%
+"Charleston-North Charleston, SC ",small,"Finance and insurance, and real estate and rental and leasing",7.0,"63,801","48,376","363,000","1,447",0.6%,2.4%,14.5%
+"Charleston-North Charleston, SC ",small,"Professional, scientific, and management, and administrative and waste management services",2.0,"63,801","48,376","363,000","1,447",0.6%,2.4%,14.5%
+"Charleston-North Charleston, SC ",small,"Educational services, and health care and social assistance",1.0,"63,801","48,376","363,000","1,447",0.6%,2.4%,14.5%
+"Charleston-North Charleston, SC ",small,"Arts, entertainment, and recreation, and accommodation and food services",3.0,"63,801","48,376","363,000","1,447",0.6%,2.4%,14.5%
+"Charleston-North Charleston, SC ",small,Other services (except public administration),10.0,"63,801","48,376","363,000","1,447",0.6%,2.4%,14.5%
+"Charleston-North Charleston, SC ",small,Public administration,9.0,"63,801","48,376","363,000","1,447",0.6%,2.4%,14.5%
+"Charlotte-Concord-Gastonia, NC-SC ",xlarge,"Agriculture, forestry, fishing and hunting, and mining",13.0,"62,088","50,372","352,000","1,355",0.8%,1.2%,22.3%
+"Charlotte-Concord-Gastonia, NC-SC ",xlarge,Construction,6.0,"62,088","50,372","352,000","1,355",0.8%,1.2%,22.3%
+"Charlotte-Concord-Gastonia, NC-SC ",xlarge,Manufacturing,4.0,"62,088","50,372","352,000","1,355",0.8%,1.2%,22.3%
+"Charlotte-Concord-Gastonia, NC-SC ",xlarge,Wholesale trade,11.0,"62,088","50,372","352,000","1,355",0.8%,1.2%,22.3%
+"Charlotte-Concord-Gastonia, NC-SC ",xlarge,Retail trade,5.0,"62,088","50,372","352,000","1,355",0.8%,1.2%,22.3%
+"Charlotte-Concord-Gastonia, NC-SC ",xlarge,"Transportation and warehousing, and utilities",8.0,"62,088","50,372","352,000","1,355",0.8%,1.2%,22.3%
+"Charlotte-Concord-Gastonia, NC-SC ",xlarge,Information,12.0,"62,088","50,372","352,000","1,355",0.8%,1.2%,22.3%
+"Charlotte-Concord-Gastonia, NC-SC ",xlarge,"Finance and insurance, and real estate and rental and leasing",3.0,"62,088","50,372","352,000","1,355",0.8%,1.2%,22.3%
+"Charlotte-Concord-Gastonia, NC-SC ",xlarge,"Professional, scientific, and management, and administrative and waste management services",2.0,"62,088","50,372","352,000","1,355",0.8%,1.2%,22.3%
+"Charlotte-Concord-Gastonia, NC-SC ",xlarge,"Educational services, and health care and social assistance",1.0,"62,088","50,372","352,000","1,355",0.8%,1.2%,22.3%
+"Charlotte-Concord-Gastonia, NC-SC ",xlarge,"Arts, entertainment, and recreation, and accommodation and food services",7.0,"62,088","50,372","352,000","1,355",0.8%,1.2%,22.3%
+"Charlotte-Concord-Gastonia, NC-SC ",xlarge,Other services (except public administration),9.0,"62,088","50,372","352,000","1,355",0.8%,1.2%,22.3%
+"Charlotte-Concord-Gastonia, NC-SC ",xlarge,Public administration,10.0,"62,088","50,372","352,000","1,355",0.8%,1.2%,22.3%
+"Chattanooga, TN-GA ",xsmall,"Agriculture, forestry, fishing and hunting, and mining",12.0,"55,641","46,023","265,800","1,090",0.4%,1.2%,14.3%
+"Chattanooga, TN-GA ",xsmall,Construction,8.0,"55,641","46,023","265,800","1,090",0.4%,1.2%,14.3%
+"Chattanooga, TN-GA ",xsmall,Manufacturing,2.0,"55,641","46,023","265,800","1,090",0.4%,1.2%,14.3%
+"Chattanooga, TN-GA ",xsmall,Wholesale trade,11.0,"55,641","46,023","265,800","1,090",0.4%,1.2%,14.3%
+"Chattanooga, TN-GA ",xsmall,Retail trade,3.0,"55,641","46,023","265,800","1,090",0.4%,1.2%,14.3%
+"Chattanooga, TN-GA ",xsmall,"Transportation and warehousing, and utilities",7.0,"55,641","46,023","265,800","1,090",0.4%,1.2%,14.3%
+"Chattanooga, TN-GA ",xsmall,Information,12.0,"55,641","46,023","265,800","1,090",0.4%,1.2%,14.3%
+"Chattanooga, TN-GA ",xsmall,"Finance and insurance, and real estate and rental and leasing",6.0,"55,641","46,023","265,800","1,090",0.4%,1.2%,14.3%
+"Chattanooga, TN-GA ",xsmall,"Professional, scientific, and management, and administrative and waste management services",4.0,"55,641","46,023","265,800","1,090",0.4%,1.2%,14.3%
+"Chattanooga, TN-GA ",xsmall,"Educational services, and health care and social assistance",1.0,"55,641","46,023","265,800","1,090",0.4%,1.2%,14.3%
+"Chattanooga, TN-GA ",xsmall,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"55,641","46,023","265,800","1,090",0.4%,1.2%,14.3%
+"Chattanooga, TN-GA ",xsmall,Other services (except public administration),9.0,"55,641","46,023","265,800","1,090",0.4%,1.2%,14.3%
+"Chattanooga, TN-GA ",xsmall,Public administration,10.0,"55,641","46,023","265,800","1,090",0.4%,1.2%,14.3%
+"Chicago-Naperville-Elgin, IL-IN-WI ",xlarge,"Agriculture, forestry, fishing and hunting, and mining",13.0,"69,951","56,562","301,300","1,294",7.0%,2.6%,17.4%
+"Chicago-Naperville-Elgin, IL-IN-WI ",xlarge,Construction,8.0,"69,951","56,562","301,300","1,294",7.0%,2.6%,17.4%
+"Chicago-Naperville-Elgin, IL-IN-WI ",xlarge,Manufacturing,3.0,"69,951","56,562","301,300","1,294",7.0%,2.6%,17.4%
+"Chicago-Naperville-Elgin, IL-IN-WI ",xlarge,Wholesale trade,11.0,"69,951","56,562","301,300","1,294",7.0%,2.6%,17.4%
+"Chicago-Naperville-Elgin, IL-IN-WI ",xlarge,Retail trade,4.0,"69,951","56,562","301,300","1,294",7.0%,2.6%,17.4%
+"Chicago-Naperville-Elgin, IL-IN-WI ",xlarge,"Transportation and warehousing, and utilities",7.0,"69,951","56,562","301,300","1,294",7.0%,2.6%,17.4%
+"Chicago-Naperville-Elgin, IL-IN-WI ",xlarge,Information,12.0,"69,951","56,562","301,300","1,294",7.0%,2.6%,17.4%
+"Chicago-Naperville-Elgin, IL-IN-WI ",xlarge,"Finance and insurance, and real estate and rental and leasing",5.0,"69,951","56,562","301,300","1,294",7.0%,2.6%,17.4%
+"Chicago-Naperville-Elgin, IL-IN-WI ",xlarge,"Professional, scientific, and management, and administrative and waste management services",2.0,"69,951","56,562","301,300","1,294",7.0%,2.6%,17.4%
+"Chicago-Naperville-Elgin, IL-IN-WI ",xlarge,"Educational services, and health care and social assistance",1.0,"69,951","56,562","301,300","1,294",7.0%,2.6%,17.4%
+"Chicago-Naperville-Elgin, IL-IN-WI ",xlarge,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"69,951","56,562","301,300","1,294",7.0%,2.6%,17.4%
+"Chicago-Naperville-Elgin, IL-IN-WI ",xlarge,Other services (except public administration),9.0,"69,951","56,562","301,300","1,294",7.0%,2.6%,17.4%
+"Chicago-Naperville-Elgin, IL-IN-WI ",xlarge,Public administration,10.0,"69,951","56,562","301,300","1,294",7.0%,2.6%,17.4%
+"Cincinnati, OH-KY-IN ",large,"Agriculture, forestry, fishing and hunting, and mining",13.0,"65,398","51,522","248,700",996,1.3%,1.8%,15.1%
+"Cincinnati, OH-KY-IN ",large,Construction,8.0,"65,398","51,522","248,700",996,1.3%,1.8%,15.1%
+"Cincinnati, OH-KY-IN ",large,Manufacturing,2.0,"65,398","51,522","248,700",996,1.3%,1.8%,15.1%
+"Cincinnati, OH-KY-IN ",large,Wholesale trade,11.0,"65,398","51,522","248,700",996,1.3%,1.8%,15.1%
+"Cincinnati, OH-KY-IN ",large,Retail trade,4.0,"65,398","51,522","248,700",996,1.3%,1.8%,15.1%
+"Cincinnati, OH-KY-IN ",large,"Transportation and warehousing, and utilities",7.0,"65,398","51,522","248,700",996,1.3%,1.8%,15.1%
+"Cincinnati, OH-KY-IN ",large,Information,12.0,"65,398","51,522","248,700",996,1.3%,1.8%,15.1%
+"Cincinnati, OH-KY-IN ",large,"Finance and insurance, and real estate and rental and leasing",6.0,"65,398","51,522","248,700",996,1.3%,1.8%,15.1%
+"Cincinnati, OH-KY-IN ",large,"Professional, scientific, and management, and administrative and waste management services",3.0,"65,398","51,522","248,700",996,1.3%,1.8%,15.1%
+"Cincinnati, OH-KY-IN ",large,"Educational services, and health care and social assistance",1.0,"65,398","51,522","248,700",996,1.3%,1.8%,15.1%
+"Cincinnati, OH-KY-IN ",large,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"65,398","51,522","248,700",996,1.3%,1.8%,15.1%
+"Cincinnati, OH-KY-IN ",large,Other services (except public administration),9.0,"65,398","51,522","248,700",996,1.3%,1.8%,15.1%
+"Cincinnati, OH-KY-IN ",large,Public administration,10.0,"65,398","51,522","248,700",996,1.3%,1.8%,15.1%
+"Cleveland-Elyria, OH ",large,"Agriculture, forestry, fishing and hunting, and mining",13.0,"62,785","51,858","209,000",970,1.7%,2.3%,15.5%
+"Cleveland-Elyria, OH ",large,Construction,7.0,"62,785","51,858","209,000",970,1.7%,2.3%,15.5%
+"Cleveland-Elyria, OH ",large,Manufacturing,2.0,"62,785","51,858","209,000",970,1.7%,2.3%,15.5%
+"Cleveland-Elyria, OH ",large,Wholesale trade,11.0,"62,785","51,858","209,000",970,1.7%,2.3%,15.5%
+"Cleveland-Elyria, OH ",large,Retail trade,4.0,"62,785","51,858","209,000",970,1.7%,2.3%,15.5%
+"Cleveland-Elyria, OH ",large,"Transportation and warehousing, and utilities",8.0,"62,785","51,858","209,000",970,1.7%,2.3%,15.5%
+"Cleveland-Elyria, OH ",large,Information,12.0,"62,785","51,858","209,000",970,1.7%,2.3%,15.5%
+"Cleveland-Elyria, OH ",large,"Finance and insurance, and real estate and rental and leasing",6.0,"62,785","51,858","209,000",970,1.7%,2.3%,15.5%
+"Cleveland-Elyria, OH ",large,"Professional, scientific, and management, and administrative and waste management services",3.0,"62,785","51,858","209,000",970,1.7%,2.3%,15.5%
+"Cleveland-Elyria, OH ",large,"Educational services, and health care and social assistance",1.0,"62,785","51,858","209,000",970,1.7%,2.3%,15.5%
+"Cleveland-Elyria, OH ",large,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"62,785","51,858","209,000",970,1.7%,2.3%,15.5%
+"Cleveland-Elyria, OH ",large,Other services (except public administration),9.0,"62,785","51,858","209,000",970,1.7%,2.3%,15.5%
+"Cleveland-Elyria, OH ",large,Public administration,10.0,"62,785","51,858","209,000",970,1.7%,2.3%,15.5%
+"Colorado Springs, CO ",small,"Agriculture, forestry, fishing and hunting, and mining",13.0,"61,581","50,583","465,800","1,575",0.3%,3.8%,17.6%
+"Colorado Springs, CO ",small,Construction,5.0,"61,581","50,583","465,800","1,575",0.3%,3.8%,17.6%
+"Colorado Springs, CO ",small,Manufacturing,7.0,"61,581","50,583","465,800","1,575",0.3%,3.8%,17.6%
+"Colorado Springs, CO ",small,Wholesale trade,12.0,"61,581","50,583","465,800","1,575",0.3%,3.8%,17.6%
+"Colorado Springs, CO ",small,Retail trade,3.0,"61,581","50,583","465,800","1,575",0.3%,3.8%,17.6%
+"Colorado Springs, CO ",small,"Transportation and warehousing, and utilities",8.0,"61,581","50,583","465,800","1,575",0.3%,3.8%,17.6%
+"Colorado Springs, CO ",small,Information,11.0,"61,581","50,583","465,800","1,575",0.3%,3.8%,17.6%
+"Colorado Springs, CO ",small,"Finance and insurance, and real estate and rental and leasing",6.0,"61,581","50,583","465,800","1,575",0.3%,3.8%,17.6%
+"Colorado Springs, CO ",small,"Professional, scientific, and management, and administrative and waste management services",2.0,"61,581","50,583","465,800","1,575",0.3%,3.8%,17.6%
+"Colorado Springs, CO ",small,"Educational services, and health care and social assistance",1.0,"61,581","50,583","465,800","1,575",0.3%,3.8%,17.6%
+"Colorado Springs, CO ",small,"Arts, entertainment, and recreation, and accommodation and food services",4.0,"61,581","50,583","465,800","1,575",0.3%,3.8%,17.6%
+"Colorado Springs, CO ",small,Other services (except public administration),10.0,"61,581","50,583","465,800","1,575",0.3%,3.8%,17.6%
+"Colorado Springs, CO ",small,Public administration,8.0,"61,581","50,583","465,800","1,575",0.3%,3.8%,17.6%
+"Columbia, SC ",small,"Agriculture, forestry, fishing and hunting, and mining",13.0,"52,481","45,647","218,300","1,115",0.6%,2.1%,11.6%
+"Columbia, SC ",small,Construction,9.0,"52,481","45,647","218,300","1,115",0.6%,2.1%,11.6%
+"Columbia, SC ",small,Manufacturing,4.0,"52,481","45,647","218,300","1,115",0.6%,2.1%,11.6%
+"Columbia, SC ",small,Wholesale trade,11.0,"52,481","45,647","218,300","1,115",0.6%,2.1%,11.6%
+"Columbia, SC ",small,Retail trade,3.0,"52,481","45,647","218,300","1,115",0.6%,2.1%,11.6%
+"Columbia, SC ",small,"Transportation and warehousing, and utilities",8.0,"52,481","45,647","218,300","1,115",0.6%,2.1%,11.6%
+"Columbia, SC ",small,Information,12.0,"52,481","45,647","218,300","1,115",0.6%,2.1%,11.6%
+"Columbia, SC ",small,"Finance and insurance, and real estate and rental and leasing",7.0,"52,481","45,647","218,300","1,115",0.6%,2.1%,11.6%
+"Columbia, SC ",small,"Professional, scientific, and management, and administrative and waste management services",2.0,"52,481","45,647","218,300","1,115",0.6%,2.1%,11.6%
+"Columbia, SC ",small,"Educational services, and health care and social assistance",1.0,"52,481","45,647","218,300","1,115",0.6%,2.1%,11.6%
+"Columbia, SC ",small,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"52,481","45,647","218,300","1,115",0.6%,2.1%,11.6%
+"Columbia, SC ",small,Other services (except public administration),9.0,"52,481","45,647","218,300","1,115",0.6%,2.1%,11.6%
+"Columbia, SC ",small,Public administration,6.0,"52,481","45,647","218,300","1,115",0.6%,2.1%,11.6%
+"Columbus, OH ",large,"Agriculture, forestry, fishing and hunting, and mining",13.0,"63,469","55,831","289,200","1,186",1.2%,1.6%,18.4%
+"Columbus, OH ",large,Construction,8.0,"63,469","55,831","289,200","1,186",1.2%,1.6%,18.4%
+"Columbus, OH ",large,Manufacturing,5.0,"63,469","55,831","289,200","1,186",1.2%,1.6%,18.4%
+"Columbus, OH ",large,Wholesale trade,11.0,"63,469","55,831","289,200","1,186",1.2%,1.6%,18.4%
+"Columbus, OH ",large,Retail trade,3.0,"63,469","55,831","289,200","1,186",1.2%,1.6%,18.4%
+"Columbus, OH ",large,"Transportation and warehousing, and utilities",7.0,"63,469","55,831","289,200","1,186",1.2%,1.6%,18.4%
+"Columbus, OH ",large,Information,12.0,"63,469","55,831","289,200","1,186",1.2%,1.6%,18.4%
+"Columbus, OH ",large,"Finance and insurance, and real estate and rental and leasing",4.0,"63,469","55,831","289,200","1,186",1.2%,1.6%,18.4%
+"Columbus, OH ",large,"Professional, scientific, and management, and administrative and waste management services",2.0,"63,469","55,831","289,200","1,186",1.2%,1.6%,18.4%
+"Columbus, OH ",large,"Educational services, and health care and social assistance",1.0,"63,469","55,831","289,200","1,186",1.2%,1.6%,18.4%
+"Columbus, OH ",large,"Arts, entertainment, and recreation, and accommodation and food services",6.0,"63,469","55,831","289,200","1,186",1.2%,1.6%,18.4%
+"Columbus, OH ",large,Other services (except public administration),10.0,"63,469","55,831","289,200","1,186",1.2%,1.6%,18.4%
+"Columbus, OH ",large,Public administration,9.0,"63,469","55,831","289,200","1,186",1.2%,1.6%,18.4%
+"Dallas-Fort Worth-Arlington, TX ",xlarge,"Agriculture, forestry, fishing and hunting, and mining",13.0,"64,163","52,322","349,500","1,467",0.6%,1.3%,18.3%
+"Dallas-Fort Worth-Arlington, TX ",xlarge,Construction,6.0,"64,163","52,322","349,500","1,467",0.6%,1.3%,18.3%
+"Dallas-Fort Worth-Arlington, TX ",xlarge,Manufacturing,5.0,"64,163","52,322","349,500","1,467",0.6%,1.3%,18.3%
+"Dallas-Fort Worth-Arlington, TX ",xlarge,Wholesale trade,11.0,"64,163","52,322","349,500","1,467",0.6%,1.3%,18.3%
+"Dallas-Fort Worth-Arlington, TX ",xlarge,Retail trade,3.0,"64,163","52,322","349,500","1,467",0.6%,1.3%,18.3%
+"Dallas-Fort Worth-Arlington, TX ",xlarge,"Transportation and warehousing, and utilities",8.0,"64,163","52,322","349,500","1,467",0.6%,1.3%,18.3%
+"Dallas-Fort Worth-Arlington, TX ",xlarge,Information,12.0,"64,163","52,322","349,500","1,467",0.6%,1.3%,18.3%
+"Dallas-Fort Worth-Arlington, TX ",xlarge,"Finance and insurance, and real estate and rental and leasing",4.0,"64,163","52,322","349,500","1,467",0.6%,1.3%,18.3%
+"Dallas-Fort Worth-Arlington, TX ",xlarge,"Professional, scientific, and management, and administrative and waste management services",2.0,"64,163","52,322","349,500","1,467",0.6%,1.3%,18.3%
+"Dallas-Fort Worth-Arlington, TX ",xlarge,"Educational services, and health care and social assistance",1.0,"64,163","52,322","349,500","1,467",0.6%,1.3%,18.3%
+"Dallas-Fort Worth-Arlington, TX ",xlarge,"Arts, entertainment, and recreation, and accommodation and food services",7.0,"64,163","52,322","349,500","1,467",0.6%,1.3%,18.3%
+"Dallas-Fort Worth-Arlington, TX ",xlarge,Other services (except public administration),9.0,"64,163","52,322","349,500","1,467",0.6%,1.3%,18.3%
+"Dallas-Fort Worth-Arlington, TX ",xlarge,Public administration,10.0,"64,163","52,322","349,500","1,467",0.6%,1.3%,18.3%
+"Dayton-Kettering, OH ",small,"Agriculture, forestry, fishing and hunting, and mining",13.0,"62,648","50,744","195,400",948,0.9%,2.1%,12.2%
+"Dayton-Kettering, OH ",small,Construction,9.0,"62,648","50,744","195,400",948,0.9%,2.1%,12.2%
+"Dayton-Kettering, OH ",small,Manufacturing,2.0,"62,648","50,744","195,400",948,0.9%,2.1%,12.2%
+"Dayton-Kettering, OH ",small,Wholesale trade,11.0,"62,648","50,744","195,400",948,0.9%,2.1%,12.2%
+"Dayton-Kettering, OH ",small,Retail trade,4.0,"62,648","50,744","195,400",948,0.9%,2.1%,12.2%
+"Dayton-Kettering, OH ",small,"Transportation and warehousing, and utilities",6.0,"62,648","50,744","195,400",948,0.9%,2.1%,12.2%
+"Dayton-Kettering, OH ",small,Information,12.0,"62,648","50,744","195,400",948,0.9%,2.1%,12.2%
+"Dayton-Kettering, OH ",small,"Finance and insurance, and real estate and rental and leasing",8.0,"62,648","50,744","195,400",948,0.9%,2.1%,12.2%
+"Dayton-Kettering, OH ",small,"Professional, scientific, and management, and administrative and waste management services",3.0,"62,648","50,744","195,400",948,0.9%,2.1%,12.2%
+"Dayton-Kettering, OH ",small,"Educational services, and health care and social assistance",1.0,"62,648","50,744","195,400",948,0.9%,2.1%,12.2%
+"Dayton-Kettering, OH ",small,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"62,648","50,744","195,400",948,0.9%,2.1%,12.2%
+"Dayton-Kettering, OH ",small,Other services (except public administration),10.0,"62,648","50,744","195,400",948,0.9%,2.1%,12.2%
+"Dayton-Kettering, OH ",small,Public administration,7.0,"62,648","50,744","195,400",948,0.9%,2.1%,12.2%
+"Deltona-Daytona Beach-Ormond Beach, FL ",small,"Agriculture, forestry, fishing and hunting, and mining",13.0,"52,934","44,625","320,200","1,438",0.6%,1.0%,16.3%
+"Deltona-Daytona Beach-Ormond Beach, FL ",small,Construction,5.0,"52,934","44,625","320,200","1,438",0.6%,1.0%,16.3%
+"Deltona-Daytona Beach-Ormond Beach, FL ",small,Manufacturing,9.0,"52,934","44,625","320,200","1,438",0.6%,1.0%,16.3%
+"Deltona-Daytona Beach-Ormond Beach, FL ",small,Wholesale trade,11.0,"52,934","44,625","320,200","1,438",0.6%,1.0%,16.3%
+"Deltona-Daytona Beach-Ormond Beach, FL ",small,Retail trade,2.0,"52,934","44,625","320,200","1,438",0.6%,1.0%,16.3%
+"Deltona-Daytona Beach-Ormond Beach, FL ",small,"Transportation and warehousing, and utilities",7.0,"52,934","44,625","320,200","1,438",0.6%,1.0%,16.3%
+"Deltona-Daytona Beach-Ormond Beach, FL ",small,Information,12.0,"52,934","44,625","320,200","1,438",0.6%,1.0%,16.3%
+"Deltona-Daytona Beach-Ormond Beach, FL ",small,"Finance and insurance, and real estate and rental and leasing",6.0,"52,934","44,625","320,200","1,438",0.6%,1.0%,16.3%
+"Deltona-Daytona Beach-Ormond Beach, FL ",small,"Professional, scientific, and management, and administrative and waste management services",3.0,"52,934","44,625","320,200","1,438",0.6%,1.0%,16.3%
+"Deltona-Daytona Beach-Ormond Beach, FL ",small,"Educational services, and health care and social assistance",1.0,"52,934","44,625","320,200","1,438",0.6%,1.0%,16.3%
+"Deltona-Daytona Beach-Ormond Beach, FL ",small,"Arts, entertainment, and recreation, and accommodation and food services",4.0,"52,934","44,625","320,200","1,438",0.6%,1.0%,16.3%
+"Deltona-Daytona Beach-Ormond Beach, FL ",small,Other services (except public administration),8.0,"52,934","44,625","320,200","1,438",0.6%,1.0%,16.3%
+"Deltona-Daytona Beach-Ormond Beach, FL ",small,Public administration,10.0,"52,934","44,625","320,200","1,438",0.6%,1.0%,16.3%
+"Denver-Aurora-Lakewood, CO ",xlarge,"Agriculture, forestry, fishing and hunting, and mining",13.0,"76,056","61,970","596,800","1,749",2.2%,1.8%,23.7%
+"Denver-Aurora-Lakewood, CO ",xlarge,Construction,6.0,"76,056","61,970","596,800","1,749",2.2%,1.8%,23.7%
+"Denver-Aurora-Lakewood, CO ",xlarge,Manufacturing,7.0,"76,056","61,970","596,800","1,749",2.2%,1.8%,23.7%
+"Denver-Aurora-Lakewood, CO ",xlarge,Wholesale trade,12.0,"76,056","61,970","596,800","1,749",2.2%,1.8%,23.7%
+"Denver-Aurora-Lakewood, CO ",xlarge,Retail trade,3.0,"76,056","61,970","596,800","1,749",2.2%,1.8%,23.7%
+"Denver-Aurora-Lakewood, CO ",xlarge,"Transportation and warehousing, and utilities",8.0,"76,056","61,970","596,800","1,749",2.2%,1.8%,23.7%
+"Denver-Aurora-Lakewood, CO ",xlarge,Information,11.0,"76,056","61,970","596,800","1,749",2.2%,1.8%,23.7%
+"Denver-Aurora-Lakewood, CO ",xlarge,"Finance and insurance, and real estate and rental and leasing",5.0,"76,056","61,970","596,800","1,749",2.2%,1.8%,23.7%
+"Denver-Aurora-Lakewood, CO ",xlarge,"Professional, scientific, and management, and administrative and waste management services",2.0,"76,056","61,970","596,800","1,749",2.2%,1.8%,23.7%
+"Denver-Aurora-Lakewood, CO ",xlarge,"Educational services, and health care and social assistance",1.0,"76,056","61,970","596,800","1,749",2.2%,1.8%,23.7%
+"Denver-Aurora-Lakewood, CO ",xlarge,"Arts, entertainment, and recreation, and accommodation and food services",4.0,"76,056","61,970","596,800","1,749",2.2%,1.8%,23.7%
+"Denver-Aurora-Lakewood, CO ",xlarge,Other services (except public administration),9.0,"76,056","61,970","596,800","1,749",2.2%,1.8%,23.7%
+"Denver-Aurora-Lakewood, CO ",xlarge,Public administration,10.0,"76,056","61,970","596,800","1,749",2.2%,1.8%,23.7%
+"Des Moines-West Des Moines, IA ",small,"Agriculture, forestry, fishing and hunting, and mining",12.0,"68,242","53,997","258,800","1,057",0.4%,1.6%,15.5%
+"Des Moines-West Des Moines, IA ",small,Construction,6.0,"68,242","53,997","258,800","1,057",0.4%,1.6%,15.5%
+"Des Moines-West Des Moines, IA ",small,Manufacturing,5.0,"68,242","53,997","258,800","1,057",0.4%,1.6%,15.5%
+"Des Moines-West Des Moines, IA ",small,Wholesale trade,11.0,"68,242","53,997","258,800","1,057",0.4%,1.6%,15.5%
+"Des Moines-West Des Moines, IA ",small,Retail trade,4.0,"68,242","53,997","258,800","1,057",0.4%,1.6%,15.5%
+"Des Moines-West Des Moines, IA ",small,"Transportation and warehousing, and utilities",8.0,"68,242","53,997","258,800","1,057",0.4%,1.6%,15.5%
+"Des Moines-West Des Moines, IA ",small,Information,13.0,"68,242","53,997","258,800","1,057",0.4%,1.6%,15.5%
+"Des Moines-West Des Moines, IA ",small,"Finance and insurance, and real estate and rental and leasing",2.0,"68,242","53,997","258,800","1,057",0.4%,1.6%,15.5%
+"Des Moines-West Des Moines, IA ",small,"Professional, scientific, and management, and administrative and waste management services",3.0,"68,242","53,997","258,800","1,057",0.4%,1.6%,15.5%
+"Des Moines-West Des Moines, IA ",small,"Educational services, and health care and social assistance",1.0,"68,242","53,997","258,800","1,057",0.4%,1.6%,15.5%
+"Des Moines-West Des Moines, IA ",small,"Arts, entertainment, and recreation, and accommodation and food services",7.0,"68,242","53,997","258,800","1,057",0.4%,1.6%,15.5%
+"Des Moines-West Des Moines, IA ",small,Other services (except public administration),9.0,"68,242","53,997","258,800","1,057",0.4%,1.6%,15.5%
+"Des Moines-West Des Moines, IA ",small,Public administration,10.0,"68,242","53,997","258,800","1,057",0.4%,1.6%,15.5%
+"Detroit-Warren-Dearborn, MI ",xlarge,"Agriculture, forestry, fishing and hunting, and mining",13.0,"68,101","52,577","245,500","1,121",0.8%,1.4%,16.4%
+"Detroit-Warren-Dearborn, MI ",xlarge,Construction,8.0,"68,101","52,577","245,500","1,121",0.8%,1.4%,16.4%
+"Detroit-Warren-Dearborn, MI ",xlarge,Manufacturing,2.0,"68,101","52,577","245,500","1,121",0.8%,1.4%,16.4%
+"Detroit-Warren-Dearborn, MI ",xlarge,Wholesale trade,11.0,"68,101","52,577","245,500","1,121",0.8%,1.4%,16.4%
+"Detroit-Warren-Dearborn, MI ",xlarge,Retail trade,4.0,"68,101","52,577","245,500","1,121",0.8%,1.4%,16.4%
+"Detroit-Warren-Dearborn, MI ",xlarge,"Transportation and warehousing, and utilities",7.0,"68,101","52,577","245,500","1,121",0.8%,1.4%,16.4%
+"Detroit-Warren-Dearborn, MI ",xlarge,Information,12.0,"68,101","52,577","245,500","1,121",0.8%,1.4%,16.4%
+"Detroit-Warren-Dearborn, MI ",xlarge,"Finance and insurance, and real estate and rental and leasing",6.0,"68,101","52,577","245,500","1,121",0.8%,1.4%,16.4%
+"Detroit-Warren-Dearborn, MI ",xlarge,"Professional, scientific, and management, and administrative and waste management services",3.0,"68,101","52,577","245,500","1,121",0.8%,1.4%,16.4%
+"Detroit-Warren-Dearborn, MI ",xlarge,"Educational services, and health care and social assistance",1.0,"68,101","52,577","245,500","1,121",0.8%,1.4%,16.4%
+"Detroit-Warren-Dearborn, MI ",xlarge,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"68,101","52,577","245,500","1,121",0.8%,1.4%,16.4%
+"Detroit-Warren-Dearborn, MI ",xlarge,Other services (except public administration),9.0,"68,101","52,577","245,500","1,121",0.8%,1.4%,16.4%
+"Detroit-Warren-Dearborn, MI ",xlarge,Public administration,10.0,"68,101","52,577","245,500","1,121",0.8%,1.4%,16.4%
+"Durham-Chapel Hill, NC ",small,"Agriculture, forestry, fishing and hunting, and mining",13.0,"61,644","57,033","366,000","1,352",1.6%,2.7%,21.6%
+"Durham-Chapel Hill, NC ",small,Construction,6.0,"61,644","57,033","366,000","1,352",1.6%,2.7%,21.6%
+"Durham-Chapel Hill, NC ",small,Manufacturing,5.0,"61,644","57,033","366,000","1,352",1.6%,2.7%,21.6%
+"Durham-Chapel Hill, NC ",small,Wholesale trade,12.0,"61,644","57,033","366,000","1,352",1.6%,2.7%,21.6%
+"Durham-Chapel Hill, NC ",small,Retail trade,3.0,"61,644","57,033","366,000","1,352",1.6%,2.7%,21.6%
+"Durham-Chapel Hill, NC ",small,"Transportation and warehousing, and utilities",10.0,"61,644","57,033","366,000","1,352",1.6%,2.7%,21.6%
+"Durham-Chapel Hill, NC ",small,Information,11.0,"61,644","57,033","366,000","1,352",1.6%,2.7%,21.6%
+"Durham-Chapel Hill, NC ",small,"Finance and insurance, and real estate and rental and leasing",7.0,"61,644","57,033","366,000","1,352",1.6%,2.7%,21.6%
+"Durham-Chapel Hill, NC ",small,"Professional, scientific, and management, and administrative and waste management services",2.0,"61,644","57,033","366,000","1,352",1.6%,2.7%,21.6%
+"Durham-Chapel Hill, NC ",small,"Educational services, and health care and social assistance",1.0,"61,644","57,033","366,000","1,352",1.6%,2.7%,21.6%
+"Durham-Chapel Hill, NC ",small,"Arts, entertainment, and recreation, and accommodation and food services",4.0,"61,644","57,033","366,000","1,352",1.6%,2.7%,21.6%
+"Durham-Chapel Hill, NC ",small,Other services (except public administration),8.0,"61,644","57,033","366,000","1,352",1.6%,2.7%,21.6%
+"Durham-Chapel Hill, NC ",small,Public administration,9.0,"61,644","57,033","366,000","1,352",1.6%,2.7%,21.6%
+"El Paso, TX ",medium,"Agriculture, forestry, fishing and hunting, and mining",13.0,"45,075","36,749","170,600",986,0.5%,1.6%,8.7%
+"El Paso, TX ",medium,Construction,5.0,"45,075","36,749","170,600",986,0.5%,1.6%,8.7%
+"El Paso, TX ",medium,Manufacturing,7.0,"45,075","36,749","170,600",986,0.5%,1.6%,8.7%
+"El Paso, TX ",medium,Wholesale trade,11.0,"45,075","36,749","170,600",986,0.5%,1.6%,8.7%
+"El Paso, TX ",medium,Retail trade,2.0,"45,075","36,749","170,600",986,0.5%,1.6%,8.7%
+"El Paso, TX ",medium,"Transportation and warehousing, and utilities",6.0,"45,075","36,749","170,600",986,0.5%,1.6%,8.7%
+"El Paso, TX ",medium,Information,12.0,"45,075","36,749","170,600",986,0.5%,1.6%,8.7%
+"El Paso, TX ",medium,"Finance and insurance, and real estate and rental and leasing",9.0,"45,075","36,749","170,600",986,0.5%,1.6%,8.7%
+"El Paso, TX ",medium,"Professional, scientific, and management, and administrative and waste management services",3.0,"45,075","36,749","170,600",986,0.5%,1.6%,8.7%
+"El Paso, TX ",medium,"Educational services, and health care and social assistance",1.0,"45,075","36,749","170,600",986,0.5%,1.6%,8.7%
+"El Paso, TX ",medium,"Arts, entertainment, and recreation, and accommodation and food services",4.0,"45,075","36,749","170,600",986,0.5%,1.6%,8.7%
+"El Paso, TX ",medium,Other services (except public administration),10.0,"45,075","36,749","170,600",986,0.5%,1.6%,8.7%
+"El Paso, TX ",medium,Public administration,8.0,"45,075","36,749","170,600",986,0.5%,1.6%,8.7%
+"Fayetteville, NC ",xsmall,"Agriculture, forestry, fishing and hunting, and mining",12.0,"50,482","41,245","206,900","1,095",0.2%,3.1%,7.7%
+"Fayetteville, NC ",xsmall,Construction,7.0,"50,482","41,245","206,900","1,095",0.2%,3.1%,7.7%
+"Fayetteville, NC ",xsmall,Manufacturing,5.0,"50,482","41,245","206,900","1,095",0.2%,3.1%,7.7%
+"Fayetteville, NC ",xsmall,Wholesale trade,11.0,"50,482","41,245","206,900","1,095",0.2%,3.1%,7.7%
+"Fayetteville, NC ",xsmall,Retail trade,2.0,"50,482","41,245","206,900","1,095",0.2%,3.1%,7.7%
+"Fayetteville, NC ",xsmall,"Transportation and warehousing, and utilities",6.0,"50,482","41,245","206,900","1,095",0.2%,3.1%,7.7%
+"Fayetteville, NC ",xsmall,Information,13.0,"50,482","41,245","206,900","1,095",0.2%,3.1%,7.7%
+"Fayetteville, NC ",xsmall,"Finance and insurance, and real estate and rental and leasing",10.0,"50,482","41,245","206,900","1,095",0.2%,3.1%,7.7%
+"Fayetteville, NC ",xsmall,"Professional, scientific, and management, and administrative and waste management services",3.0,"50,482","41,245","206,900","1,095",0.2%,3.1%,7.7%
+"Fayetteville, NC ",xsmall,"Educational services, and health care and social assistance",1.0,"50,482","41,245","206,900","1,095",0.2%,3.1%,7.7%
+"Fayetteville, NC ",xsmall,"Arts, entertainment, and recreation, and accommodation and food services",4.0,"50,482","41,245","206,900","1,095",0.2%,3.1%,7.7%
+"Fayetteville, NC ",xsmall,Other services (except public administration),9.0,"50,482","41,245","206,900","1,095",0.2%,3.1%,7.7%
+"Fayetteville, NC ",xsmall,Public administration,8.0,"50,482","41,245","206,900","1,095",0.2%,3.1%,7.7%
+"Fayetteville-Springdale-Rogers, AR ",xsmall,"Agriculture, forestry, fishing and hunting, and mining",12.0,"56,159","44,857","291,600","1,008",0.4%,2.0%,13.8%
+"Fayetteville-Springdale-Rogers, AR ",xsmall,Construction,6.0,"56,159","44,857","291,600","1,008",0.4%,2.0%,13.8%
+"Fayetteville-Springdale-Rogers, AR ",xsmall,Manufacturing,4.0,"56,159","44,857","291,600","1,008",0.4%,2.0%,13.8%
+"Fayetteville-Springdale-Rogers, AR ",xsmall,Wholesale trade,11.0,"56,159","44,857","291,600","1,008",0.4%,2.0%,13.8%
+"Fayetteville-Springdale-Rogers, AR ",xsmall,Retail trade,2.0,"56,159","44,857","291,600","1,008",0.4%,2.0%,13.8%
+"Fayetteville-Springdale-Rogers, AR ",xsmall,"Transportation and warehousing, and utilities",7.0,"56,159","44,857","291,600","1,008",0.4%,2.0%,13.8%
+"Fayetteville-Springdale-Rogers, AR ",xsmall,Information,13.0,"56,159","44,857","291,600","1,008",0.4%,2.0%,13.8%
+"Fayetteville-Springdale-Rogers, AR ",xsmall,"Finance and insurance, and real estate and rental and leasing",8.0,"56,159","44,857","291,600","1,008",0.4%,2.0%,13.8%
+"Fayetteville-Springdale-Rogers, AR ",xsmall,"Professional, scientific, and management, and administrative and waste management services",3.0,"56,159","44,857","291,600","1,008",0.4%,2.0%,13.8%
+"Fayetteville-Springdale-Rogers, AR ",xsmall,"Educational services, and health care and social assistance",1.0,"56,159","44,857","291,600","1,008",0.4%,2.0%,13.8%
+"Fayetteville-Springdale-Rogers, AR ",xsmall,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"56,159","44,857","291,600","1,008",0.4%,2.0%,13.8%
+"Fayetteville-Springdale-Rogers, AR ",xsmall,Other services (except public administration),9.0,"56,159","44,857","291,600","1,008",0.4%,2.0%,13.8%
+"Fayetteville-Springdale-Rogers, AR ",xsmall,Public administration,10.0,"56,159","44,857","291,600","1,008",0.4%,2.0%,13.8%
+"Fresno, CA ",medium,"Agriculture, forestry, fishing and hunting, and mining",5.0,"54,093","48,829","382,500","1,304",0.6%,1.6%,11.3%
+"Fresno, CA ",medium,Construction,9.0,"54,093","48,829","382,500","1,304",0.6%,1.6%,11.3%
+"Fresno, CA ",medium,Manufacturing,7.0,"54,093","48,829","382,500","1,304",0.6%,1.6%,11.3%
+"Fresno, CA ",medium,Wholesale trade,12.0,"54,093","48,829","382,500","1,304",0.6%,1.6%,11.3%
+"Fresno, CA ",medium,Retail trade,2.0,"54,093","48,829","382,500","1,304",0.6%,1.6%,11.3%
+"Fresno, CA ",medium,"Transportation and warehousing, and utilities",6.0,"54,093","48,829","382,500","1,304",0.6%,1.6%,11.3%
+"Fresno, CA ",medium,Information,13.0,"54,093","48,829","382,500","1,304",0.6%,1.6%,11.3%
+"Fresno, CA ",medium,"Finance and insurance, and real estate and rental and leasing",11.0,"54,093","48,829","382,500","1,304",0.6%,1.6%,11.3%
+"Fresno, CA ",medium,"Professional, scientific, and management, and administrative and waste management services",4.0,"54,093","48,829","382,500","1,304",0.6%,1.6%,11.3%
+"Fresno, CA ",medium,"Educational services, and health care and social assistance",1.0,"54,093","48,829","382,500","1,304",0.6%,1.6%,11.3%
+"Fresno, CA ",medium,"Arts, entertainment, and recreation, and accommodation and food services",3.0,"54,093","48,829","382,500","1,304",0.6%,1.6%,11.3%
+"Fresno, CA ",medium,Other services (except public administration),10.0,"54,093","48,829","382,500","1,304",0.6%,1.6%,11.3%
+"Fresno, CA ",medium,Public administration,7.0,"54,093","48,829","382,500","1,304",0.6%,1.6%,11.3%
+"Grand Rapids-Kentwood, MI ",medium,"Agriculture, forestry, fishing and hunting, and mining",13.0,"60,823","49,845","279,100","1,156",0.9%,2.1%,12.4%
+"Grand Rapids-Kentwood, MI ",medium,Construction,6.0,"60,823","49,845","279,100","1,156",0.9%,2.1%,12.4%
+"Grand Rapids-Kentwood, MI ",medium,Manufacturing,2.0,"60,823","49,845","279,100","1,156",0.9%,2.1%,12.4%
+"Grand Rapids-Kentwood, MI ",medium,Wholesale trade,10.0,"60,823","49,845","279,100","1,156",0.9%,2.1%,12.4%
+"Grand Rapids-Kentwood, MI ",medium,Retail trade,3.0,"60,823","49,845","279,100","1,156",0.9%,2.1%,12.4%
+"Grand Rapids-Kentwood, MI ",medium,"Transportation and warehousing, and utilities",8.0,"60,823","49,845","279,100","1,156",0.9%,2.1%,12.4%
+"Grand Rapids-Kentwood, MI ",medium,Information,12.0,"60,823","49,845","279,100","1,156",0.9%,2.1%,12.4%
+"Grand Rapids-Kentwood, MI ",medium,"Finance and insurance, and real estate and rental and leasing",6.0,"60,823","49,845","279,100","1,156",0.9%,2.1%,12.4%
+"Grand Rapids-Kentwood, MI ",medium,"Professional, scientific, and management, and administrative and waste management services",4.0,"60,823","49,845","279,100","1,156",0.9%,2.1%,12.4%
+"Grand Rapids-Kentwood, MI ",medium,"Educational services, and health care and social assistance",1.0,"60,823","49,845","279,100","1,156",0.9%,2.1%,12.4%
+"Grand Rapids-Kentwood, MI ",medium,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"60,823","49,845","279,100","1,156",0.9%,2.1%,12.4%
+"Grand Rapids-Kentwood, MI ",medium,Other services (except public administration),9.0,"60,823","49,845","279,100","1,156",0.9%,2.1%,12.4%
+"Grand Rapids-Kentwood, MI ",medium,Public administration,11.0,"60,823","49,845","279,100","1,156",0.9%,2.1%,12.4%
+"Greensboro-High Point, NC ",small,"Agriculture, forestry, fishing and hunting, and mining",13.0,"54,415","42,225","217,000","1,010",0.2%,1.5%,12.3%
+"Greensboro-High Point, NC ",small,Construction,8.0,"54,415","42,225","217,000","1,010",0.2%,1.5%,12.3%
+"Greensboro-High Point, NC ",small,Manufacturing,2.0,"54,415","42,225","217,000","1,010",0.2%,1.5%,12.3%
+"Greensboro-High Point, NC ",small,Wholesale trade,11.0,"54,415","42,225","217,000","1,010",0.2%,1.5%,12.3%
+"Greensboro-High Point, NC ",small,Retail trade,3.0,"54,415","42,225","217,000","1,010",0.2%,1.5%,12.3%
+"Greensboro-High Point, NC ",small,"Transportation and warehousing, and utilities",6.0,"54,415","42,225","217,000","1,010",0.2%,1.5%,12.3%
+"Greensboro-High Point, NC ",small,Information,12.0,"54,415","42,225","217,000","1,010",0.2%,1.5%,12.3%
+"Greensboro-High Point, NC ",small,"Finance and insurance, and real estate and rental and leasing",7.0,"54,415","42,225","217,000","1,010",0.2%,1.5%,12.3%
+"Greensboro-High Point, NC ",small,"Professional, scientific, and management, and administrative and waste management services",4.0,"54,415","42,225","217,000","1,010",0.2%,1.5%,12.3%
+"Greensboro-High Point, NC ",small,"Educational services, and health care and social assistance",1.0,"54,415","42,225","217,000","1,010",0.2%,1.5%,12.3%
+"Greensboro-High Point, NC ",small,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"54,415","42,225","217,000","1,010",0.2%,1.5%,12.3%
+"Greensboro-High Point, NC ",small,Other services (except public administration),9.0,"54,415","42,225","217,000","1,010",0.2%,1.5%,12.3%
+"Greensboro-High Point, NC ",small,Public administration,10.0,"54,415","42,225","217,000","1,010",0.2%,1.5%,12.3%
+"Greenville-Anderson, SC ",medium,"Agriculture, forestry, fishing and hunting, and mining",13.0,"56,855","43,977","259,600","1,034",0.3%,1.2%,10.8%
+"Greenville-Anderson, SC ",medium,Construction,6.0,"56,855","43,977","259,600","1,034",0.3%,1.2%,10.8%
+"Greenville-Anderson, SC ",medium,Manufacturing,2.0,"56,855","43,977","259,600","1,034",0.3%,1.2%,10.8%
+"Greenville-Anderson, SC ",medium,Wholesale trade,11.0,"56,855","43,977","259,600","1,034",0.3%,1.2%,10.8%
+"Greenville-Anderson, SC ",medium,Retail trade,4.0,"56,855","43,977","259,600","1,034",0.3%,1.2%,10.8%
+"Greenville-Anderson, SC ",medium,"Transportation and warehousing, and utilities",9.0,"56,855","43,977","259,600","1,034",0.3%,1.2%,10.8%
+"Greenville-Anderson, SC ",medium,Information,12.0,"56,855","43,977","259,600","1,034",0.3%,1.2%,10.8%
+"Greenville-Anderson, SC ",medium,"Finance and insurance, and real estate and rental and leasing",7.0,"56,855","43,977","259,600","1,034",0.3%,1.2%,10.8%
+"Greenville-Anderson, SC ",medium,"Professional, scientific, and management, and administrative and waste management services",3.0,"56,855","43,977","259,600","1,034",0.3%,1.2%,10.8%
+"Greenville-Anderson, SC ",medium,"Educational services, and health care and social assistance",1.0,"56,855","43,977","259,600","1,034",0.3%,1.2%,10.8%
+"Greenville-Anderson, SC ",medium,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"56,855","43,977","259,600","1,034",0.3%,1.2%,10.8%
+"Greenville-Anderson, SC ",medium,Other services (except public administration),8.0,"56,855","43,977","259,600","1,034",0.3%,1.2%,10.8%
+"Greenville-Anderson, SC ",medium,Public administration,10.0,"56,855","43,977","259,600","1,034",0.3%,1.2%,10.8%
+"Harrisburg-Carlisle, PA ",xsmall,"Agriculture, forestry, fishing and hunting, and mining",12.0,"61,506","52,299","237,800","1,086",0.7%,3.6%,17.1%
+"Harrisburg-Carlisle, PA ",xsmall,Construction,9.0,"61,506","52,299","237,800","1,086",0.7%,3.6%,17.1%
+"Harrisburg-Carlisle, PA ",xsmall,Manufacturing,6.0,"61,506","52,299","237,800","1,086",0.7%,3.6%,17.1%
+"Harrisburg-Carlisle, PA ",xsmall,Wholesale trade,11.0,"61,506","52,299","237,800","1,086",0.7%,3.6%,17.1%
+"Harrisburg-Carlisle, PA ",xsmall,Retail trade,2.0,"61,506","52,299","237,800","1,086",0.7%,3.6%,17.1%
+"Harrisburg-Carlisle, PA ",xsmall,"Transportation and warehousing, and utilities",4.0,"61,506","52,299","237,800","1,086",0.7%,3.6%,17.1%
+"Harrisburg-Carlisle, PA ",xsmall,Information,13.0,"61,506","52,299","237,800","1,086",0.7%,3.6%,17.1%
+"Harrisburg-Carlisle, PA ",xsmall,"Finance and insurance, and real estate and rental and leasing",8.0,"61,506","52,299","237,800","1,086",0.7%,3.6%,17.1%
+"Harrisburg-Carlisle, PA ",xsmall,"Professional, scientific, and management, and administrative and waste management services",3.0,"61,506","52,299","237,800","1,086",0.7%,3.6%,17.1%
+"Harrisburg-Carlisle, PA ",xsmall,"Educational services, and health care and social assistance",1.0,"61,506","52,299","237,800","1,086",0.7%,3.6%,17.1%
+"Harrisburg-Carlisle, PA ",xsmall,"Arts, entertainment, and recreation, and accommodation and food services",6.0,"61,506","52,299","237,800","1,086",0.7%,3.6%,17.1%
+"Harrisburg-Carlisle, PA ",xsmall,Other services (except public administration),9.0,"61,506","52,299","237,800","1,086",0.7%,3.6%,17.1%
+"Harrisburg-Carlisle, PA ",xsmall,Public administration,4.0,"61,506","52,299","237,800","1,086",0.7%,3.6%,17.1%
+"Hartford-East Hartford-Middletown, CT ",medium,"Agriculture, forestry, fishing and hunting, and mining",13.0,"73,994","63,423","305,700","1,268",2.4%,1.9%,16.6%
+"Hartford-East Hartford-Middletown, CT ",medium,Construction,7.0,"73,994","63,423","305,700","1,268",2.4%,1.9%,16.6%
+"Hartford-East Hartford-Middletown, CT ",medium,Manufacturing,2.0,"73,994","63,423","305,700","1,268",2.4%,1.9%,16.6%
+"Hartford-East Hartford-Middletown, CT ",medium,Wholesale trade,12.0,"73,994","63,423","305,700","1,268",2.4%,1.9%,16.6%
+"Hartford-East Hartford-Middletown, CT ",medium,Retail trade,2.0,"73,994","63,423","305,700","1,268",2.4%,1.9%,16.6%
+"Hartford-East Hartford-Middletown, CT ",medium,"Transportation and warehousing, and utilities",8.0,"73,994","63,423","305,700","1,268",2.4%,1.9%,16.6%
+"Hartford-East Hartford-Middletown, CT ",medium,Information,11.0,"73,994","63,423","305,700","1,268",2.4%,1.9%,16.6%
+"Hartford-East Hartford-Middletown, CT ",medium,"Finance and insurance, and real estate and rental and leasing",5.0,"73,994","63,423","305,700","1,268",2.4%,1.9%,16.6%
+"Hartford-East Hartford-Middletown, CT ",medium,"Professional, scientific, and management, and administrative and waste management services",2.0,"73,994","63,423","305,700","1,268",2.4%,1.9%,16.6%
+"Hartford-East Hartford-Middletown, CT ",medium,"Educational services, and health care and social assistance",1.0,"73,994","63,423","305,700","1,268",2.4%,1.9%,16.6%
+"Hartford-East Hartford-Middletown, CT ",medium,"Arts, entertainment, and recreation, and accommodation and food services",6.0,"73,994","63,423","305,700","1,268",2.4%,1.9%,16.6%
+"Hartford-East Hartford-Middletown, CT ",medium,Other services (except public administration),9.0,"73,994","63,423","305,700","1,268",2.4%,1.9%,16.6%
+"Hartford-East Hartford-Middletown, CT ",medium,Public administration,10.0,"73,994","63,423","305,700","1,268",2.4%,1.9%,16.6%
+"Houston-The Woodlands-Sugar Land, TX ",xlarge,"Agriculture, forestry, fishing and hunting, and mining",12.0,"61,832","51,400","284,100","1,317",1.4%,1.1%,13.0%
+"Houston-The Woodlands-Sugar Land, TX ",xlarge,Construction,4.0,"61,832","51,400","284,100","1,317",1.4%,1.1%,13.0%
+"Houston-The Woodlands-Sugar Land, TX ",xlarge,Manufacturing,5.0,"61,832","51,400","284,100","1,317",1.4%,1.1%,13.0%
+"Houston-The Woodlands-Sugar Land, TX ",xlarge,Wholesale trade,11.0,"61,832","51,400","284,100","1,317",1.4%,1.1%,13.0%
+"Houston-The Woodlands-Sugar Land, TX ",xlarge,Retail trade,3.0,"61,832","51,400","284,100","1,317",1.4%,1.1%,13.0%
+"Houston-The Woodlands-Sugar Land, TX ",xlarge,"Transportation and warehousing, and utilities",7.0,"61,832","51,400","284,100","1,317",1.4%,1.1%,13.0%
+"Houston-The Woodlands-Sugar Land, TX ",xlarge,Information,13.0,"61,832","51,400","284,100","1,317",1.4%,1.1%,13.0%
+"Houston-The Woodlands-Sugar Land, TX ",xlarge,"Finance and insurance, and real estate and rental and leasing",8.0,"61,832","51,400","284,100","1,317",1.4%,1.1%,13.0%
+"Houston-The Woodlands-Sugar Land, TX ",xlarge,"Professional, scientific, and management, and administrative and waste management services",2.0,"61,832","51,400","284,100","1,317",1.4%,1.1%,13.0%
+"Houston-The Woodlands-Sugar Land, TX ",xlarge,"Educational services, and health care and social assistance",1.0,"61,832","51,400","284,100","1,317",1.4%,1.1%,13.0%
+"Houston-The Woodlands-Sugar Land, TX ",xlarge,"Arts, entertainment, and recreation, and accommodation and food services",6.0,"61,832","51,400","284,100","1,317",1.4%,1.1%,13.0%
+"Houston-The Woodlands-Sugar Land, TX ",xlarge,Other services (except public administration),9.0,"61,832","51,400","284,100","1,317",1.4%,1.1%,13.0%
+"Houston-The Woodlands-Sugar Land, TX ",xlarge,Public administration,10.0,"61,832","51,400","284,100","1,317",1.4%,1.1%,13.0%
+"Huntsville, AL ",xsmall,"Agriculture, forestry, fishing and hunting, and mining",13.0,"75,494","49,457","292,700","1,091",0.2%,0.7%,14.2%
+"Huntsville, AL ",xsmall,Construction,7.0,"75,494","49,457","292,700","1,091",0.2%,0.7%,14.2%
+"Huntsville, AL ",xsmall,Manufacturing,3.0,"75,494","49,457","292,700","1,091",0.2%,0.7%,14.2%
+"Huntsville, AL ",xsmall,Wholesale trade,12.0,"75,494","49,457","292,700","1,091",0.2%,0.7%,14.2%
+"Huntsville, AL ",xsmall,Retail trade,4.0,"75,494","49,457","292,700","1,091",0.2%,0.7%,14.2%
+"Huntsville, AL ",xsmall,"Transportation and warehousing, and utilities",9.0,"75,494","49,457","292,700","1,091",0.2%,0.7%,14.2%
+"Huntsville, AL ",xsmall,Information,11.0,"75,494","49,457","292,700","1,091",0.2%,0.7%,14.2%
+"Huntsville, AL ",xsmall,"Finance and insurance, and real estate and rental and leasing",10.0,"75,494","49,457","292,700","1,091",0.2%,0.7%,14.2%
+"Huntsville, AL ",xsmall,"Professional, scientific, and management, and administrative and waste management services",1.0,"75,494","49,457","292,700","1,091",0.2%,0.7%,14.2%
+"Huntsville, AL ",xsmall,"Educational services, and health care and social assistance",2.0,"75,494","49,457","292,700","1,091",0.2%,0.7%,14.2%
+"Huntsville, AL ",xsmall,"Arts, entertainment, and recreation, and accommodation and food services",6.0,"75,494","49,457","292,700","1,091",0.2%,0.7%,14.2%
+"Huntsville, AL ",xsmall,Other services (except public administration),8.0,"75,494","49,457","292,700","1,091",0.2%,0.7%,14.2%
+"Huntsville, AL ",xsmall,Public administration,5.0,"75,494","49,457","292,700","1,091",0.2%,0.7%,14.2%
+"Indianapolis-Carmel-Anderson, IN ",large,"Agriculture, forestry, fishing and hunting, and mining",13.0,"64,074","50,637","255,900","1,092",0.6%,1.3%,15.1%
+"Indianapolis-Carmel-Anderson, IN ",large,Construction,7.0,"64,074","50,637","255,900","1,092",0.6%,1.3%,15.1%
+"Indianapolis-Carmel-Anderson, IN ",large,Manufacturing,3.0,"64,074","50,637","255,900","1,092",0.6%,1.3%,15.1%
+"Indianapolis-Carmel-Anderson, IN ",large,Wholesale trade,11.0,"64,074","50,637","255,900","1,092",0.6%,1.3%,15.1%
+"Indianapolis-Carmel-Anderson, IN ",large,Retail trade,4.0,"64,074","50,637","255,900","1,092",0.6%,1.3%,15.1%
+"Indianapolis-Carmel-Anderson, IN ",large,"Transportation and warehousing, and utilities",5.0,"64,074","50,637","255,900","1,092",0.6%,1.3%,15.1%
+"Indianapolis-Carmel-Anderson, IN ",large,Information,12.0,"64,074","50,637","255,900","1,092",0.6%,1.3%,15.1%
+"Indianapolis-Carmel-Anderson, IN ",large,"Finance and insurance, and real estate and rental and leasing",8.0,"64,074","50,637","255,900","1,092",0.6%,1.3%,15.1%
+"Indianapolis-Carmel-Anderson, IN ",large,"Professional, scientific, and management, and administrative and waste management services",2.0,"64,074","50,637","255,900","1,092",0.6%,1.3%,15.1%
+"Indianapolis-Carmel-Anderson, IN ",large,"Educational services, and health care and social assistance",1.0,"64,074","50,637","255,900","1,092",0.6%,1.3%,15.1%
+"Indianapolis-Carmel-Anderson, IN ",large,"Arts, entertainment, and recreation, and accommodation and food services",6.0,"64,074","50,637","255,900","1,092",0.6%,1.3%,15.1%
+"Indianapolis-Carmel-Anderson, IN ",large,Other services (except public administration),9.0,"64,074","50,637","255,900","1,092",0.6%,1.3%,15.1%
+"Indianapolis-Carmel-Anderson, IN ",large,Public administration,10.0,"64,074","50,637","255,900","1,092",0.6%,1.3%,15.1%
+"Jackson, MS ",xsmall,"Agriculture, forestry, fishing and hunting, and mining",12.0,"54,084","42,475","188,700",998,0.3%,1.6%,7.2%
+"Jackson, MS ",xsmall,Construction,8.0,"54,084","42,475","188,700",998,0.3%,1.6%,7.2%
+"Jackson, MS ",xsmall,Manufacturing,3.0,"54,084","42,475","188,700",998,0.3%,1.6%,7.2%
+"Jackson, MS ",xsmall,Wholesale trade,11.0,"54,084","42,475","188,700",998,0.3%,1.6%,7.2%
+"Jackson, MS ",xsmall,Retail trade,2.0,"54,084","42,475","188,700",998,0.3%,1.6%,7.2%
+"Jackson, MS ",xsmall,"Transportation and warehousing, and utilities",7.0,"54,084","42,475","188,700",998,0.3%,1.6%,7.2%
+"Jackson, MS ",xsmall,Information,13.0,"54,084","42,475","188,700",998,0.3%,1.6%,7.2%
+"Jackson, MS ",xsmall,"Finance and insurance, and real estate and rental and leasing",9.0,"54,084","42,475","188,700",998,0.3%,1.6%,7.2%
+"Jackson, MS ",xsmall,"Professional, scientific, and management, and administrative and waste management services",4.0,"54,084","42,475","188,700",998,0.3%,1.6%,7.2%
+"Jackson, MS ",xsmall,"Educational services, and health care and social assistance",1.0,"54,084","42,475","188,700",998,0.3%,1.6%,7.2%
+"Jackson, MS ",xsmall,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"54,084","42,475","188,700",998,0.3%,1.6%,7.2%
+"Jackson, MS ",xsmall,Other services (except public administration),10.0,"54,084","42,475","188,700",998,0.3%,1.6%,7.2%
+"Jackson, MS ",xsmall,Public administration,6.0,"54,084","42,475","188,700",998,0.3%,1.6%,7.2%
+"Jacksonville, FL ",large,"Agriculture, forestry, fishing and hunting, and mining",13.0,"61,122","48,782","347,000","1,443",0.5%,1.2%,18.9%
+"Jacksonville, FL ",large,Construction,7.0,"61,122","48,782","347,000","1,443",0.5%,1.2%,18.9%
+"Jacksonville, FL ",large,Manufacturing,8.0,"61,122","48,782","347,000","1,443",0.5%,1.2%,18.9%
+"Jacksonville, FL ",large,Wholesale trade,11.0,"61,122","48,782","347,000","1,443",0.5%,1.2%,18.9%
+"Jacksonville, FL ",large,Retail trade,3.0,"61,122","48,782","347,000","1,443",0.5%,1.2%,18.9%
+"Jacksonville, FL ",large,"Transportation and warehousing, and utilities",6.0,"61,122","48,782","347,000","1,443",0.5%,1.2%,18.9%
+"Jacksonville, FL ",large,Information,12.0,"61,122","48,782","347,000","1,443",0.5%,1.2%,18.9%
+"Jacksonville, FL ",large,"Finance and insurance, and real estate and rental and leasing",4.0,"61,122","48,782","347,000","1,443",0.5%,1.2%,18.9%
+"Jacksonville, FL ",large,"Professional, scientific, and management, and administrative and waste management services",2.0,"61,122","48,782","347,000","1,443",0.5%,1.2%,18.9%
+"Jacksonville, FL ",large,"Educational services, and health care and social assistance",1.0,"61,122","48,782","347,000","1,443",0.5%,1.2%,18.9%
+"Jacksonville, FL ",large,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"61,122","48,782","347,000","1,443",0.5%,1.2%,18.9%
+"Jacksonville, FL ",large,Other services (except public administration),9.0,"61,122","48,782","347,000","1,443",0.5%,1.2%,18.9%
+"Jacksonville, FL ",large,Public administration,10.0,"61,122","48,782","347,000","1,443",0.5%,1.2%,18.9%
+"Kansas City, MO-KS ",large,"Agriculture, forestry, fishing and hunting, and mining",13.0,"63,843","51,697","274,500","1,157",0.5%,1.1%,17.7%
+"Kansas City, MO-KS ",large,Construction,8.0,"63,843","51,697","274,500","1,157",0.5%,1.1%,17.7%
+"Kansas City, MO-KS ",large,Manufacturing,4.0,"63,843","51,697","274,500","1,157",0.5%,1.1%,17.7%
+"Kansas City, MO-KS ",large,Wholesale trade,11.0,"63,843","51,697","274,500","1,157",0.5%,1.1%,17.7%
+"Kansas City, MO-KS ",large,Retail trade,3.0,"63,843","51,697","274,500","1,157",0.5%,1.1%,17.7%
+"Kansas City, MO-KS ",large,"Transportation and warehousing, and utilities",7.0,"63,843","51,697","274,500","1,157",0.5%,1.1%,17.7%
+"Kansas City, MO-KS ",large,Information,12.0,"63,843","51,697","274,500","1,157",0.5%,1.1%,17.7%
+"Kansas City, MO-KS ",large,"Finance and insurance, and real estate and rental and leasing",5.0,"63,843","51,697","274,500","1,157",0.5%,1.1%,17.7%
+"Kansas City, MO-KS ",large,"Professional, scientific, and management, and administrative and waste management services",2.0,"63,843","51,697","274,500","1,157",0.5%,1.1%,17.7%
+"Kansas City, MO-KS ",large,"Educational services, and health care and social assistance",1.0,"63,843","51,697","274,500","1,157",0.5%,1.1%,17.7%
+"Kansas City, MO-KS ",large,"Arts, entertainment, and recreation, and accommodation and food services",6.0,"63,843","51,697","274,500","1,157",0.5%,1.1%,17.7%
+"Kansas City, MO-KS ",large,Other services (except public administration),10.0,"63,843","51,697","274,500","1,157",0.5%,1.1%,17.7%
+"Kansas City, MO-KS ",large,Public administration,9.0,"63,843","51,697","274,500","1,157",0.5%,1.1%,17.7%
+"Knoxville, TN ",medium,"Agriculture, forestry, fishing and hunting, and mining",13.0,"56,028","43,383","281,900","1,025",0.2%,1.4%,13.0%
+"Knoxville, TN ",medium,Construction,6.0,"56,028","43,383","281,900","1,025",0.2%,1.4%,13.0%
+"Knoxville, TN ",medium,Manufacturing,4.0,"56,028","43,383","281,900","1,025",0.2%,1.4%,13.0%
+"Knoxville, TN ",medium,Wholesale trade,11.0,"56,028","43,383","281,900","1,025",0.2%,1.4%,13.0%
+"Knoxville, TN ",medium,Retail trade,2.0,"56,028","43,383","281,900","1,025",0.2%,1.4%,13.0%
+"Knoxville, TN ",medium,"Transportation and warehousing, and utilities",8.0,"56,028","43,383","281,900","1,025",0.2%,1.4%,13.0%
+"Knoxville, TN ",medium,Information,12.0,"56,028","43,383","281,900","1,025",0.2%,1.4%,13.0%
+"Knoxville, TN ",medium,"Finance and insurance, and real estate and rental and leasing",7.0,"56,028","43,383","281,900","1,025",0.2%,1.4%,13.0%
+"Knoxville, TN ",medium,"Professional, scientific, and management, and administrative and waste management services",3.0,"56,028","43,383","281,900","1,025",0.2%,1.4%,13.0%
+"Knoxville, TN ",medium,"Educational services, and health care and social assistance",1.0,"56,028","43,383","281,900","1,025",0.2%,1.4%,13.0%
+"Knoxville, TN ",medium,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"56,028","43,383","281,900","1,025",0.2%,1.4%,13.0%
+"Knoxville, TN ",medium,Other services (except public administration),9.0,"56,028","43,383","281,900","1,025",0.2%,1.4%,13.0%
+"Knoxville, TN ",medium,Public administration,10.0,"56,028","43,383","281,900","1,025",0.2%,1.4%,13.0%
+"Lakeland-Winter Haven, FL ",small,"Agriculture, forestry, fishing and hunting, and mining",13.0,"47,453","40,463","267,500","1,206",0.3%,1.0%,12.2%
+"Lakeland-Winter Haven, FL ",small,Construction,5.0,"47,453","40,463","267,500","1,206",0.3%,1.0%,12.2%
+"Lakeland-Winter Haven, FL ",small,Manufacturing,8.0,"47,453","40,463","267,500","1,206",0.3%,1.0%,12.2%
+"Lakeland-Winter Haven, FL ",small,Wholesale trade,11.0,"47,453","40,463","267,500","1,206",0.3%,1.0%,12.2%
+"Lakeland-Winter Haven, FL ",small,Retail trade,2.0,"47,453","40,463","267,500","1,206",0.3%,1.0%,12.2%
+"Lakeland-Winter Haven, FL ",small,"Transportation and warehousing, and utilities",6.0,"47,453","40,463","267,500","1,206",0.3%,1.0%,12.2%
+"Lakeland-Winter Haven, FL ",small,Information,12.0,"47,453","40,463","267,500","1,206",0.3%,1.0%,12.2%
+"Lakeland-Winter Haven, FL ",small,"Finance and insurance, and real estate and rental and leasing",7.0,"47,453","40,463","267,500","1,206",0.3%,1.0%,12.2%
+"Lakeland-Winter Haven, FL ",small,"Professional, scientific, and management, and administrative and waste management services",4.0,"47,453","40,463","267,500","1,206",0.3%,1.0%,12.2%
+"Lakeland-Winter Haven, FL ",small,"Educational services, and health care and social assistance",1.0,"47,453","40,463","267,500","1,206",0.3%,1.0%,12.2%
+"Lakeland-Winter Haven, FL ",small,"Arts, entertainment, and recreation, and accommodation and food services",3.0,"47,453","40,463","267,500","1,206",0.3%,1.0%,12.2%
+"Lakeland-Winter Haven, FL ",small,Other services (except public administration),9.0,"47,453","40,463","267,500","1,206",0.3%,1.0%,12.2%
+"Lakeland-Winter Haven, FL ",small,Public administration,10.0,"47,453","40,463","267,500","1,206",0.3%,1.0%,12.2%
+"Lancaster, PA ",xsmall,"Agriculture, forestry, fishing and hunting, and mining",10.0,"64,581","49,800","287,200","1,240",0.8%,4.1%,9.8%
+"Lancaster, PA ",xsmall,Construction,5.0,"64,581","49,800","287,200","1,240",0.8%,4.1%,9.8%
+"Lancaster, PA ",xsmall,Manufacturing,2.0,"64,581","49,800","287,200","1,240",0.8%,4.1%,9.8%
+"Lancaster, PA ",xsmall,Wholesale trade,11.0,"64,581","49,800","287,200","1,240",0.8%,4.1%,9.8%
+"Lancaster, PA ",xsmall,Retail trade,3.0,"64,581","49,800","287,200","1,240",0.8%,4.1%,9.8%
+"Lancaster, PA ",xsmall,"Transportation and warehousing, and utilities",7.0,"64,581","49,800","287,200","1,240",0.8%,4.1%,9.8%
+"Lancaster, PA ",xsmall,Information,13.0,"64,581","49,800","287,200","1,240",0.8%,4.1%,9.8%
+"Lancaster, PA ",xsmall,"Finance and insurance, and real estate and rental and leasing",9.0,"64,581","49,800","287,200","1,240",0.8%,4.1%,9.8%
+"Lancaster, PA ",xsmall,"Professional, scientific, and management, and administrative and waste management services",4.0,"64,581","49,800","287,200","1,240",0.8%,4.1%,9.8%
+"Lancaster, PA ",xsmall,"Educational services, and health care and social assistance",1.0,"64,581","49,800","287,200","1,240",0.8%,4.1%,9.8%
+"Lancaster, PA ",xsmall,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"64,581","49,800","287,200","1,240",0.8%,4.1%,9.8%
+"Lancaster, PA ",xsmall,Other services (except public administration),8.0,"64,581","49,800","287,200","1,240",0.8%,4.1%,9.8%
+"Lancaster, PA ",xsmall,Public administration,12.0,"64,581","49,800","287,200","1,240",0.8%,4.1%,9.8%
+"Lansing-East Lansing, MI ",xsmall,"Agriculture, forestry, fishing and hunting, and mining",13.0,"56,639","48,255","194,700",966,1.3%,3.5%,14.9%
+"Lansing-East Lansing, MI ",xsmall,Construction,8.0,"56,639","48,255","194,700",966,1.3%,3.5%,14.9%
+"Lansing-East Lansing, MI ",xsmall,Manufacturing,2.0,"56,639","48,255","194,700",966,1.3%,3.5%,14.9%
+"Lansing-East Lansing, MI ",xsmall,Wholesale trade,11.0,"56,639","48,255","194,700",966,1.3%,3.5%,14.9%
+"Lansing-East Lansing, MI ",xsmall,Retail trade,3.0,"56,639","48,255","194,700",966,1.3%,3.5%,14.9%
+"Lansing-East Lansing, MI ",xsmall,"Transportation and warehousing, and utilities",10.0,"56,639","48,255","194,700",966,1.3%,3.5%,14.9%
+"Lansing-East Lansing, MI ",xsmall,Information,12.0,"56,639","48,255","194,700",966,1.3%,3.5%,14.9%
+"Lansing-East Lansing, MI ",xsmall,"Finance and insurance, and real estate and rental and leasing",6.0,"56,639","48,255","194,700",966,1.3%,3.5%,14.9%
+"Lansing-East Lansing, MI ",xsmall,"Professional, scientific, and management, and administrative and waste management services",5.0,"56,639","48,255","194,700",966,1.3%,3.5%,14.9%
+"Lansing-East Lansing, MI ",xsmall,"Educational services, and health care and social assistance",1.0,"56,639","48,255","194,700",966,1.3%,3.5%,14.9%
+"Lansing-East Lansing, MI ",xsmall,"Arts, entertainment, and recreation, and accommodation and food services",4.0,"56,639","48,255","194,700",966,1.3%,3.5%,14.9%
+"Lansing-East Lansing, MI ",xsmall,Other services (except public administration),9.0,"56,639","48,255","194,700",966,1.3%,3.5%,14.9%
+"Lansing-East Lansing, MI ",xsmall,Public administration,7.0,"56,639","48,255","194,700",966,1.3%,3.5%,14.9%
+"Las Vegas-Henderson-Paradise, NV ",large,"Agriculture, forestry, fishing and hunting, and mining",13.0,"52,136","45,796","432,300","1,485",2.3%,1.2%,12.9%
+"Las Vegas-Henderson-Paradise, NV ",large,Construction,6.0,"52,136","45,796","432,300","1,485",2.3%,1.2%,12.9%
+"Las Vegas-Henderson-Paradise, NV ",large,Manufacturing,9.0,"52,136","45,796","432,300","1,485",2.3%,1.2%,12.9%
+"Las Vegas-Henderson-Paradise, NV ",large,Wholesale trade,12.0,"52,136","45,796","432,300","1,485",2.3%,1.2%,12.9%
+"Las Vegas-Henderson-Paradise, NV ",large,Retail trade,4.0,"52,136","45,796","432,300","1,485",2.3%,1.2%,12.9%
+"Las Vegas-Henderson-Paradise, NV ",large,"Transportation and warehousing, and utilities",5.0,"52,136","45,796","432,300","1,485",2.3%,1.2%,12.9%
+"Las Vegas-Henderson-Paradise, NV ",large,Information,11.0,"52,136","45,796","432,300","1,485",2.3%,1.2%,12.9%
+"Las Vegas-Henderson-Paradise, NV ",large,"Finance and insurance, and real estate and rental and leasing",7.0,"52,136","45,796","432,300","1,485",2.3%,1.2%,12.9%
+"Las Vegas-Henderson-Paradise, NV ",large,"Professional, scientific, and management, and administrative and waste management services",3.0,"52,136","45,796","432,300","1,485",2.3%,1.2%,12.9%
+"Las Vegas-Henderson-Paradise, NV ",large,"Educational services, and health care and social assistance",2.0,"52,136","45,796","432,300","1,485",2.3%,1.2%,12.9%
+"Las Vegas-Henderson-Paradise, NV ",large,"Arts, entertainment, and recreation, and accommodation and food services",1.0,"52,136","45,796","432,300","1,485",2.3%,1.2%,12.9%
+"Las Vegas-Henderson-Paradise, NV ",large,Other services (except public administration),8.0,"52,136","45,796","432,300","1,485",2.3%,1.2%,12.9%
+"Las Vegas-Henderson-Paradise, NV ",large,Public administration,10.0,"52,136","45,796","432,300","1,485",2.3%,1.2%,12.9%
+"Lexington-Fayette, KY ",xsmall,"Agriculture, forestry, fishing and hunting, and mining",11.0,"60,298","47,096","270,300","1,026",0.6%,2.2%,11.5%
+"Lexington-Fayette, KY ",xsmall,Construction,8.0,"60,298","47,096","270,300","1,026",0.6%,2.2%,11.5%
+"Lexington-Fayette, KY ",xsmall,Manufacturing,2.0,"60,298","47,096","270,300","1,026",0.6%,2.2%,11.5%
+"Lexington-Fayette, KY ",xsmall,Wholesale trade,12.0,"60,298","47,096","270,300","1,026",0.6%,2.2%,11.5%
+"Lexington-Fayette, KY ",xsmall,Retail trade,4.0,"60,298","47,096","270,300","1,026",0.6%,2.2%,11.5%
+"Lexington-Fayette, KY ",xsmall,"Transportation and warehousing, and utilities",7.0,"60,298","47,096","270,300","1,026",0.6%,2.2%,11.5%
+"Lexington-Fayette, KY ",xsmall,Information,13.0,"60,298","47,096","270,300","1,026",0.6%,2.2%,11.5%
+"Lexington-Fayette, KY ",xsmall,"Finance and insurance, and real estate and rental and leasing",9.0,"60,298","47,096","270,300","1,026",0.6%,2.2%,11.5%
+"Lexington-Fayette, KY ",xsmall,"Professional, scientific, and management, and administrative and waste management services",2.0,"60,298","47,096","270,300","1,026",0.6%,2.2%,11.5%
+"Lexington-Fayette, KY ",xsmall,"Educational services, and health care and social assistance",1.0,"60,298","47,096","270,300","1,026",0.6%,2.2%,11.5%
+"Lexington-Fayette, KY ",xsmall,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"60,298","47,096","270,300","1,026",0.6%,2.2%,11.5%
+"Lexington-Fayette, KY ",xsmall,Other services (except public administration),6.0,"60,298","47,096","270,300","1,026",0.6%,2.2%,11.5%
+"Lexington-Fayette, KY ",xsmall,Public administration,10.0,"60,298","47,096","270,300","1,026",0.6%,2.2%,11.5%
+"Little Rock-North Little Rock-Conway, AR ",small,"Agriculture, forestry, fishing and hunting, and mining",13.0,"52,829","45,269","201,700",921,0.4%,1.3%,10.3%
+"Little Rock-North Little Rock-Conway, AR ",small,Construction,9.0,"52,829","45,269","201,700",921,0.4%,1.3%,10.3%
+"Little Rock-North Little Rock-Conway, AR ",small,Manufacturing,4.0,"52,829","45,269","201,700",921,0.4%,1.3%,10.3%
+"Little Rock-North Little Rock-Conway, AR ",small,Wholesale trade,12.0,"52,829","45,269","201,700",921,0.4%,1.3%,10.3%
+"Little Rock-North Little Rock-Conway, AR ",small,Retail trade,2.0,"52,829","45,269","201,700",921,0.4%,1.3%,10.3%
+"Little Rock-North Little Rock-Conway, AR ",small,"Transportation and warehousing, and utilities",6.0,"52,829","45,269","201,700",921,0.4%,1.3%,10.3%
+"Little Rock-North Little Rock-Conway, AR ",small,Information,11.0,"52,829","45,269","201,700",921,0.4%,1.3%,10.3%
+"Little Rock-North Little Rock-Conway, AR ",small,"Finance and insurance, and real estate and rental and leasing",6.0,"52,829","45,269","201,700",921,0.4%,1.3%,10.3%
+"Little Rock-North Little Rock-Conway, AR ",small,"Professional, scientific, and management, and administrative and waste management services",3.0,"52,829","45,269","201,700",921,0.4%,1.3%,10.3%
+"Little Rock-North Little Rock-Conway, AR ",small,"Educational services, and health care and social assistance",1.0,"52,829","45,269","201,700",921,0.4%,1.3%,10.3%
+"Little Rock-North Little Rock-Conway, AR ",small,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"52,829","45,269","201,700",921,0.4%,1.3%,10.3%
+"Little Rock-North Little Rock-Conway, AR ",small,Other services (except public administration),10.0,"52,829","45,269","201,700",921,0.4%,1.3%,10.3%
+"Little Rock-North Little Rock-Conway, AR ",small,Public administration,6.0,"52,829","45,269","201,700",921,0.4%,1.3%,10.3%
+"Los Angeles-Long Beach-Anaheim, CA ",xlarge,"Agriculture, forestry, fishing and hunting, and mining",13.0,"62,611","56,265","847,400","1,887",3.1%,2.3%,17.2%
+"Los Angeles-Long Beach-Anaheim, CA ",xlarge,Construction,6.0,"62,611","56,265","847,400","1,887",3.1%,2.3%,17.2%
+"Los Angeles-Long Beach-Anaheim, CA ",xlarge,Manufacturing,5.0,"62,611","56,265","847,400","1,887",3.1%,2.3%,17.2%
+"Los Angeles-Long Beach-Anaheim, CA ",xlarge,Wholesale trade,12.0,"62,611","56,265","847,400","1,887",3.1%,2.3%,17.2%
+"Los Angeles-Long Beach-Anaheim, CA ",xlarge,Retail trade,4.0,"62,611","56,265","847,400","1,887",3.1%,2.3%,17.2%
+"Los Angeles-Long Beach-Anaheim, CA ",xlarge,"Transportation and warehousing, and utilities",8.0,"62,611","56,265","847,400","1,887",3.1%,2.3%,17.2%
+"Los Angeles-Long Beach-Anaheim, CA ",xlarge,Information,10.0,"62,611","56,265","847,400","1,887",3.1%,2.3%,17.2%
+"Los Angeles-Long Beach-Anaheim, CA ",xlarge,"Finance and insurance, and real estate and rental and leasing",7.0,"62,611","56,265","847,400","1,887",3.1%,2.3%,17.2%
+"Los Angeles-Long Beach-Anaheim, CA ",xlarge,"Professional, scientific, and management, and administrative and waste management services",2.0,"62,611","56,265","847,400","1,887",3.1%,2.3%,17.2%
+"Los Angeles-Long Beach-Anaheim, CA ",xlarge,"Educational services, and health care and social assistance",1.0,"62,611","56,265","847,400","1,887",3.1%,2.3%,17.2%
+"Los Angeles-Long Beach-Anaheim, CA ",xlarge,"Arts, entertainment, and recreation, and accommodation and food services",3.0,"62,611","56,265","847,400","1,887",3.1%,2.3%,17.2%
+"Los Angeles-Long Beach-Anaheim, CA ",xlarge,Other services (except public administration),9.0,"62,611","56,265","847,400","1,887",3.1%,2.3%,17.2%
+"Los Angeles-Long Beach-Anaheim, CA ",xlarge,Public administration,11.0,"62,611","56,265","847,400","1,887",3.1%,2.3%,17.2%
+"Louisville/Jefferson County, KY-IN ",large,"Agriculture, forestry, fishing and hunting, and mining",13.0,"59,116","49,170","245,700","1,029",0.7%,1.3%,13.7%
+"Louisville/Jefferson County, KY-IN ",large,Construction,8.0,"59,116","49,170","245,700","1,029",0.7%,1.3%,13.7%
+"Louisville/Jefferson County, KY-IN ",large,Manufacturing,2.0,"59,116","49,170","245,700","1,029",0.7%,1.3%,13.7%
+"Louisville/Jefferson County, KY-IN ",large,Wholesale trade,11.0,"59,116","49,170","245,700","1,029",0.7%,1.3%,13.7%
+"Louisville/Jefferson County, KY-IN ",large,Retail trade,3.0,"59,116","49,170","245,700","1,029",0.7%,1.3%,13.7%
+"Louisville/Jefferson County, KY-IN ",large,"Transportation and warehousing, and utilities",5.0,"59,116","49,170","245,700","1,029",0.7%,1.3%,13.7%
+"Louisville/Jefferson County, KY-IN ",large,Information,12.0,"59,116","49,170","245,700","1,029",0.7%,1.3%,13.7%
+"Louisville/Jefferson County, KY-IN ",large,"Finance and insurance, and real estate and rental and leasing",6.0,"59,116","49,170","245,700","1,029",0.7%,1.3%,13.7%
+"Louisville/Jefferson County, KY-IN ",large,"Professional, scientific, and management, and administrative and waste management services",4.0,"59,116","49,170","245,700","1,029",0.7%,1.3%,13.7%
+"Louisville/Jefferson County, KY-IN ",large,"Educational services, and health care and social assistance",1.0,"59,116","49,170","245,700","1,029",0.7%,1.3%,13.7%
+"Louisville/Jefferson County, KY-IN ",large,"Arts, entertainment, and recreation, and accommodation and food services",7.0,"59,116","49,170","245,700","1,029",0.7%,1.3%,13.7%
+"Louisville/Jefferson County, KY-IN ",large,Other services (except public administration),9.0,"59,116","49,170","245,700","1,029",0.7%,1.3%,13.7%
+"Louisville/Jefferson County, KY-IN ",large,Public administration,10.0,"59,116","49,170","245,700","1,029",0.7%,1.3%,13.7%
+"Madison, WI ",small,"Agriculture, forestry, fishing and hunting, and mining",13.0,"69,141","58,544","351,100","1,224",2.4%,4.5%,19.2%
+"Madison, WI ",small,Construction,8.0,"69,141","58,544","351,100","1,224",2.4%,4.5%,19.2%
+"Madison, WI ",small,Manufacturing,3.0,"69,141","58,544","351,100","1,224",2.4%,4.5%,19.2%
+"Madison, WI ",small,Wholesale trade,12.0,"69,141","58,544","351,100","1,224",2.4%,4.5%,19.2%
+"Madison, WI ",small,Retail trade,4.0,"69,141","58,544","351,100","1,224",2.4%,4.5%,19.2%
+"Madison, WI ",small,"Transportation and warehousing, and utilities",10.0,"69,141","58,544","351,100","1,224",2.4%,4.5%,19.2%
+"Madison, WI ",small,Information,11.0,"69,141","58,544","351,100","1,224",2.4%,4.5%,19.2%
+"Madison, WI ",small,"Finance and insurance, and real estate and rental and leasing",5.0,"69,141","58,544","351,100","1,224",2.4%,4.5%,19.2%
+"Madison, WI ",small,"Professional, scientific, and management, and administrative and waste management services",2.0,"69,141","58,544","351,100","1,224",2.4%,4.5%,19.2%
+"Madison, WI ",small,"Educational services, and health care and social assistance",1.0,"69,141","58,544","351,100","1,224",2.4%,4.5%,19.2%
+"Madison, WI ",small,"Arts, entertainment, and recreation, and accommodation and food services",6.0,"69,141","58,544","351,100","1,224",2.4%,4.5%,19.2%
+"Madison, WI ",small,Other services (except public administration),9.0,"69,141","58,544","351,100","1,224",2.4%,4.5%,19.2%
+"Madison, WI ",small,Public administration,7.0,"69,141","58,544","351,100","1,224",2.4%,4.5%,19.2%
+"McAllen-Edinburg-Mission, TX ",medium,"Agriculture, forestry, fishing and hunting, and mining",11.0,"43,215","35,576","123,700",886,0.2%,1.6%,9.0%
+"McAllen-Edinburg-Mission, TX ",medium,Construction,2.0,"43,215","35,576","123,700",886,0.2%,1.6%,9.0%
+"McAllen-Edinburg-Mission, TX ",medium,Manufacturing,7.0,"43,215","35,576","123,700",886,0.2%,1.6%,9.0%
+"McAllen-Edinburg-Mission, TX ",medium,Wholesale trade,12.0,"43,215","35,576","123,700",886,0.2%,1.6%,9.0%
+"McAllen-Edinburg-Mission, TX ",medium,Retail trade,3.0,"43,215","35,576","123,700",886,0.2%,1.6%,9.0%
+"McAllen-Edinburg-Mission, TX ",medium,"Transportation and warehousing, and utilities",6.0,"43,215","35,576","123,700",886,0.2%,1.6%,9.0%
+"McAllen-Edinburg-Mission, TX ",medium,Information,13.0,"43,215","35,576","123,700",886,0.2%,1.6%,9.0%
+"McAllen-Edinburg-Mission, TX ",medium,"Finance and insurance, and real estate and rental and leasing",10.0,"43,215","35,576","123,700",886,0.2%,1.6%,9.0%
+"McAllen-Edinburg-Mission, TX ",medium,"Professional, scientific, and management, and administrative and waste management services",5.0,"43,215","35,576","123,700",886,0.2%,1.6%,9.0%
+"McAllen-Edinburg-Mission, TX ",medium,"Educational services, and health care and social assistance",1.0,"43,215","35,576","123,700",886,0.2%,1.6%,9.0%
+"McAllen-Edinburg-Mission, TX ",medium,"Arts, entertainment, and recreation, and accommodation and food services",4.0,"43,215","35,576","123,700",886,0.2%,1.6%,9.0%
+"McAllen-Edinburg-Mission, TX ",medium,Other services (except public administration),7.0,"43,215","35,576","123,700",886,0.2%,1.6%,9.0%
+"McAllen-Edinburg-Mission, TX ",medium,Public administration,9.0,"43,215","35,576","123,700",886,0.2%,1.6%,9.0%
+"Memphis, TN-MS-AR ",large,"Agriculture, forestry, fishing and hunting, and mining",13.0,"55,276","46,316","244,100","1,132",0.3%,1.4%,11.1%
+"Memphis, TN-MS-AR ",large,Construction,7.0,"55,276","46,316","244,100","1,132",0.3%,1.4%,11.1%
+"Memphis, TN-MS-AR ",large,Manufacturing,5.0,"55,276","46,316","244,100","1,132",0.3%,1.4%,11.1%
+"Memphis, TN-MS-AR ",large,Wholesale trade,11.0,"55,276","46,316","244,100","1,132",0.3%,1.4%,11.1%
+"Memphis, TN-MS-AR ",large,Retail trade,3.0,"55,276","46,316","244,100","1,132",0.3%,1.4%,11.1%
+"Memphis, TN-MS-AR ",large,"Transportation and warehousing, and utilities",2.0,"55,276","46,316","244,100","1,132",0.3%,1.4%,11.1%
+"Memphis, TN-MS-AR ",large,Information,12.0,"55,276","46,316","244,100","1,132",0.3%,1.4%,11.1%
+"Memphis, TN-MS-AR ",large,"Finance and insurance, and real estate and rental and leasing",8.0,"55,276","46,316","244,100","1,132",0.3%,1.4%,11.1%
+"Memphis, TN-MS-AR ",large,"Professional, scientific, and management, and administrative and waste management services",4.0,"55,276","46,316","244,100","1,132",0.3%,1.4%,11.1%
+"Memphis, TN-MS-AR ",large,"Educational services, and health care and social assistance",1.0,"55,276","46,316","244,100","1,132",0.3%,1.4%,11.1%
+"Memphis, TN-MS-AR ",large,"Arts, entertainment, and recreation, and accommodation and food services",6.0,"55,276","46,316","244,100","1,132",0.3%,1.4%,11.1%
+"Memphis, TN-MS-AR ",large,Other services (except public administration),9.0,"55,276","46,316","244,100","1,132",0.3%,1.4%,11.1%
+"Memphis, TN-MS-AR ",large,Public administration,10.0,"55,276","46,316","244,100","1,132",0.3%,1.4%,11.1%
+"Miami-Fort Lauderdale-Pompano Beach, FL ",xlarge,"Agriculture, forestry, fishing and hunting, and mining",13.0,"52,904","45,380","429,800","1,712",2.4%,1.6%,14.9%
+"Miami-Fort Lauderdale-Pompano Beach, FL ",xlarge,Construction,5.0,"52,904","45,380","429,800","1,712",2.4%,1.6%,14.9%
+"Miami-Fort Lauderdale-Pompano Beach, FL ",xlarge,Manufacturing,9.0,"52,904","45,380","429,800","1,712",2.4%,1.6%,14.9%
+"Miami-Fort Lauderdale-Pompano Beach, FL ",xlarge,Wholesale trade,11.0,"52,904","45,380","429,800","1,712",2.4%,1.6%,14.9%
+"Miami-Fort Lauderdale-Pompano Beach, FL ",xlarge,Retail trade,3.0,"52,904","45,380","429,800","1,712",2.4%,1.6%,14.9%
+"Miami-Fort Lauderdale-Pompano Beach, FL ",xlarge,"Transportation and warehousing, and utilities",7.0,"52,904","45,380","429,800","1,712",2.4%,1.6%,14.9%
+"Miami-Fort Lauderdale-Pompano Beach, FL ",xlarge,Information,12.0,"52,904","45,380","429,800","1,712",2.4%,1.6%,14.9%
+"Miami-Fort Lauderdale-Pompano Beach, FL ",xlarge,"Finance and insurance, and real estate and rental and leasing",5.0,"52,904","45,380","429,800","1,712",2.4%,1.6%,14.9%
+"Miami-Fort Lauderdale-Pompano Beach, FL ",xlarge,"Professional, scientific, and management, and administrative and waste management services",2.0,"52,904","45,380","429,800","1,712",2.4%,1.6%,14.9%
+"Miami-Fort Lauderdale-Pompano Beach, FL ",xlarge,"Educational services, and health care and social assistance",1.0,"52,904","45,380","429,800","1,712",2.4%,1.6%,14.9%
+"Miami-Fort Lauderdale-Pompano Beach, FL ",xlarge,"Arts, entertainment, and recreation, and accommodation and food services",4.0,"52,904","45,380","429,800","1,712",2.4%,1.6%,14.9%
+"Miami-Fort Lauderdale-Pompano Beach, FL ",xlarge,Other services (except public administration),8.0,"52,904","45,380","429,800","1,712",2.4%,1.6%,14.9%
+"Miami-Fort Lauderdale-Pompano Beach, FL ",xlarge,Public administration,10.0,"52,904","45,380","429,800","1,712",2.4%,1.6%,14.9%
+"Milwaukee-Waukesha, WI ",large,"Agriculture, forestry, fishing and hunting, and mining",13.0,"64,504","52,723","289,600","1,054",1.8%,2.2%,14.6%
+"Milwaukee-Waukesha, WI ",large,Construction,7.0,"64,504","52,723","289,600","1,054",1.8%,2.2%,14.6%
+"Milwaukee-Waukesha, WI ",large,Manufacturing,2.0,"64,504","52,723","289,600","1,054",1.8%,2.2%,14.6%
+"Milwaukee-Waukesha, WI ",large,Wholesale trade,11.0,"64,504","52,723","289,600","1,054",1.8%,2.2%,14.6%
+"Milwaukee-Waukesha, WI ",large,Retail trade,3.0,"64,504","52,723","289,600","1,054",1.8%,2.2%,14.6%
+"Milwaukee-Waukesha, WI ",large,"Transportation and warehousing, and utilities",8.0,"64,504","52,723","289,600","1,054",1.8%,2.2%,14.6%
+"Milwaukee-Waukesha, WI ",large,Information,12.0,"64,504","52,723","289,600","1,054",1.8%,2.2%,14.6%
+"Milwaukee-Waukesha, WI ",large,"Finance and insurance, and real estate and rental and leasing",6.0,"64,504","52,723","289,600","1,054",1.8%,2.2%,14.6%
+"Milwaukee-Waukesha, WI ",large,"Professional, scientific, and management, and administrative and waste management services",3.0,"64,504","52,723","289,600","1,054",1.8%,2.2%,14.6%
+"Milwaukee-Waukesha, WI ",large,"Educational services, and health care and social assistance",1.0,"64,504","52,723","289,600","1,054",1.8%,2.2%,14.6%
+"Milwaukee-Waukesha, WI ",large,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"64,504","52,723","289,600","1,054",1.8%,2.2%,14.6%
+"Milwaukee-Waukesha, WI ",large,Other services (except public administration),9.0,"64,504","52,723","289,600","1,054",1.8%,2.2%,14.6%
+"Milwaukee-Waukesha, WI ",large,Public administration,10.0,"64,504","52,723","289,600","1,054",1.8%,2.2%,14.6%
+"Minneapolis-St. Paul-Bloomington, MN-WI ",xlarge,"Agriculture, forestry, fishing and hunting, and mining",13.0,"72,960","61,684","359,800","1,355",2.0%,1.9%,20.9%
+"Minneapolis-St. Paul-Bloomington, MN-WI ",xlarge,Construction,7.0,"72,960","61,684","359,800","1,355",2.0%,1.9%,20.9%
+"Minneapolis-St. Paul-Bloomington, MN-WI ",xlarge,Manufacturing,2.0,"72,960","61,684","359,800","1,355",2.0%,1.9%,20.9%
+"Minneapolis-St. Paul-Bloomington, MN-WI ",xlarge,Wholesale trade,11.0,"72,960","61,684","359,800","1,355",2.0%,1.9%,20.9%
+"Minneapolis-St. Paul-Bloomington, MN-WI ",xlarge,Retail trade,4.0,"72,960","61,684","359,800","1,355",2.0%,1.9%,20.9%
+"Minneapolis-St. Paul-Bloomington, MN-WI ",xlarge,"Transportation and warehousing, and utilities",8.0,"72,960","61,684","359,800","1,355",2.0%,1.9%,20.9%
+"Minneapolis-St. Paul-Bloomington, MN-WI ",xlarge,Information,12.0,"72,960","61,684","359,800","1,355",2.0%,1.9%,20.9%
+"Minneapolis-St. Paul-Bloomington, MN-WI ",xlarge,"Finance and insurance, and real estate and rental and leasing",5.0,"72,960","61,684","359,800","1,355",2.0%,1.9%,20.9%
+"Minneapolis-St. Paul-Bloomington, MN-WI ",xlarge,"Professional, scientific, and management, and administrative and waste management services",3.0,"72,960","61,684","359,800","1,355",2.0%,1.9%,20.9%
+"Minneapolis-St. Paul-Bloomington, MN-WI ",xlarge,"Educational services, and health care and social assistance",1.0,"72,960","61,684","359,800","1,355",2.0%,1.9%,20.9%
+"Minneapolis-St. Paul-Bloomington, MN-WI ",xlarge,"Arts, entertainment, and recreation, and accommodation and food services",6.0,"72,960","61,684","359,800","1,355",2.0%,1.9%,20.9%
+"Minneapolis-St. Paul-Bloomington, MN-WI ",xlarge,Other services (except public administration),9.0,"72,960","61,684","359,800","1,355",2.0%,1.9%,20.9%
+"Minneapolis-St. Paul-Bloomington, MN-WI ",xlarge,Public administration,10.0,"72,960","61,684","359,800","1,355",2.0%,1.9%,20.9%
+"Modesto, CA ",xsmall,"Agriculture, forestry, fishing and hunting, and mining",8.0,"56,960","51,540","450,700","1,436",1.0%,1.6%,7.2%
+"Modesto, CA ",xsmall,Construction,6.0,"56,960","51,540","450,700","1,436",1.0%,1.6%,7.2%
+"Modesto, CA ",xsmall,Manufacturing,2.0,"56,960","51,540","450,700","1,436",1.0%,1.6%,7.2%
+"Modesto, CA ",xsmall,Wholesale trade,12.0,"56,960","51,540","450,700","1,436",1.0%,1.6%,7.2%
+"Modesto, CA ",xsmall,Retail trade,3.0,"56,960","51,540","450,700","1,436",1.0%,1.6%,7.2%
+"Modesto, CA ",xsmall,"Transportation and warehousing, and utilities",7.0,"56,960","51,540","450,700","1,436",1.0%,1.6%,7.2%
+"Modesto, CA ",xsmall,Information,13.0,"56,960","51,540","450,700","1,436",1.0%,1.6%,7.2%
+"Modesto, CA ",xsmall,"Finance and insurance, and real estate and rental and leasing",11.0,"56,960","51,540","450,700","1,436",1.0%,1.6%,7.2%
+"Modesto, CA ",xsmall,"Professional, scientific, and management, and administrative and waste management services",4.0,"56,960","51,540","450,700","1,436",1.0%,1.6%,7.2%
+"Modesto, CA ",xsmall,"Educational services, and health care and social assistance",1.0,"56,960","51,540","450,700","1,436",1.0%,1.6%,7.2%
+"Modesto, CA ",xsmall,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"56,960","51,540","450,700","1,436",1.0%,1.6%,7.2%
+"Modesto, CA ",xsmall,Other services (except public administration),9.0,"56,960","51,540","450,700","1,436",1.0%,1.6%,7.2%
+"Modesto, CA ",xsmall,Public administration,9.0,"56,960","51,540","450,700","1,436",1.0%,1.6%,7.2%
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC ",xsmall,"Agriculture, forestry, fishing and hunting, and mining",13.0,"51,487","45,650","299,300","1,201",0.2%,1.1%,12.7%
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC ",xsmall,Construction,5.0,"51,487","45,650","299,300","1,201",0.2%,1.1%,12.7%
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC ",xsmall,Manufacturing,8.0,"51,487","45,650","299,300","1,201",0.2%,1.1%,12.7%
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC ",xsmall,Wholesale trade,11.0,"51,487","45,650","299,300","1,201",0.2%,1.1%,12.7%
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC ",xsmall,Retail trade,3.0,"51,487","45,650","299,300","1,201",0.2%,1.1%,12.7%
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC ",xsmall,"Transportation and warehousing, and utilities",7.0,"51,487","45,650","299,300","1,201",0.2%,1.1%,12.7%
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC ",xsmall,Information,12.0,"51,487","45,650","299,300","1,201",0.2%,1.1%,12.7%
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC ",xsmall,"Finance and insurance, and real estate and rental and leasing",6.0,"51,487","45,650","299,300","1,201",0.2%,1.1%,12.7%
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC ",xsmall,"Professional, scientific, and management, and administrative and waste management services",4.0,"51,487","45,650","299,300","1,201",0.2%,1.1%,12.7%
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC ",xsmall,"Educational services, and health care and social assistance",1.0,"51,487","45,650","299,300","1,201",0.2%,1.1%,12.7%
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC ",xsmall,"Arts, entertainment, and recreation, and accommodation and food services",2.0,"51,487","45,650","299,300","1,201",0.2%,1.1%,12.7%
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC ",xsmall,Other services (except public administration),9.0,"51,487","45,650","299,300","1,201",0.2%,1.1%,12.7%
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC ",xsmall,Public administration,9.0,"51,487","45,650","299,300","1,201",0.2%,1.1%,12.7%
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",large,"Agriculture, forestry, fishing and hunting, and mining",13.0,"61,926","51,555","421,500","1,413",0.7%,1.1%,19.4%
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",large,Construction,7.0,"61,926","51,555","421,500","1,413",0.7%,1.1%,19.4%
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",large,Manufacturing,5.0,"61,926","51,555","421,500","1,413",0.7%,1.1%,19.4%
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",large,Wholesale trade,12.0,"61,926","51,555","421,500","1,413",0.7%,1.1%,19.4%
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",large,Retail trade,3.0,"61,926","51,555","421,500","1,413",0.7%,1.1%,19.4%
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",large,"Transportation and warehousing, and utilities",8.0,"61,926","51,555","421,500","1,413",0.7%,1.1%,19.4%
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",large,Information,11.0,"61,926","51,555","421,500","1,413",0.7%,1.1%,19.4%
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",large,"Finance and insurance, and real estate and rental and leasing",6.0,"61,926","51,555","421,500","1,413",0.7%,1.1%,19.4%
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",large,"Professional, scientific, and management, and administrative and waste management services",2.0,"61,926","51,555","421,500","1,413",0.7%,1.1%,19.4%
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",large,"Educational services, and health care and social assistance",1.0,"61,926","51,555","421,500","1,413",0.7%,1.1%,19.4%
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",large,"Arts, entertainment, and recreation, and accommodation and food services",4.0,"61,926","51,555","421,500","1,413",0.7%,1.1%,19.4%
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",large,Other services (except public administration),9.0,"61,926","51,555","421,500","1,413",0.7%,1.1%,19.4%
+"Nashville-Davidson--Murfreesboro--Franklin, TN ",large,Public administration,10.0,"61,926","51,555","421,500","1,413",0.7%,1.1%,19.4%
+"New Haven-Milford, CT ",small,"Agriculture, forestry, fishing and hunting, and mining",13.0,"71,042","61,863","319,400","1,335",3.2%,3.9%,13.2%
+"New Haven-Milford, CT ",small,Construction,6.0,"71,042","61,863","319,400","1,335",3.2%,3.9%,13.2%
+"New Haven-Milford, CT ",small,Manufacturing,2.0,"71,042","61,863","319,400","1,335",3.2%,3.9%,13.2%
+"New Haven-Milford, CT ",small,Wholesale trade,12.0,"71,042","61,863","319,400","1,335",3.2%,3.9%,13.2%
+"New Haven-Milford, CT ",small,Retail trade,3.0,"71,042","61,863","319,400","1,335",3.2%,3.9%,13.2%
+"New Haven-Milford, CT ",small,"Transportation and warehousing, and utilities",8.0,"71,042","61,863","319,400","1,335",3.2%,3.9%,13.2%
+"New Haven-Milford, CT ",small,Information,11.0,"71,042","61,863","319,400","1,335",3.2%,3.9%,13.2%
+"New Haven-Milford, CT ",small,"Finance and insurance, and real estate and rental and leasing",7.0,"71,042","61,863","319,400","1,335",3.2%,3.9%,13.2%
+"New Haven-Milford, CT ",small,"Professional, scientific, and management, and administrative and waste management services",4.0,"71,042","61,863","319,400","1,335",3.2%,3.9%,13.2%
+"New Haven-Milford, CT ",small,"Educational services, and health care and social assistance",1.0,"71,042","61,863","319,400","1,335",3.2%,3.9%,13.2%
+"New Haven-Milford, CT ",small,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"71,042","61,863","319,400","1,335",3.2%,3.9%,13.2%
+"New Haven-Milford, CT ",small,Other services (except public administration),8.0,"71,042","61,863","319,400","1,335",3.2%,3.9%,13.2%
+"New Haven-Milford, CT ",small,Public administration,10.0,"71,042","61,863","319,400","1,335",3.2%,3.9%,13.2%
+"New Orleans-Metairie, LA ",medium,"Agriculture, forestry, fishing and hunting, and mining",13.0,"60,057","47,481","265,800","1,148",1.6%,2.9%,11.3%
+"New Orleans-Metairie, LA ",medium,Construction,5.0,"60,057","47,481","265,800","1,148",1.6%,2.9%,11.3%
+"New Orleans-Metairie, LA ",medium,Manufacturing,7.0,"60,057","47,481","265,800","1,148",1.6%,2.9%,11.3%
+"New Orleans-Metairie, LA ",medium,Wholesale trade,11.0,"60,057","47,481","265,800","1,148",1.6%,2.9%,11.3%
+"New Orleans-Metairie, LA ",medium,Retail trade,3.0,"60,057","47,481","265,800","1,148",1.6%,2.9%,11.3%
+"New Orleans-Metairie, LA ",medium,"Transportation and warehousing, and utilities",8.0,"60,057","47,481","265,800","1,148",1.6%,2.9%,11.3%
+"New Orleans-Metairie, LA ",medium,Information,12.0,"60,057","47,481","265,800","1,148",1.6%,2.9%,11.3%
+"New Orleans-Metairie, LA ",medium,"Finance and insurance, and real estate and rental and leasing",6.0,"60,057","47,481","265,800","1,148",1.6%,2.9%,11.3%
+"New Orleans-Metairie, LA ",medium,"Professional, scientific, and management, and administrative and waste management services",2.0,"60,057","47,481","265,800","1,148",1.6%,2.9%,11.3%
+"New Orleans-Metairie, LA ",medium,"Educational services, and health care and social assistance",1.0,"60,057","47,481","265,800","1,148",1.6%,2.9%,11.3%
+"New Orleans-Metairie, LA ",medium,"Arts, entertainment, and recreation, and accommodation and food services",4.0,"60,057","47,481","265,800","1,148",1.6%,2.9%,11.3%
+"New Orleans-Metairie, LA ",medium,Other services (except public administration),9.0,"60,057","47,481","265,800","1,148",1.6%,2.9%,11.3%
+"New Orleans-Metairie, LA ",medium,Public administration,10.0,"60,057","47,481","265,800","1,148",1.6%,2.9%,11.3%
+"New York-Newark-Jersey City, NY-NJ-PA ",xlarge,"Agriculture, forestry, fishing and hunting, and mining",13.0,"76,157","65,070","578,800","1,685",23.8%,5.5%,16.3%
+"New York-Newark-Jersey City, NY-NJ-PA ",xlarge,Construction,7.0,"76,157","65,070","578,800","1,685",23.8%,5.5%,16.3%
+"New York-Newark-Jersey City, NY-NJ-PA ",xlarge,Manufacturing,8.0,"76,157","65,070","578,800","1,685",23.8%,5.5%,16.3%
+"New York-Newark-Jersey City, NY-NJ-PA ",xlarge,Wholesale trade,12.0,"76,157","65,070","578,800","1,685",23.8%,5.5%,16.3%
+"New York-Newark-Jersey City, NY-NJ-PA ",xlarge,Retail trade,3.0,"76,157","65,070","578,800","1,685",23.8%,5.5%,16.3%
+"New York-Newark-Jersey City, NY-NJ-PA ",xlarge,"Transportation and warehousing, and utilities",6.0,"76,157","65,070","578,800","1,685",23.8%,5.5%,16.3%
+"New York-Newark-Jersey City, NY-NJ-PA ",xlarge,Information,11.0,"76,157","65,070","578,800","1,685",23.8%,5.5%,16.3%
+"New York-Newark-Jersey City, NY-NJ-PA ",xlarge,"Finance and insurance, and real estate and rental and leasing",4.0,"76,157","65,070","578,800","1,685",23.8%,5.5%,16.3%
+"New York-Newark-Jersey City, NY-NJ-PA ",xlarge,"Professional, scientific, and management, and administrative and waste management services",2.0,"76,157","65,070","578,800","1,685",23.8%,5.5%,16.3%
+"New York-Newark-Jersey City, NY-NJ-PA ",xlarge,"Educational services, and health care and social assistance",1.0,"76,157","65,070","578,800","1,685",23.8%,5.5%,16.3%
+"New York-Newark-Jersey City, NY-NJ-PA ",xlarge,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"76,157","65,070","578,800","1,685",23.8%,5.5%,16.3%
+"New York-Newark-Jersey City, NY-NJ-PA ",xlarge,Other services (except public administration),9.0,"76,157","65,070","578,800","1,685",23.8%,5.5%,16.3%
+"New York-Newark-Jersey City, NY-NJ-PA ",xlarge,Public administration,10.0,"76,157","65,070","578,800","1,685",23.8%,5.5%,16.3%
+"North Port-Sarasota-Bradenton, FL ",medium,"Agriculture, forestry, fishing and hunting, and mining",13.0,"57,222","45,877","402,600","1,609",0.2%,1.5%,17.4%
+"North Port-Sarasota-Bradenton, FL ",medium,Construction,5.0,"57,222","45,877","402,600","1,609",0.2%,1.5%,17.4%
+"North Port-Sarasota-Bradenton, FL ",medium,Manufacturing,7.0,"57,222","45,877","402,600","1,609",0.2%,1.5%,17.4%
+"North Port-Sarasota-Bradenton, FL ",medium,Wholesale trade,11.0,"57,222","45,877","402,600","1,609",0.2%,1.5%,17.4%
+"North Port-Sarasota-Bradenton, FL ",medium,Retail trade,2.0,"57,222","45,877","402,600","1,609",0.2%,1.5%,17.4%
+"North Port-Sarasota-Bradenton, FL ",medium,"Transportation and warehousing, and utilities",9.0,"57,222","45,877","402,600","1,609",0.2%,1.5%,17.4%
+"North Port-Sarasota-Bradenton, FL ",medium,Information,12.0,"57,222","45,877","402,600","1,609",0.2%,1.5%,17.4%
+"North Port-Sarasota-Bradenton, FL ",medium,"Finance and insurance, and real estate and rental and leasing",6.0,"57,222","45,877","402,600","1,609",0.2%,1.5%,17.4%
+"North Port-Sarasota-Bradenton, FL ",medium,"Professional, scientific, and management, and administrative and waste management services",3.0,"57,222","45,877","402,600","1,609",0.2%,1.5%,17.4%
+"North Port-Sarasota-Bradenton, FL ",medium,"Educational services, and health care and social assistance",1.0,"57,222","45,877","402,600","1,609",0.2%,1.5%,17.4%
+"North Port-Sarasota-Bradenton, FL ",medium,"Arts, entertainment, and recreation, and accommodation and food services",4.0,"57,222","45,877","402,600","1,609",0.2%,1.5%,17.4%
+"North Port-Sarasota-Bradenton, FL ",medium,Other services (except public administration),8.0,"57,222","45,877","402,600","1,609",0.2%,1.5%,17.4%
+"North Port-Sarasota-Bradenton, FL ",medium,Public administration,10.0,"57,222","45,877","402,600","1,609",0.2%,1.5%,17.4%
+"Ogden-Clearfield, UT ",small,"Agriculture, forestry, fishing and hunting, and mining",13.0,"69,047","45,992","479,100","1,336",1.1%,1.1%,18.2%
+"Ogden-Clearfield, UT ",small,Construction,5.0,"69,047","45,992","479,100","1,336",1.1%,1.1%,18.2%
+"Ogden-Clearfield, UT ",small,Manufacturing,2.0,"69,047","45,992","479,100","1,336",1.1%,1.1%,18.2%
+"Ogden-Clearfield, UT ",small,Wholesale trade,11.0,"69,047","45,992","479,100","1,336",1.1%,1.1%,18.2%
+"Ogden-Clearfield, UT ",small,Retail trade,3.0,"69,047","45,992","479,100","1,336",1.1%,1.1%,18.2%
+"Ogden-Clearfield, UT ",small,"Transportation and warehousing, and utilities",9.0,"69,047","45,992","479,100","1,336",1.1%,1.1%,18.2%
+"Ogden-Clearfield, UT ",small,Information,12.0,"69,047","45,992","479,100","1,336",1.1%,1.1%,18.2%
+"Ogden-Clearfield, UT ",small,"Finance and insurance, and real estate and rental and leasing",7.0,"69,047","45,992","479,100","1,336",1.1%,1.1%,18.2%
+"Ogden-Clearfield, UT ",small,"Professional, scientific, and management, and administrative and waste management services",4.0,"69,047","45,992","479,100","1,336",1.1%,1.1%,18.2%
+"Ogden-Clearfield, UT ",small,"Educational services, and health care and social assistance",1.0,"69,047","45,992","479,100","1,336",1.1%,1.1%,18.2%
+"Ogden-Clearfield, UT ",small,"Arts, entertainment, and recreation, and accommodation and food services",8.0,"69,047","45,992","479,100","1,336",1.1%,1.1%,18.2%
+"Ogden-Clearfield, UT ",small,Other services (except public administration),10.0,"69,047","45,992","479,100","1,336",1.1%,1.1%,18.2%
+"Ogden-Clearfield, UT ",small,Public administration,6.0,"69,047","45,992","479,100","1,336",1.1%,1.1%,18.2%
+"Oklahoma City, OK ",large,"Agriculture, forestry, fishing and hunting, and mining",11.0,"56,826","44,197","224,400","1,027",0.4%,1.6%,10.7%
+"Oklahoma City, OK ",large,Construction,6.0,"56,826","44,197","224,400","1,027",0.4%,1.6%,10.7%
+"Oklahoma City, OK ",large,Manufacturing,8.0,"56,826","44,197","224,400","1,027",0.4%,1.6%,10.7%
+"Oklahoma City, OK ",large,Wholesale trade,12.0,"56,826","44,197","224,400","1,027",0.4%,1.6%,10.7%
+"Oklahoma City, OK ",large,Retail trade,2.0,"56,826","44,197","224,400","1,027",0.4%,1.6%,10.7%
+"Oklahoma City, OK ",large,"Transportation and warehousing, and utilities",9.0,"56,826","44,197","224,400","1,027",0.4%,1.6%,10.7%
+"Oklahoma City, OK ",large,Information,13.0,"56,826","44,197","224,400","1,027",0.4%,1.6%,10.7%
+"Oklahoma City, OK ",large,"Finance and insurance, and real estate and rental and leasing",7.0,"56,826","44,197","224,400","1,027",0.4%,1.6%,10.7%
+"Oklahoma City, OK ",large,"Professional, scientific, and management, and administrative and waste management services",3.0,"56,826","44,197","224,400","1,027",0.4%,1.6%,10.7%
+"Oklahoma City, OK ",large,"Educational services, and health care and social assistance",1.0,"56,826","44,197","224,400","1,027",0.4%,1.6%,10.7%
+"Oklahoma City, OK ",large,"Arts, entertainment, and recreation, and accommodation and food services",4.0,"56,826","44,197","224,400","1,027",0.4%,1.6%,10.7%
+"Oklahoma City, OK ",large,Other services (except public administration),10.0,"56,826","44,197","224,400","1,027",0.4%,1.6%,10.7%
+"Oklahoma City, OK ",large,Public administration,5.0,"56,826","44,197","224,400","1,027",0.4%,1.6%,10.7%
+"Omaha-Council Bluffs, NE-IA ",medium,"Agriculture, forestry, fishing and hunting, and mining",13.0,"63,646","53,275","262,700","1,102",0.6%,1.4%,14.6%
+"Omaha-Council Bluffs, NE-IA ",medium,Construction,5.0,"63,646","53,275","262,700","1,102",0.6%,1.4%,14.6%
+"Omaha-Council Bluffs, NE-IA ",medium,Manufacturing,6.0,"63,646","53,275","262,700","1,102",0.6%,1.4%,14.6%
+"Omaha-Council Bluffs, NE-IA ",medium,Wholesale trade,11.0,"63,646","53,275","262,700","1,102",0.6%,1.4%,14.6%
+"Omaha-Council Bluffs, NE-IA ",medium,Retail trade,3.0,"63,646","53,275","262,700","1,102",0.6%,1.4%,14.6%
+"Omaha-Council Bluffs, NE-IA ",medium,"Transportation and warehousing, and utilities",8.0,"63,646","53,275","262,700","1,102",0.6%,1.4%,14.6%
+"Omaha-Council Bluffs, NE-IA ",medium,Information,12.0,"63,646","53,275","262,700","1,102",0.6%,1.4%,14.6%
+"Omaha-Council Bluffs, NE-IA ",medium,"Finance and insurance, and real estate and rental and leasing",4.0,"63,646","53,275","262,700","1,102",0.6%,1.4%,14.6%
+"Omaha-Council Bluffs, NE-IA ",medium,"Professional, scientific, and management, and administrative and waste management services",2.0,"63,646","53,275","262,700","1,102",0.6%,1.4%,14.6%
+"Omaha-Council Bluffs, NE-IA ",medium,"Educational services, and health care and social assistance",1.0,"63,646","53,275","262,700","1,102",0.6%,1.4%,14.6%
+"Omaha-Council Bluffs, NE-IA ",medium,"Arts, entertainment, and recreation, and accommodation and food services",6.0,"63,646","53,275","262,700","1,102",0.6%,1.4%,14.6%
+"Omaha-Council Bluffs, NE-IA ",medium,Other services (except public administration),9.0,"63,646","53,275","262,700","1,102",0.6%,1.4%,14.6%
+"Omaha-Council Bluffs, NE-IA ",medium,Public administration,10.0,"63,646","53,275","262,700","1,102",0.6%,1.4%,14.6%
+"Orlando-Kissimmee-Sanford, FL ",xlarge,"Agriculture, forestry, fishing and hunting, and mining",13.0,"56,108","45,357","361,100","1,611",1.0%,1.3%,19.1%
+"Orlando-Kissimmee-Sanford, FL ",xlarge,Construction,5.0,"56,108","45,357","361,100","1,611",1.0%,1.3%,19.1%
+"Orlando-Kissimmee-Sanford, FL ",xlarge,Manufacturing,8.0,"56,108","45,357","361,100","1,611",1.0%,1.3%,19.1%
+"Orlando-Kissimmee-Sanford, FL ",xlarge,Wholesale trade,11.0,"56,108","45,357","361,100","1,611",1.0%,1.3%,19.1%
+"Orlando-Kissimmee-Sanford, FL ",xlarge,Retail trade,4.0,"56,108","45,357","361,100","1,611",1.0%,1.3%,19.1%
+"Orlando-Kissimmee-Sanford, FL ",xlarge,"Transportation and warehousing, and utilities",7.0,"56,108","45,357","361,100","1,611",1.0%,1.3%,19.1%
+"Orlando-Kissimmee-Sanford, FL ",xlarge,Information,12.0,"56,108","45,357","361,100","1,611",1.0%,1.3%,19.1%
+"Orlando-Kissimmee-Sanford, FL ",xlarge,"Finance and insurance, and real estate and rental and leasing",6.0,"56,108","45,357","361,100","1,611",1.0%,1.3%,19.1%
+"Orlando-Kissimmee-Sanford, FL ",xlarge,"Professional, scientific, and management, and administrative and waste management services",2.0,"56,108","45,357","361,100","1,611",1.0%,1.3%,19.1%
+"Orlando-Kissimmee-Sanford, FL ",xlarge,"Educational services, and health care and social assistance",1.0,"56,108","45,357","361,100","1,611",1.0%,1.3%,19.1%
+"Orlando-Kissimmee-Sanford, FL ",xlarge,"Arts, entertainment, and recreation, and accommodation and food services",3.0,"56,108","45,357","361,100","1,611",1.0%,1.3%,19.1%
+"Orlando-Kissimmee-Sanford, FL ",xlarge,Other services (except public administration),9.0,"56,108","45,357","361,100","1,611",1.0%,1.3%,19.1%
+"Orlando-Kissimmee-Sanford, FL ",xlarge,Public administration,10.0,"56,108","45,357","361,100","1,611",1.0%,1.3%,19.1%
+"Oxnard-Thousand Oaks-Ventura, CA ",small,"Agriculture, forestry, fishing and hunting, and mining",8.0,"65,229","56,221","796,300","2,147",0.7%,1.7%,15.4%
+"Oxnard-Thousand Oaks-Ventura, CA ",small,Construction,7.0,"65,229","56,221","796,300","2,147",0.7%,1.7%,15.4%
+"Oxnard-Thousand Oaks-Ventura, CA ",small,Manufacturing,4.0,"65,229","56,221","796,300","2,147",0.7%,1.7%,15.4%
+"Oxnard-Thousand Oaks-Ventura, CA ",small,Wholesale trade,13.0,"65,229","56,221","796,300","2,147",0.7%,1.7%,15.4%
+"Oxnard-Thousand Oaks-Ventura, CA ",small,Retail trade,3.0,"65,229","56,221","796,300","2,147",0.7%,1.7%,15.4%
+"Oxnard-Thousand Oaks-Ventura, CA ",small,"Transportation and warehousing, and utilities",11.0,"65,229","56,221","796,300","2,147",0.7%,1.7%,15.4%
+"Oxnard-Thousand Oaks-Ventura, CA ",small,Information,12.0,"65,229","56,221","796,300","2,147",0.7%,1.7%,15.4%
+"Oxnard-Thousand Oaks-Ventura, CA ",small,"Finance and insurance, and real estate and rental and leasing",6.0,"65,229","56,221","796,300","2,147",0.7%,1.7%,15.4%
+"Oxnard-Thousand Oaks-Ventura, CA ",small,"Professional, scientific, and management, and administrative and waste management services",2.0,"65,229","56,221","796,300","2,147",0.7%,1.7%,15.4%
+"Oxnard-Thousand Oaks-Ventura, CA ",small,"Educational services, and health care and social assistance",1.0,"65,229","56,221","796,300","2,147",0.7%,1.7%,15.4%
+"Oxnard-Thousand Oaks-Ventura, CA ",small,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"65,229","56,221","796,300","2,147",0.7%,1.7%,15.4%
+"Oxnard-Thousand Oaks-Ventura, CA ",small,Other services (except public administration),10.0,"65,229","56,221","796,300","2,147",0.7%,1.7%,15.4%
+"Oxnard-Thousand Oaks-Ventura, CA ",small,Public administration,8.0,"65,229","56,221","796,300","2,147",0.7%,1.7%,15.4%
+"Palm Bay-Melbourne-Titusville, FL ",xsmall,"Agriculture, forestry, fishing and hunting, and mining",13.0,"63,935","49,259","336,800","1,412",0.9%,1.1%,16.3%
+"Palm Bay-Melbourne-Titusville, FL ",xsmall,Construction,6.0,"63,935","49,259","336,800","1,412",0.9%,1.1%,16.3%
+"Palm Bay-Melbourne-Titusville, FL ",xsmall,Manufacturing,4.0,"63,935","49,259","336,800","1,412",0.9%,1.1%,16.3%
+"Palm Bay-Melbourne-Titusville, FL ",xsmall,Wholesale trade,11.0,"63,935","49,259","336,800","1,412",0.9%,1.1%,16.3%
+"Palm Bay-Melbourne-Titusville, FL ",xsmall,Retail trade,3.0,"63,935","49,259","336,800","1,412",0.9%,1.1%,16.3%
+"Palm Bay-Melbourne-Titusville, FL ",xsmall,"Transportation and warehousing, and utilities",8.0,"63,935","49,259","336,800","1,412",0.9%,1.1%,16.3%
+"Palm Bay-Melbourne-Titusville, FL ",xsmall,Information,12.0,"63,935","49,259","336,800","1,412",0.9%,1.1%,16.3%
+"Palm Bay-Melbourne-Titusville, FL ",xsmall,"Finance and insurance, and real estate and rental and leasing",7.0,"63,935","49,259","336,800","1,412",0.9%,1.1%,16.3%
+"Palm Bay-Melbourne-Titusville, FL ",xsmall,"Professional, scientific, and management, and administrative and waste management services",2.0,"63,935","49,259","336,800","1,412",0.9%,1.1%,16.3%
+"Palm Bay-Melbourne-Titusville, FL ",xsmall,"Educational services, and health care and social assistance",1.0,"63,935","49,259","336,800","1,412",0.9%,1.1%,16.3%
+"Palm Bay-Melbourne-Titusville, FL ",xsmall,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"63,935","49,259","336,800","1,412",0.9%,1.1%,16.3%
+"Palm Bay-Melbourne-Titusville, FL ",xsmall,Other services (except public administration),10.0,"63,935","49,259","336,800","1,412",0.9%,1.1%,16.3%
+"Palm Bay-Melbourne-Titusville, FL ",xsmall,Public administration,9.0,"63,935","49,259","336,800","1,412",0.9%,1.1%,16.3%
+"Pensacola-Ferry Pass-Brent, FL ",xsmall,"Agriculture, forestry, fishing and hunting, and mining",13.0,"54,265","43,818","285,700","1,271",0.5%,1.8%,14.6%
+"Pensacola-Ferry Pass-Brent, FL ",xsmall,Construction,6.0,"54,265","43,818","285,700","1,271",0.5%,1.8%,14.6%
+"Pensacola-Ferry Pass-Brent, FL ",xsmall,Manufacturing,10.0,"54,265","43,818","285,700","1,271",0.5%,1.8%,14.6%
+"Pensacola-Ferry Pass-Brent, FL ",xsmall,Wholesale trade,11.0,"54,265","43,818","285,700","1,271",0.5%,1.8%,14.6%
+"Pensacola-Ferry Pass-Brent, FL ",xsmall,Retail trade,2.0,"54,265","43,818","285,700","1,271",0.5%,1.8%,14.6%
+"Pensacola-Ferry Pass-Brent, FL ",xsmall,"Transportation and warehousing, and utilities",8.0,"54,265","43,818","285,700","1,271",0.5%,1.8%,14.6%
+"Pensacola-Ferry Pass-Brent, FL ",xsmall,Information,12.0,"54,265","43,818","285,700","1,271",0.5%,1.8%,14.6%
+"Pensacola-Ferry Pass-Brent, FL ",xsmall,"Finance and insurance, and real estate and rental and leasing",5.0,"54,265","43,818","285,700","1,271",0.5%,1.8%,14.6%
+"Pensacola-Ferry Pass-Brent, FL ",xsmall,"Professional, scientific, and management, and administrative and waste management services",3.0,"54,265","43,818","285,700","1,271",0.5%,1.8%,14.6%
+"Pensacola-Ferry Pass-Brent, FL ",xsmall,"Educational services, and health care and social assistance",1.0,"54,265","43,818","285,700","1,271",0.5%,1.8%,14.6%
+"Pensacola-Ferry Pass-Brent, FL ",xsmall,"Arts, entertainment, and recreation, and accommodation and food services",4.0,"54,265","43,818","285,700","1,271",0.5%,1.8%,14.6%
+"Pensacola-Ferry Pass-Brent, FL ",xsmall,Other services (except public administration),9.0,"54,265","43,818","285,700","1,271",0.5%,1.8%,14.6%
+"Pensacola-Ferry Pass-Brent, FL ",xsmall,Public administration,7.0,"54,265","43,818","285,700","1,271",0.5%,1.8%,14.6%
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",xlarge,"Agriculture, forestry, fishing and hunting, and mining",13.0,"71,783","60,619","332,600","1,358",5.7%,3.1%,18.6%
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",xlarge,Construction,8.0,"71,783","60,619","332,600","1,358",5.7%,3.1%,18.6%
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",xlarge,Manufacturing,4.0,"71,783","60,619","332,600","1,358",5.7%,3.1%,18.6%
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",xlarge,Wholesale trade,11.0,"71,783","60,619","332,600","1,358",5.7%,3.1%,18.6%
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",xlarge,Retail trade,3.0,"71,783","60,619","332,600","1,358",5.7%,3.1%,18.6%
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",xlarge,"Transportation and warehousing, and utilities",7.0,"71,783","60,619","332,600","1,358",5.7%,3.1%,18.6%
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",xlarge,Information,12.0,"71,783","60,619","332,600","1,358",5.7%,3.1%,18.6%
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",xlarge,"Finance and insurance, and real estate and rental and leasing",5.0,"71,783","60,619","332,600","1,358",5.7%,3.1%,18.6%
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",xlarge,"Professional, scientific, and management, and administrative and waste management services",2.0,"71,783","60,619","332,600","1,358",5.7%,3.1%,18.6%
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",xlarge,"Educational services, and health care and social assistance",1.0,"71,783","60,619","332,600","1,358",5.7%,3.1%,18.6%
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",xlarge,"Arts, entertainment, and recreation, and accommodation and food services",6.0,"71,783","60,619","332,600","1,358",5.7%,3.1%,18.6%
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",xlarge,Other services (except public administration),9.0,"71,783","60,619","332,600","1,358",5.7%,3.1%,18.6%
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD ",xlarge,Public administration,10.0,"71,783","60,619","332,600","1,358",5.7%,3.1%,18.6%
+"Phoenix-Mesa-Chandler, AZ ",xlarge,"Agriculture, forestry, fishing and hunting, and mining",13.0,"60,328","51,823","454,000","1,616",0.9%,1.3%,21.7%
+"Phoenix-Mesa-Chandler, AZ ",xlarge,Construction,6.0,"60,328","51,823","454,000","1,616",0.9%,1.3%,21.7%
+"Phoenix-Mesa-Chandler, AZ ",xlarge,Manufacturing,6.0,"60,328","51,823","454,000","1,616",0.9%,1.3%,21.7%
+"Phoenix-Mesa-Chandler, AZ ",xlarge,Wholesale trade,11.0,"60,328","51,823","454,000","1,616",0.9%,1.3%,21.7%
+"Phoenix-Mesa-Chandler, AZ ",xlarge,Retail trade,3.0,"60,328","51,823","454,000","1,616",0.9%,1.3%,21.7%
+"Phoenix-Mesa-Chandler, AZ ",xlarge,"Transportation and warehousing, and utilities",8.0,"60,328","51,823","454,000","1,616",0.9%,1.3%,21.7%
+"Phoenix-Mesa-Chandler, AZ ",xlarge,Information,12.0,"60,328","51,823","454,000","1,616",0.9%,1.3%,21.7%
+"Phoenix-Mesa-Chandler, AZ ",xlarge,"Finance and insurance, and real estate and rental and leasing",4.0,"60,328","51,823","454,000","1,616",0.9%,1.3%,21.7%
+"Phoenix-Mesa-Chandler, AZ ",xlarge,"Professional, scientific, and management, and administrative and waste management services",2.0,"60,328","51,823","454,000","1,616",0.9%,1.3%,21.7%
+"Phoenix-Mesa-Chandler, AZ ",xlarge,"Educational services, and health care and social assistance",1.0,"60,328","51,823","454,000","1,616",0.9%,1.3%,21.7%
+"Phoenix-Mesa-Chandler, AZ ",xlarge,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"60,328","51,823","454,000","1,616",0.9%,1.3%,21.7%
+"Phoenix-Mesa-Chandler, AZ ",xlarge,Other services (except public administration),9.0,"60,328","51,823","454,000","1,616",0.9%,1.3%,21.7%
+"Phoenix-Mesa-Chandler, AZ ",xlarge,Public administration,10.0,"60,328","51,823","454,000","1,616",0.9%,1.3%,21.7%
+"Pittsburgh, PA ",large,"Agriculture, forestry, fishing and hunting, and mining",13.0,"66,956","53,057","209,800",964,3.0%,3.1%,17.4%
+"Pittsburgh, PA ",large,Construction,8.0,"66,956","53,057","209,800",964,3.0%,3.1%,17.4%
+"Pittsburgh, PA ",large,Manufacturing,4.0,"66,956","53,057","209,800",964,3.0%,3.1%,17.4%
+"Pittsburgh, PA ",large,Wholesale trade,11.0,"66,956","53,057","209,800",964,3.0%,3.1%,17.4%
+"Pittsburgh, PA ",large,Retail trade,3.0,"66,956","53,057","209,800",964,3.0%,3.1%,17.4%
+"Pittsburgh, PA ",large,"Transportation and warehousing, and utilities",7.0,"66,956","53,057","209,800",964,3.0%,3.1%,17.4%
+"Pittsburgh, PA ",large,Information,12.0,"66,956","53,057","209,800",964,3.0%,3.1%,17.4%
+"Pittsburgh, PA ",large,"Finance and insurance, and real estate and rental and leasing",6.0,"66,956","53,057","209,800",964,3.0%,3.1%,17.4%
+"Pittsburgh, PA ",large,"Professional, scientific, and management, and administrative and waste management services",2.0,"66,956","53,057","209,800",964,3.0%,3.1%,17.4%
+"Pittsburgh, PA ",large,"Educational services, and health care and social assistance",1.0,"66,956","53,057","209,800",964,3.0%,3.1%,17.4%
+"Pittsburgh, PA ",large,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"66,956","53,057","209,800",964,3.0%,3.1%,17.4%
+"Pittsburgh, PA ",large,Other services (except public administration),9.0,"66,956","53,057","209,800",964,3.0%,3.1%,17.4%
+"Pittsburgh, PA ",large,Public administration,10.0,"66,956","53,057","209,800",964,3.0%,3.1%,17.4%
+"Portland-South Portland, ME ",xsmall,"Agriculture, forestry, fishing and hunting, and mining",13.0,"64,339","54,109","409,800","1,280",0.6%,3.9%,19.4%
+"Portland-South Portland, ME ",xsmall,Construction,7.0,"64,339","54,109","409,800","1,280",0.6%,3.9%,19.4%
+"Portland-South Portland, ME ",xsmall,Manufacturing,4.0,"64,339","54,109","409,800","1,280",0.6%,3.9%,19.4%
+"Portland-South Portland, ME ",xsmall,Wholesale trade,11.0,"64,339","54,109","409,800","1,280",0.6%,3.9%,19.4%
+"Portland-South Portland, ME ",xsmall,Retail trade,3.0,"64,339","54,109","409,800","1,280",0.6%,3.9%,19.4%
+"Portland-South Portland, ME ",xsmall,"Transportation and warehousing, and utilities",10.0,"64,339","54,109","409,800","1,280",0.6%,3.9%,19.4%
+"Portland-South Portland, ME ",xsmall,Information,11.0,"64,339","54,109","409,800","1,280",0.6%,3.9%,19.4%
+"Portland-South Portland, ME ",xsmall,"Finance and insurance, and real estate and rental and leasing",6.0,"64,339","54,109","409,800","1,280",0.6%,3.9%,19.4%
+"Portland-South Portland, ME ",xsmall,"Professional, scientific, and management, and administrative and waste management services",2.0,"64,339","54,109","409,800","1,280",0.6%,3.9%,19.4%
+"Portland-South Portland, ME ",xsmall,"Educational services, and health care and social assistance",1.0,"64,339","54,109","409,800","1,280",0.6%,3.9%,19.4%
+"Portland-South Portland, ME ",xsmall,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"64,339","54,109","409,800","1,280",0.6%,3.9%,19.4%
+"Portland-South Portland, ME ",xsmall,Other services (except public administration),8.0,"64,339","54,109","409,800","1,280",0.6%,3.9%,19.4%
+"Portland-South Portland, ME ",xsmall,Public administration,9.0,"64,339","54,109","409,800","1,280",0.6%,3.9%,19.4%
+"Portland-Vancouver-Hillsboro, OR-WA ",large,"Agriculture, forestry, fishing and hunting, and mining",13.0,"72,243","59,979","556,700","1,555",2.9%,3.4%,23.3%
+"Portland-Vancouver-Hillsboro, OR-WA ",large,Construction,6.0,"72,243","59,979","556,700","1,555",2.9%,3.4%,23.3%
+"Portland-Vancouver-Hillsboro, OR-WA ",large,Manufacturing,3.0,"72,243","59,979","556,700","1,555",2.9%,3.4%,23.3%
+"Portland-Vancouver-Hillsboro, OR-WA ",large,Wholesale trade,11.0,"72,243","59,979","556,700","1,555",2.9%,3.4%,23.3%
+"Portland-Vancouver-Hillsboro, OR-WA ",large,Retail trade,4.0,"72,243","59,979","556,700","1,555",2.9%,3.4%,23.3%
+"Portland-Vancouver-Hillsboro, OR-WA ",large,"Transportation and warehousing, and utilities",8.0,"72,243","59,979","556,700","1,555",2.9%,3.4%,23.3%
+"Portland-Vancouver-Hillsboro, OR-WA ",large,Information,12.0,"72,243","59,979","556,700","1,555",2.9%,3.4%,23.3%
+"Portland-Vancouver-Hillsboro, OR-WA ",large,"Finance and insurance, and real estate and rental and leasing",7.0,"72,243","59,979","556,700","1,555",2.9%,3.4%,23.3%
+"Portland-Vancouver-Hillsboro, OR-WA ",large,"Professional, scientific, and management, and administrative and waste management services",2.0,"72,243","59,979","556,700","1,555",2.9%,3.4%,23.3%
+"Portland-Vancouver-Hillsboro, OR-WA ",large,"Educational services, and health care and social assistance",1.0,"72,243","59,979","556,700","1,555",2.9%,3.4%,23.3%
+"Portland-Vancouver-Hillsboro, OR-WA ",large,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"72,243","59,979","556,700","1,555",2.9%,3.4%,23.3%
+"Portland-Vancouver-Hillsboro, OR-WA ",large,Other services (except public administration),9.0,"72,243","59,979","556,700","1,555",2.9%,3.4%,23.3%
+"Portland-Vancouver-Hillsboro, OR-WA ",large,Public administration,10.0,"72,243","59,979","556,700","1,555",2.9%,3.4%,23.3%
+"Port St. Lucie, FL ",xsmall,"Agriculture, forestry, fishing and hunting, and mining",13.0,"52,818","45,530","363,600","1,412",0.2%,0.9%,14.5%
+"Port St. Lucie, FL ",xsmall,Construction,5.0,"52,818","45,530","363,600","1,412",0.2%,0.9%,14.5%
+"Port St. Lucie, FL ",xsmall,Manufacturing,9.0,"52,818","45,530","363,600","1,412",0.2%,0.9%,14.5%
+"Port St. Lucie, FL ",xsmall,Wholesale trade,11.0,"52,818","45,530","363,600","1,412",0.2%,0.9%,14.5%
+"Port St. Lucie, FL ",xsmall,Retail trade,2.0,"52,818","45,530","363,600","1,412",0.2%,0.9%,14.5%
+"Port St. Lucie, FL ",xsmall,"Transportation and warehousing, and utilities",7.0,"52,818","45,530","363,600","1,412",0.2%,0.9%,14.5%
+"Port St. Lucie, FL ",xsmall,Information,12.0,"52,818","45,530","363,600","1,412",0.2%,0.9%,14.5%
+"Port St. Lucie, FL ",xsmall,"Finance and insurance, and real estate and rental and leasing",6.0,"52,818","45,530","363,600","1,412",0.2%,0.9%,14.5%
+"Port St. Lucie, FL ",xsmall,"Professional, scientific, and management, and administrative and waste management services",3.0,"52,818","45,530","363,600","1,412",0.2%,0.9%,14.5%
+"Port St. Lucie, FL ",xsmall,"Educational services, and health care and social assistance",1.0,"52,818","45,530","363,600","1,412",0.2%,0.9%,14.5%
+"Port St. Lucie, FL ",xsmall,"Arts, entertainment, and recreation, and accommodation and food services",4.0,"52,818","45,530","363,600","1,412",0.2%,0.9%,14.5%
+"Port St. Lucie, FL ",xsmall,Other services (except public administration),8.0,"52,818","45,530","363,600","1,412",0.2%,0.9%,14.5%
+"Port St. Lucie, FL ",xsmall,Public administration,10.0,"52,818","45,530","363,600","1,412",0.2%,0.9%,14.5%
+"Poughkeepsie-Newburgh-Middletown, NY ",small,"Agriculture, forestry, fishing and hunting, and mining",13.0,"71,313","57,374","373,100","1,537",4.3%,3.7%,13.6%
+"Poughkeepsie-Newburgh-Middletown, NY ",small,Construction,6.0,"71,313","57,374","373,100","1,537",4.3%,3.7%,13.6%
+"Poughkeepsie-Newburgh-Middletown, NY ",small,Manufacturing,7.0,"71,313","57,374","373,100","1,537",4.3%,3.7%,13.6%
+"Poughkeepsie-Newburgh-Middletown, NY ",small,Wholesale trade,12.0,"71,313","57,374","373,100","1,537",4.3%,3.7%,13.6%
+"Poughkeepsie-Newburgh-Middletown, NY ",small,Retail trade,2.0,"71,313","57,374","373,100","1,537",4.3%,3.7%,13.6%
+"Poughkeepsie-Newburgh-Middletown, NY ",small,"Transportation and warehousing, and utilities",8.0,"71,313","57,374","373,100","1,537",4.3%,3.7%,13.6%
+"Poughkeepsie-Newburgh-Middletown, NY ",small,Information,11.0,"71,313","57,374","373,100","1,537",4.3%,3.7%,13.6%
+"Poughkeepsie-Newburgh-Middletown, NY ",small,"Finance and insurance, and real estate and rental and leasing",5.0,"71,313","57,374","373,100","1,537",4.3%,3.7%,13.6%
+"Poughkeepsie-Newburgh-Middletown, NY ",small,"Professional, scientific, and management, and administrative and waste management services",3.0,"71,313","57,374","373,100","1,537",4.3%,3.7%,13.6%
+"Poughkeepsie-Newburgh-Middletown, NY ",small,"Educational services, and health care and social assistance",1.0,"71,313","57,374","373,100","1,537",4.3%,3.7%,13.6%
+"Poughkeepsie-Newburgh-Middletown, NY ",small,"Arts, entertainment, and recreation, and accommodation and food services",4.0,"71,313","57,374","373,100","1,537",4.3%,3.7%,13.6%
+"Poughkeepsie-Newburgh-Middletown, NY ",small,Other services (except public administration),10.0,"71,313","57,374","373,100","1,537",4.3%,3.7%,13.6%
+"Poughkeepsie-Newburgh-Middletown, NY ",small,Public administration,9.0,"71,313","57,374","373,100","1,537",4.3%,3.7%,13.6%
+"Providence-Warwick, RI-MA ",large,"Agriculture, forestry, fishing and hunting, and mining",13.0,"68,765","56,547","398,300","1,201",1.4%,2.3%,12.7%
+"Providence-Warwick, RI-MA ",large,Construction,7.0,"68,765","56,547","398,300","1,201",1.4%,2.3%,12.7%
+"Providence-Warwick, RI-MA ",large,Manufacturing,3.0,"68,765","56,547","398,300","1,201",1.4%,2.3%,12.7%
+"Providence-Warwick, RI-MA ",large,Wholesale trade,11.0,"68,765","56,547","398,300","1,201",1.4%,2.3%,12.7%
+"Providence-Warwick, RI-MA ",large,Retail trade,4.0,"68,765","56,547","398,300","1,201",1.4%,2.3%,12.7%
+"Providence-Warwick, RI-MA ",large,"Transportation and warehousing, and utilities",8.0,"68,765","56,547","398,300","1,201",1.4%,2.3%,12.7%
+"Providence-Warwick, RI-MA ",large,Information,12.0,"68,765","56,547","398,300","1,201",1.4%,2.3%,12.7%
+"Providence-Warwick, RI-MA ",large,"Finance and insurance, and real estate and rental and leasing",6.0,"68,765","56,547","398,300","1,201",1.4%,2.3%,12.7%
+"Providence-Warwick, RI-MA ",large,"Professional, scientific, and management, and administrative and waste management services",2.0,"68,765","56,547","398,300","1,201",1.4%,2.3%,12.7%
+"Providence-Warwick, RI-MA ",large,"Educational services, and health care and social assistance",1.0,"68,765","56,547","398,300","1,201",1.4%,2.3%,12.7%
+"Providence-Warwick, RI-MA ",large,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"68,765","56,547","398,300","1,201",1.4%,2.3%,12.7%
+"Providence-Warwick, RI-MA ",large,Other services (except public administration),9.0,"68,765","56,547","398,300","1,201",1.4%,2.3%,12.7%
+"Providence-Warwick, RI-MA ",large,Public administration,9.0,"68,765","56,547","398,300","1,201",1.4%,2.3%,12.7%
+"Provo-Orem, UT ",small,"Agriculture, forestry, fishing and hunting, and mining",13.0,"70,208","43,459","546,500","1,375",1.4%,2.4%,19.3%
+"Provo-Orem, UT ",small,Construction,6.0,"70,208","43,459","546,500","1,375",1.4%,2.4%,19.3%
+"Provo-Orem, UT ",small,Manufacturing,4.0,"70,208","43,459","546,500","1,375",1.4%,2.4%,19.3%
+"Provo-Orem, UT ",small,Wholesale trade,12.0,"70,208","43,459","546,500","1,375",1.4%,2.4%,19.3%
+"Provo-Orem, UT ",small,Retail trade,3.0,"70,208","43,459","546,500","1,375",1.4%,2.4%,19.3%
+"Provo-Orem, UT ",small,"Transportation and warehousing, and utilities",9.0,"70,208","43,459","546,500","1,375",1.4%,2.4%,19.3%
+"Provo-Orem, UT ",small,Information,11.0,"70,208","43,459","546,500","1,375",1.4%,2.4%,19.3%
+"Provo-Orem, UT ",small,"Finance and insurance, and real estate and rental and leasing",7.0,"70,208","43,459","546,500","1,375",1.4%,2.4%,19.3%
+"Provo-Orem, UT ",small,"Professional, scientific, and management, and administrative and waste management services",2.0,"70,208","43,459","546,500","1,375",1.4%,2.4%,19.3%
+"Provo-Orem, UT ",small,"Educational services, and health care and social assistance",1.0,"70,208","43,459","546,500","1,375",1.4%,2.4%,19.3%
+"Provo-Orem, UT ",small,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"70,208","43,459","546,500","1,375",1.4%,2.4%,19.3%
+"Provo-Orem, UT ",small,Other services (except public administration),8.0,"70,208","43,459","546,500","1,375",1.4%,2.4%,19.3%
+"Provo-Orem, UT ",small,Public administration,10.0,"70,208","43,459","546,500","1,375",1.4%,2.4%,19.3%
+"Raleigh-Cary, NC ",large,"Agriculture, forestry, fishing and hunting, and mining",13.0,"72,032","58,937","424,700","1,424",0.4%,1.4%,26.1%
+"Raleigh-Cary, NC ",large,Construction,7.0,"72,032","58,937","424,700","1,424",0.4%,1.4%,26.1%
+"Raleigh-Cary, NC ",large,Manufacturing,4.0,"72,032","58,937","424,700","1,424",0.4%,1.4%,26.1%
+"Raleigh-Cary, NC ",large,Wholesale trade,12.0,"72,032","58,937","424,700","1,424",0.4%,1.4%,26.1%
+"Raleigh-Cary, NC ",large,Retail trade,3.0,"72,032","58,937","424,700","1,424",0.4%,1.4%,26.1%
+"Raleigh-Cary, NC ",large,"Transportation and warehousing, and utilities",8.0,"72,032","58,937","424,700","1,424",0.4%,1.4%,26.1%
+"Raleigh-Cary, NC ",large,Information,11.0,"72,032","58,937","424,700","1,424",0.4%,1.4%,26.1%
+"Raleigh-Cary, NC ",large,"Finance and insurance, and real estate and rental and leasing",5.0,"72,032","58,937","424,700","1,424",0.4%,1.4%,26.1%
+"Raleigh-Cary, NC ",large,"Professional, scientific, and management, and administrative and waste management services",1.0,"72,032","58,937","424,700","1,424",0.4%,1.4%,26.1%
+"Raleigh-Cary, NC ",large,"Educational services, and health care and social assistance",2.0,"72,032","58,937","424,700","1,424",0.4%,1.4%,26.1%
+"Raleigh-Cary, NC ",large,"Arts, entertainment, and recreation, and accommodation and food services",6.0,"72,032","58,937","424,700","1,424",0.4%,1.4%,26.1%
+"Raleigh-Cary, NC ",large,Other services (except public administration),8.0,"72,032","58,937","424,700","1,424",0.4%,1.4%,26.1%
+"Raleigh-Cary, NC ",large,Public administration,10.0,"72,032","58,937","424,700","1,424",0.4%,1.4%,26.1%
+"Reno, NV ",xsmall,"Agriculture, forestry, fishing and hunting, and mining",13.0,"57,961","49,099","528,900","1,479",1.5%,1.7%,10.8%
+"Reno, NV ",xsmall,Construction,7.0,"57,961","49,099","528,900","1,479",1.5%,1.7%,10.8%
+"Reno, NV ",xsmall,Manufacturing,5.0,"57,961","49,099","528,900","1,479",1.5%,1.7%,10.8%
+"Reno, NV ",xsmall,Wholesale trade,11.0,"57,961","49,099","528,900","1,479",1.5%,1.7%,10.8%
+"Reno, NV ",xsmall,Retail trade,4.0,"57,961","49,099","528,900","1,479",1.5%,1.7%,10.8%
+"Reno, NV ",xsmall,"Transportation and warehousing, and utilities",6.0,"57,961","49,099","528,900","1,479",1.5%,1.7%,10.8%
+"Reno, NV ",xsmall,Information,12.0,"57,961","49,099","528,900","1,479",1.5%,1.7%,10.8%
+"Reno, NV ",xsmall,"Finance and insurance, and real estate and rental and leasing",8.0,"57,961","49,099","528,900","1,479",1.5%,1.7%,10.8%
+"Reno, NV ",xsmall,"Professional, scientific, and management, and administrative and waste management services",3.0,"57,961","49,099","528,900","1,479",1.5%,1.7%,10.8%
+"Reno, NV ",xsmall,"Educational services, and health care and social assistance",1.0,"57,961","49,099","528,900","1,479",1.5%,1.7%,10.8%
+"Reno, NV ",xsmall,"Arts, entertainment, and recreation, and accommodation and food services",2.0,"57,961","49,099","528,900","1,479",1.5%,1.7%,10.8%
+"Reno, NV ",xsmall,Other services (except public administration),9.0,"57,961","49,099","528,900","1,479",1.5%,1.7%,10.8%
+"Reno, NV ",xsmall,Public administration,10.0,"57,961","49,099","528,900","1,479",1.5%,1.7%,10.8%
+"Richmond, VA ",large,"Agriculture, forestry, fishing and hunting, and mining",13.0,"65,070","54,271","336,500","1,298",0.7%,2.2%,18.7%
+"Richmond, VA ",large,Construction,8.0,"65,070","54,271","336,500","1,298",0.7%,2.2%,18.7%
+"Richmond, VA ",large,Manufacturing,7.0,"65,070","54,271","336,500","1,298",0.7%,2.2%,18.7%
+"Richmond, VA ",large,Wholesale trade,11.0,"65,070","54,271","336,500","1,298",0.7%,2.2%,18.7%
+"Richmond, VA ",large,Retail trade,3.0,"65,070","54,271","336,500","1,298",0.7%,2.2%,18.7%
+"Richmond, VA ",large,"Transportation and warehousing, and utilities",9.0,"65,070","54,271","336,500","1,298",0.7%,2.2%,18.7%
+"Richmond, VA ",large,Information,12.0,"65,070","54,271","336,500","1,298",0.7%,2.2%,18.7%
+"Richmond, VA ",large,"Finance and insurance, and real estate and rental and leasing",4.0,"65,070","54,271","336,500","1,298",0.7%,2.2%,18.7%
+"Richmond, VA ",large,"Professional, scientific, and management, and administrative and waste management services",2.0,"65,070","54,271","336,500","1,298",0.7%,2.2%,18.7%
+"Richmond, VA ",large,"Educational services, and health care and social assistance",1.0,"65,070","54,271","336,500","1,298",0.7%,2.2%,18.7%
+"Richmond, VA ",large,"Arts, entertainment, and recreation, and accommodation and food services",6.0,"65,070","54,271","336,500","1,298",0.7%,2.2%,18.7%
+"Richmond, VA ",large,Other services (except public administration),10.0,"65,070","54,271","336,500","1,298",0.7%,2.2%,18.7%
+"Richmond, VA ",large,Public administration,5.0,"65,070","54,271","336,500","1,298",0.7%,2.2%,18.7%
+"Riverside-San Bernardino-Ontario, CA ",xlarge,"Agriculture, forestry, fishing and hunting, and mining",13.0,"56,911","47,254","534,900","1,707",0.7%,1.3%,11.3%
+"Riverside-San Bernardino-Ontario, CA ",xlarge,Construction,6.0,"56,911","47,254","534,900","1,707",0.7%,1.3%,11.3%
+"Riverside-San Bernardino-Ontario, CA ",xlarge,Manufacturing,7.0,"56,911","47,254","534,900","1,707",0.7%,1.3%,11.3%
+"Riverside-San Bernardino-Ontario, CA ",xlarge,Wholesale trade,11.0,"56,911","47,254","534,900","1,707",0.7%,1.3%,11.3%
+"Riverside-San Bernardino-Ontario, CA ",xlarge,Retail trade,2.0,"56,911","47,254","534,900","1,707",0.7%,1.3%,11.3%
+"Riverside-San Bernardino-Ontario, CA ",xlarge,"Transportation and warehousing, and utilities",4.0,"56,911","47,254","534,900","1,707",0.7%,1.3%,11.3%
+"Riverside-San Bernardino-Ontario, CA ",xlarge,Information,12.0,"56,911","47,254","534,900","1,707",0.7%,1.3%,11.3%
+"Riverside-San Bernardino-Ontario, CA ",xlarge,"Finance and insurance, and real estate and rental and leasing",10.0,"56,911","47,254","534,900","1,707",0.7%,1.3%,11.3%
+"Riverside-San Bernardino-Ontario, CA ",xlarge,"Professional, scientific, and management, and administrative and waste management services",5.0,"56,911","47,254","534,900","1,707",0.7%,1.3%,11.3%
+"Riverside-San Bernardino-Ontario, CA ",xlarge,"Educational services, and health care and social assistance",1.0,"56,911","47,254","534,900","1,707",0.7%,1.3%,11.3%
+"Riverside-San Bernardino-Ontario, CA ",xlarge,"Arts, entertainment, and recreation, and accommodation and food services",3.0,"56,911","47,254","534,900","1,707",0.7%,1.3%,11.3%
+"Riverside-San Bernardino-Ontario, CA ",xlarge,Other services (except public administration),9.0,"56,911","47,254","534,900","1,707",0.7%,1.3%,11.3%
+"Riverside-San Bernardino-Ontario, CA ",xlarge,Public administration,8.0,"56,911","47,254","534,900","1,707",0.7%,1.3%,11.3%
+"Rochester, NY ",medium,"Agriculture, forestry, fishing and hunting, and mining",13.0,"63,743","51,753","190,900","1,069",1.1%,2.7%,13.9%
+"Rochester, NY ",medium,Construction,6.0,"63,743","51,753","190,900","1,069",1.1%,2.7%,13.9%
+"Rochester, NY ",medium,Manufacturing,4.0,"63,743","51,753","190,900","1,069",1.1%,2.7%,13.9%
+"Rochester, NY ",medium,Wholesale trade,11.0,"63,743","51,753","190,900","1,069",1.1%,2.7%,13.9%
+"Rochester, NY ",medium,Retail trade,3.0,"63,743","51,753","190,900","1,069",1.1%,2.7%,13.9%
+"Rochester, NY ",medium,"Transportation and warehousing, and utilities",9.0,"63,743","51,753","190,900","1,069",1.1%,2.7%,13.9%
+"Rochester, NY ",medium,Information,12.0,"63,743","51,753","190,900","1,069",1.1%,2.7%,13.9%
+"Rochester, NY ",medium,"Finance and insurance, and real estate and rental and leasing",6.0,"63,743","51,753","190,900","1,069",1.1%,2.7%,13.9%
+"Rochester, NY ",medium,"Professional, scientific, and management, and administrative and waste management services",2.0,"63,743","51,753","190,900","1,069",1.1%,2.7%,13.9%
+"Rochester, NY ",medium,"Educational services, and health care and social assistance",1.0,"63,743","51,753","190,900","1,069",1.1%,2.7%,13.9%
+"Rochester, NY ",medium,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"63,743","51,753","190,900","1,069",1.1%,2.7%,13.9%
+"Rochester, NY ",medium,Other services (except public administration),8.0,"63,743","51,753","190,900","1,069",1.1%,2.7%,13.9%
+"Rochester, NY ",medium,Public administration,10.0,"63,743","51,753","190,900","1,069",1.1%,2.7%,13.9%
+"Sacramento-Roseville-Folsom, CA ",large,"Agriculture, forestry, fishing and hunting, and mining",13.0,"70,767","60,524","584,200","1,699",0.9%,1.8%,19.8%
+"Sacramento-Roseville-Folsom, CA ",large,Construction,6.0,"70,767","60,524","584,200","1,699",0.9%,1.8%,19.8%
+"Sacramento-Roseville-Folsom, CA ",large,Manufacturing,7.0,"70,767","60,524","584,200","1,699",0.9%,1.8%,19.8%
+"Sacramento-Roseville-Folsom, CA ",large,Wholesale trade,11.0,"70,767","60,524","584,200","1,699",0.9%,1.8%,19.8%
+"Sacramento-Roseville-Folsom, CA ",large,Retail trade,3.0,"70,767","60,524","584,200","1,699",0.9%,1.8%,19.8%
+"Sacramento-Roseville-Folsom, CA ",large,"Transportation and warehousing, and utilities",9.0,"70,767","60,524","584,200","1,699",0.9%,1.8%,19.8%
+"Sacramento-Roseville-Folsom, CA ",large,Information,12.0,"70,767","60,524","584,200","1,699",0.9%,1.8%,19.8%
+"Sacramento-Roseville-Folsom, CA ",large,"Finance and insurance, and real estate and rental and leasing",7.0,"70,767","60,524","584,200","1,699",0.9%,1.8%,19.8%
+"Sacramento-Roseville-Folsom, CA ",large,"Professional, scientific, and management, and administrative and waste management services",2.0,"70,767","60,524","584,200","1,699",0.9%,1.8%,19.8%
+"Sacramento-Roseville-Folsom, CA ",large,"Educational services, and health care and social assistance",1.0,"70,767","60,524","584,200","1,699",0.9%,1.8%,19.8%
+"Sacramento-Roseville-Folsom, CA ",large,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"70,767","60,524","584,200","1,699",0.9%,1.8%,19.8%
+"Sacramento-Roseville-Folsom, CA ",large,Other services (except public administration),10.0,"70,767","60,524","584,200","1,699",0.9%,1.8%,19.8%
+"Sacramento-Roseville-Folsom, CA ",large,Public administration,4.0,"70,767","60,524","584,200","1,699",0.9%,1.8%,19.8%
+"St. Louis, MO-IL ",xlarge,"Agriculture, forestry, fishing and hunting, and mining",13.0,"66,226","50,974","237,700","1,036",1.2%,1.6%,16.0%
+"St. Louis, MO-IL ",xlarge,Construction,7.0,"66,226","50,974","237,700","1,036",1.2%,1.6%,16.0%
+"St. Louis, MO-IL ",xlarge,Manufacturing,3.0,"66,226","50,974","237,700","1,036",1.2%,1.6%,16.0%
+"St. Louis, MO-IL ",xlarge,Wholesale trade,11.0,"66,226","50,974","237,700","1,036",1.2%,1.6%,16.0%
+"St. Louis, MO-IL ",xlarge,Retail trade,4.0,"66,226","50,974","237,700","1,036",1.2%,1.6%,16.0%
+"St. Louis, MO-IL ",xlarge,"Transportation and warehousing, and utilities",8.0,"66,226","50,974","237,700","1,036",1.2%,1.6%,16.0%
+"St. Louis, MO-IL ",xlarge,Information,12.0,"66,226","50,974","237,700","1,036",1.2%,1.6%,16.0%
+"St. Louis, MO-IL ",xlarge,"Finance and insurance, and real estate and rental and leasing",5.0,"66,226","50,974","237,700","1,036",1.2%,1.6%,16.0%
+"St. Louis, MO-IL ",xlarge,"Professional, scientific, and management, and administrative and waste management services",2.0,"66,226","50,974","237,700","1,036",1.2%,1.6%,16.0%
+"St. Louis, MO-IL ",xlarge,"Educational services, and health care and social assistance",1.0,"66,226","50,974","237,700","1,036",1.2%,1.6%,16.0%
+"St. Louis, MO-IL ",xlarge,"Arts, entertainment, and recreation, and accommodation and food services",6.0,"66,226","50,974","237,700","1,036",1.2%,1.6%,16.0%
+"St. Louis, MO-IL ",xlarge,Other services (except public administration),9.0,"66,226","50,974","237,700","1,036",1.2%,1.6%,16.0%
+"St. Louis, MO-IL ",xlarge,Public administration,10.0,"66,226","50,974","237,700","1,036",1.2%,1.6%,16.0%
+"Salt Lake City, UT ",large,"Agriculture, forestry, fishing and hunting, and mining",13.0,"63,385","51,239","528,100","1,431",1.6%,1.8%,18.9%
+"Salt Lake City, UT ",large,Construction,5.0,"63,385","51,239","528,100","1,431",1.6%,1.8%,18.9%
+"Salt Lake City, UT ",large,Manufacturing,4.0,"63,385","51,239","528,100","1,431",1.6%,1.8%,18.9%
+"Salt Lake City, UT ",large,Wholesale trade,12.0,"63,385","51,239","528,100","1,431",1.6%,1.8%,18.9%
+"Salt Lake City, UT ",large,Retail trade,3.0,"63,385","51,239","528,100","1,431",1.6%,1.8%,18.9%
+"Salt Lake City, UT ",large,"Transportation and warehousing, and utilities",8.0,"63,385","51,239","528,100","1,431",1.6%,1.8%,18.9%
+"Salt Lake City, UT ",large,Information,11.0,"63,385","51,239","528,100","1,431",1.6%,1.8%,18.9%
+"Salt Lake City, UT ",large,"Finance and insurance, and real estate and rental and leasing",6.0,"63,385","51,239","528,100","1,431",1.6%,1.8%,18.9%
+"Salt Lake City, UT ",large,"Professional, scientific, and management, and administrative and waste management services",2.0,"63,385","51,239","528,100","1,431",1.6%,1.8%,18.9%
+"Salt Lake City, UT ",large,"Educational services, and health care and social assistance",1.0,"63,385","51,239","528,100","1,431",1.6%,1.8%,18.9%
+"Salt Lake City, UT ",large,"Arts, entertainment, and recreation, and accommodation and food services",6.0,"63,385","51,239","528,100","1,431",1.6%,1.8%,18.9%
+"Salt Lake City, UT ",large,Other services (except public administration),9.0,"63,385","51,239","528,100","1,431",1.6%,1.8%,18.9%
+"Salt Lake City, UT ",large,Public administration,10.0,"63,385","51,239","528,100","1,431",1.6%,1.8%,18.9%
+"San Antonio-New Braunfels, TX ",large,"Agriculture, forestry, fishing and hunting, and mining",13.0,"54,804","44,521","275,700","1,263",1.4%,1.8%,14.8%
+"San Antonio-New Braunfels, TX ",large,Construction,5.0,"54,804","44,521","275,700","1,263",1.4%,1.8%,14.8%
+"San Antonio-New Braunfels, TX ",large,Manufacturing,7.0,"54,804","44,521","275,700","1,263",1.4%,1.8%,14.8%
+"San Antonio-New Braunfels, TX ",large,Wholesale trade,11.0,"54,804","44,521","275,700","1,263",1.4%,1.8%,14.8%
+"San Antonio-New Braunfels, TX ",large,Retail trade,3.0,"54,804","44,521","275,700","1,263",1.4%,1.8%,14.8%
+"San Antonio-New Braunfels, TX ",large,"Transportation and warehousing, and utilities",8.0,"54,804","44,521","275,700","1,263",1.4%,1.8%,14.8%
+"San Antonio-New Braunfels, TX ",large,Information,12.0,"54,804","44,521","275,700","1,263",1.4%,1.8%,14.8%
+"San Antonio-New Braunfels, TX ",large,"Finance and insurance, and real estate and rental and leasing",6.0,"54,804","44,521","275,700","1,263",1.4%,1.8%,14.8%
+"San Antonio-New Braunfels, TX ",large,"Professional, scientific, and management, and administrative and waste management services",2.0,"54,804","44,521","275,700","1,263",1.4%,1.8%,14.8%
+"San Antonio-New Braunfels, TX ",large,"Educational services, and health care and social assistance",1.0,"54,804","44,521","275,700","1,263",1.4%,1.8%,14.8%
+"San Antonio-New Braunfels, TX ",large,"Arts, entertainment, and recreation, and accommodation and food services",4.0,"54,804","44,521","275,700","1,263",1.4%,1.8%,14.8%
+"San Antonio-New Braunfels, TX ",large,Other services (except public administration),10.0,"54,804","44,521","275,700","1,263",1.4%,1.8%,14.8%
+"San Antonio-New Braunfels, TX ",large,Public administration,9.0,"54,804","44,521","275,700","1,263",1.4%,1.8%,14.8%
+"San Diego-Chula Vista-Carlsbad, CA ",xlarge,"Agriculture, forestry, fishing and hunting, and mining",13.0,"68,573","61,534","846,600","2,045",2.0%,3.0%,18.6%
+"San Diego-Chula Vista-Carlsbad, CA ",xlarge,Construction,6.0,"68,573","61,534","846,600","2,045",2.0%,3.0%,18.6%
+"San Diego-Chula Vista-Carlsbad, CA ",xlarge,Manufacturing,5.0,"68,573","61,534","846,600","2,045",2.0%,3.0%,18.6%
+"San Diego-Chula Vista-Carlsbad, CA ",xlarge,Wholesale trade,12.0,"68,573","61,534","846,600","2,045",2.0%,3.0%,18.6%
+"San Diego-Chula Vista-Carlsbad, CA ",xlarge,Retail trade,4.0,"68,573","61,534","846,600","2,045",2.0%,3.0%,18.6%
+"San Diego-Chula Vista-Carlsbad, CA ",xlarge,"Transportation and warehousing, and utilities",10.0,"68,573","61,534","846,600","2,045",2.0%,3.0%,18.6%
+"San Diego-Chula Vista-Carlsbad, CA ",xlarge,Information,11.0,"68,573","61,534","846,600","2,045",2.0%,3.0%,18.6%
+"San Diego-Chula Vista-Carlsbad, CA ",xlarge,"Finance and insurance, and real estate and rental and leasing",7.0,"68,573","61,534","846,600","2,045",2.0%,3.0%,18.6%
+"San Diego-Chula Vista-Carlsbad, CA ",xlarge,"Professional, scientific, and management, and administrative and waste management services",2.0,"68,573","61,534","846,600","2,045",2.0%,3.0%,18.6%
+"San Diego-Chula Vista-Carlsbad, CA ",xlarge,"Educational services, and health care and social assistance",1.0,"68,573","61,534","846,600","2,045",2.0%,3.0%,18.6%
+"San Diego-Chula Vista-Carlsbad, CA ",xlarge,"Arts, entertainment, and recreation, and accommodation and food services",3.0,"68,573","61,534","846,600","2,045",2.0%,3.0%,18.6%
+"San Diego-Chula Vista-Carlsbad, CA ",xlarge,Other services (except public administration),8.0,"68,573","61,534","846,600","2,045",2.0%,3.0%,18.6%
+"San Diego-Chula Vista-Carlsbad, CA ",xlarge,Public administration,9.0,"68,573","61,534","846,600","2,045",2.0%,3.0%,18.6%
+"San Francisco-Oakland-Berkeley, CA ",xlarge,"Agriculture, forestry, fishing and hunting, and mining",13.0,"101,251","85,560","1,135,500","2,300",7.8%,3.9%,27.0%
+"San Francisco-Oakland-Berkeley, CA ",xlarge,Construction,7.0,"101,251","85,560","1,135,500","2,300",7.8%,3.9%,27.0%
+"San Francisco-Oakland-Berkeley, CA ",xlarge,Manufacturing,5.0,"101,251","85,560","1,135,500","2,300",7.8%,3.9%,27.0%
+"San Francisco-Oakland-Berkeley, CA ",xlarge,Wholesale trade,12.0,"101,251","85,560","1,135,500","2,300",7.8%,3.9%,27.0%
+"San Francisco-Oakland-Berkeley, CA ",xlarge,Retail trade,3.0,"101,251","85,560","1,135,500","2,300",7.8%,3.9%,27.0%
+"San Francisco-Oakland-Berkeley, CA ",xlarge,"Transportation and warehousing, and utilities",8.0,"101,251","85,560","1,135,500","2,300",7.8%,3.9%,27.0%
+"San Francisco-Oakland-Berkeley, CA ",xlarge,Information,10.0,"101,251","85,560","1,135,500","2,300",7.8%,3.9%,27.0%
+"San Francisco-Oakland-Berkeley, CA ",xlarge,"Finance and insurance, and real estate and rental and leasing",6.0,"101,251","85,560","1,135,500","2,300",7.8%,3.9%,27.0%
+"San Francisco-Oakland-Berkeley, CA ",xlarge,"Professional, scientific, and management, and administrative and waste management services",1.0,"101,251","85,560","1,135,500","2,300",7.8%,3.9%,27.0%
+"San Francisco-Oakland-Berkeley, CA ",xlarge,"Educational services, and health care and social assistance",2.0,"101,251","85,560","1,135,500","2,300",7.8%,3.9%,27.0%
+"San Francisco-Oakland-Berkeley, CA ",xlarge,"Arts, entertainment, and recreation, and accommodation and food services",4.0,"101,251","85,560","1,135,500","2,300",7.8%,3.9%,27.0%
+"San Francisco-Oakland-Berkeley, CA ",xlarge,Other services (except public administration),9.0,"101,251","85,560","1,135,500","2,300",7.8%,3.9%,27.0%
+"San Francisco-Oakland-Berkeley, CA ",xlarge,Public administration,11.0,"101,251","85,560","1,135,500","2,300",7.8%,3.9%,27.0%
+"San Jose-Sunnyvale-Santa Clara, CA ",large,"Agriculture, forestry, fishing and hunting, and mining",13.0,"113,686","84,890","1,422,600","2,601",2.0%,2.0%,24.4%
+"San Jose-Sunnyvale-Santa Clara, CA ",large,Construction,7.0,"113,686","84,890","1,422,600","2,601",2.0%,2.0%,24.4%
+"San Jose-Sunnyvale-Santa Clara, CA ",large,Manufacturing,3.0,"113,686","84,890","1,422,600","2,601",2.0%,2.0%,24.4%
+"San Jose-Sunnyvale-Santa Clara, CA ",large,Wholesale trade,12.0,"113,686","84,890","1,422,600","2,601",2.0%,2.0%,24.4%
+"San Jose-Sunnyvale-Santa Clara, CA ",large,Retail trade,4.0,"113,686","84,890","1,422,600","2,601",2.0%,2.0%,24.4%
+"San Jose-Sunnyvale-Santa Clara, CA ",large,"Transportation and warehousing, and utilities",9.0,"113,686","84,890","1,422,600","2,601",2.0%,2.0%,24.4%
+"San Jose-Sunnyvale-Santa Clara, CA ",large,Information,5.0,"113,686","84,890","1,422,600","2,601",2.0%,2.0%,24.4%
+"San Jose-Sunnyvale-Santa Clara, CA ",large,"Finance and insurance, and real estate and rental and leasing",8.0,"113,686","84,890","1,422,600","2,601",2.0%,2.0%,24.4%
+"San Jose-Sunnyvale-Santa Clara, CA ",large,"Professional, scientific, and management, and administrative and waste management services",1.0,"113,686","84,890","1,422,600","2,601",2.0%,2.0%,24.4%
+"San Jose-Sunnyvale-Santa Clara, CA ",large,"Educational services, and health care and social assistance",2.0,"113,686","84,890","1,422,600","2,601",2.0%,2.0%,24.4%
+"San Jose-Sunnyvale-Santa Clara, CA ",large,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"113,686","84,890","1,422,600","2,601",2.0%,2.0%,24.4%
+"San Jose-Sunnyvale-Santa Clara, CA ",large,Other services (except public administration),10.0,"113,686","84,890","1,422,600","2,601",2.0%,2.0%,24.4%
+"San Jose-Sunnyvale-Santa Clara, CA ",large,Public administration,11.0,"113,686","84,890","1,422,600","2,601",2.0%,2.0%,24.4%
+"Scranton--Wilkes-Barre, PA ",xsmall,"Agriculture, forestry, fishing and hunting, and mining",13.0,"54,887","44,324","175,500",943,0.8%,2.1%,9.8%
+"Scranton--Wilkes-Barre, PA ",xsmall,Construction,8.0,"54,887","44,324","175,500",943,0.8%,2.1%,9.8%
+"Scranton--Wilkes-Barre, PA ",xsmall,Manufacturing,3.0,"54,887","44,324","175,500",943,0.8%,2.1%,9.8%
+"Scranton--Wilkes-Barre, PA ",xsmall,Wholesale trade,11.0,"54,887","44,324","175,500",943,0.8%,2.1%,9.8%
+"Scranton--Wilkes-Barre, PA ",xsmall,Retail trade,2.0,"54,887","44,324","175,500",943,0.8%,2.1%,9.8%
+"Scranton--Wilkes-Barre, PA ",xsmall,"Transportation and warehousing, and utilities",5.0,"54,887","44,324","175,500",943,0.8%,2.1%,9.8%
+"Scranton--Wilkes-Barre, PA ",xsmall,Information,12.0,"54,887","44,324","175,500",943,0.8%,2.1%,9.8%
+"Scranton--Wilkes-Barre, PA ",xsmall,"Finance and insurance, and real estate and rental and leasing",7.0,"54,887","44,324","175,500",943,0.8%,2.1%,9.8%
+"Scranton--Wilkes-Barre, PA ",xsmall,"Professional, scientific, and management, and administrative and waste management services",4.0,"54,887","44,324","175,500",943,0.8%,2.1%,9.8%
+"Scranton--Wilkes-Barre, PA ",xsmall,"Educational services, and health care and social assistance",1.0,"54,887","44,324","175,500",943,0.8%,2.1%,9.8%
+"Scranton--Wilkes-Barre, PA ",xsmall,"Arts, entertainment, and recreation, and accommodation and food services",6.0,"54,887","44,324","175,500",943,0.8%,2.1%,9.8%
+"Scranton--Wilkes-Barre, PA ",xsmall,Other services (except public administration),10.0,"54,887","44,324","175,500",943,0.8%,2.1%,9.8%
+"Scranton--Wilkes-Barre, PA ",xsmall,Public administration,9.0,"54,887","44,324","175,500",943,0.8%,2.1%,9.8%
+"Seattle-Tacoma-Bellevue, WA ",xlarge,"Agriculture, forestry, fishing and hunting, and mining",13.0,"87,845","70,939","718,100","1,848",4.6%,3.2%,25.4%
+"Seattle-Tacoma-Bellevue, WA ",xlarge,Construction,6.0,"87,845","70,939","718,100","1,848",4.6%,3.2%,25.4%
+"Seattle-Tacoma-Bellevue, WA ",xlarge,Manufacturing,4.0,"87,845","70,939","718,100","1,848",4.6%,3.2%,25.4%
+"Seattle-Tacoma-Bellevue, WA ",xlarge,Wholesale trade,12.0,"87,845","70,939","718,100","1,848",4.6%,3.2%,25.4%
+"Seattle-Tacoma-Bellevue, WA ",xlarge,Retail trade,3.0,"87,845","70,939","718,100","1,848",4.6%,3.2%,25.4%
+"Seattle-Tacoma-Bellevue, WA ",xlarge,"Transportation and warehousing, and utilities",8.0,"87,845","70,939","718,100","1,848",4.6%,3.2%,25.4%
+"Seattle-Tacoma-Bellevue, WA ",xlarge,Information,10.0,"87,845","70,939","718,100","1,848",4.6%,3.2%,25.4%
+"Seattle-Tacoma-Bellevue, WA ",xlarge,"Finance and insurance, and real estate and rental and leasing",7.0,"87,845","70,939","718,100","1,848",4.6%,3.2%,25.4%
+"Seattle-Tacoma-Bellevue, WA ",xlarge,"Professional, scientific, and management, and administrative and waste management services",2.0,"87,845","70,939","718,100","1,848",4.6%,3.2%,25.4%
+"Seattle-Tacoma-Bellevue, WA ",xlarge,"Educational services, and health care and social assistance",1.0,"87,845","70,939","718,100","1,848",4.6%,3.2%,25.4%
+"Seattle-Tacoma-Bellevue, WA ",xlarge,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"87,845","70,939","718,100","1,848",4.6%,3.2%,25.4%
+"Seattle-Tacoma-Bellevue, WA ",xlarge,Other services (except public administration),9.0,"87,845","70,939","718,100","1,848",4.6%,3.2%,25.4%
+"Seattle-Tacoma-Bellevue, WA ",xlarge,Public administration,11.0,"87,845","70,939","718,100","1,848",4.6%,3.2%,25.4%
+"Spokane-Spokane Valley, WA ",xsmall,"Agriculture, forestry, fishing and hunting, and mining",12.0,"61,899","48,392","406,800","1,187",1.6%,3.0%,15.9%
+"Spokane-Spokane Valley, WA ",xsmall,Construction,5.0,"61,899","48,392","406,800","1,187",1.6%,3.0%,15.9%
+"Spokane-Spokane Valley, WA ",xsmall,Manufacturing,6.0,"61,899","48,392","406,800","1,187",1.6%,3.0%,15.9%
+"Spokane-Spokane Valley, WA ",xsmall,Wholesale trade,11.0,"61,899","48,392","406,800","1,187",1.6%,3.0%,15.9%
+"Spokane-Spokane Valley, WA ",xsmall,Retail trade,2.0,"61,899","48,392","406,800","1,187",1.6%,3.0%,15.9%
+"Spokane-Spokane Valley, WA ",xsmall,"Transportation and warehousing, and utilities",8.0,"61,899","48,392","406,800","1,187",1.6%,3.0%,15.9%
+"Spokane-Spokane Valley, WA ",xsmall,Information,12.0,"61,899","48,392","406,800","1,187",1.6%,3.0%,15.9%
+"Spokane-Spokane Valley, WA ",xsmall,"Finance and insurance, and real estate and rental and leasing",7.0,"61,899","48,392","406,800","1,187",1.6%,3.0%,15.9%
+"Spokane-Spokane Valley, WA ",xsmall,"Professional, scientific, and management, and administrative and waste management services",3.0,"61,899","48,392","406,800","1,187",1.6%,3.0%,15.9%
+"Spokane-Spokane Valley, WA ",xsmall,"Educational services, and health care and social assistance",1.0,"61,899","48,392","406,800","1,187",1.6%,3.0%,15.9%
+"Spokane-Spokane Valley, WA ",xsmall,"Arts, entertainment, and recreation, and accommodation and food services",4.0,"61,899","48,392","406,800","1,187",1.6%,3.0%,15.9%
+"Spokane-Spokane Valley, WA ",xsmall,Other services (except public administration),9.0,"61,899","48,392","406,800","1,187",1.6%,3.0%,15.9%
+"Spokane-Spokane Valley, WA ",xsmall,Public administration,10.0,"61,899","48,392","406,800","1,187",1.6%,3.0%,15.9%
+"Springfield, MA ",small,"Agriculture, forestry, fishing and hunting, and mining",13.0,"61,573","58,583","302,600","1,078",1.5%,3.6%,11.9%
+"Springfield, MA ",small,Construction,6.0,"61,573","58,583","302,600","1,078",1.5%,3.6%,11.9%
+"Springfield, MA ",small,Manufacturing,2.0,"61,573","58,583","302,600","1,078",1.5%,3.6%,11.9%
+"Springfield, MA ",small,Wholesale trade,11.0,"61,573","58,583","302,600","1,078",1.5%,3.6%,11.9%
+"Springfield, MA ",small,Retail trade,3.0,"61,573","58,583","302,600","1,078",1.5%,3.6%,11.9%
+"Springfield, MA ",small,"Transportation and warehousing, and utilities",8.0,"61,573","58,583","302,600","1,078",1.5%,3.6%,11.9%
+"Springfield, MA ",small,Information,12.0,"61,573","58,583","302,600","1,078",1.5%,3.6%,11.9%
+"Springfield, MA ",small,"Finance and insurance, and real estate and rental and leasing",7.0,"61,573","58,583","302,600","1,078",1.5%,3.6%,11.9%
+"Springfield, MA ",small,"Professional, scientific, and management, and administrative and waste management services",4.0,"61,573","58,583","302,600","1,078",1.5%,3.6%,11.9%
+"Springfield, MA ",small,"Educational services, and health care and social assistance",1.0,"61,573","58,583","302,600","1,078",1.5%,3.6%,11.9%
+"Springfield, MA ",small,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"61,573","58,583","302,600","1,078",1.5%,3.6%,11.9%
+"Springfield, MA ",small,Other services (except public administration),9.0,"61,573","58,583","302,600","1,078",1.5%,3.6%,11.9%
+"Springfield, MA ",small,Public administration,10.0,"61,573","58,583","302,600","1,078",1.5%,3.6%,11.9%
+"Stockton, CA ",small,"Agriculture, forestry, fishing and hunting, and mining",11.0,"62,040","51,327","535,800","1,608",0.9%,1.0%,10.9%
+"Stockton, CA ",small,Construction,6.0,"62,040","51,327","535,800","1,608",0.9%,1.0%,10.9%
+"Stockton, CA ",small,Manufacturing,4.0,"62,040","51,327","535,800","1,608",0.9%,1.0%,10.9%
+"Stockton, CA ",small,Wholesale trade,12.0,"62,040","51,327","535,800","1,608",0.9%,1.0%,10.9%
+"Stockton, CA ",small,Retail trade,2.0,"62,040","51,327","535,800","1,608",0.9%,1.0%,10.9%
+"Stockton, CA ",small,"Transportation and warehousing, and utilities",5.0,"62,040","51,327","535,800","1,608",0.9%,1.0%,10.9%
+"Stockton, CA ",small,Information,13.0,"62,040","51,327","535,800","1,608",0.9%,1.0%,10.9%
+"Stockton, CA ",small,"Finance and insurance, and real estate and rental and leasing",8.0,"62,040","51,327","535,800","1,608",0.9%,1.0%,10.9%
+"Stockton, CA ",small,"Professional, scientific, and management, and administrative and waste management services",3.0,"62,040","51,327","535,800","1,608",0.9%,1.0%,10.9%
+"Stockton, CA ",small,"Educational services, and health care and social assistance",1.0,"62,040","51,327","535,800","1,608",0.9%,1.0%,10.9%
+"Stockton, CA ",small,"Arts, entertainment, and recreation, and accommodation and food services",7.0,"62,040","51,327","535,800","1,608",0.9%,1.0%,10.9%
+"Stockton, CA ",small,Other services (except public administration),10.0,"62,040","51,327","535,800","1,608",0.9%,1.0%,10.9%
+"Stockton, CA ",small,Public administration,9.0,"62,040","51,327","535,800","1,608",0.9%,1.0%,10.9%
+"Syracuse, NY ",xsmall,"Agriculture, forestry, fishing and hunting, and mining",13.0,"61,990","56,044","171,700",971,1.9%,4.1%,11.9%
+"Syracuse, NY ",xsmall,Construction,8.0,"61,990","56,044","171,700",971,1.9%,4.1%,11.9%
+"Syracuse, NY ",xsmall,Manufacturing,4.0,"61,990","56,044","171,700",971,1.9%,4.1%,11.9%
+"Syracuse, NY ",xsmall,Wholesale trade,12.0,"61,990","56,044","171,700",971,1.9%,4.1%,11.9%
+"Syracuse, NY ",xsmall,Retail trade,2.0,"61,990","56,044","171,700",971,1.9%,4.1%,11.9%
+"Syracuse, NY ",xsmall,"Transportation and warehousing, and utilities",6.0,"61,990","56,044","171,700",971,1.9%,4.1%,11.9%
+"Syracuse, NY ",xsmall,Information,11.0,"61,990","56,044","171,700",971,1.9%,4.1%,11.9%
+"Syracuse, NY ",xsmall,"Finance and insurance, and real estate and rental and leasing",7.0,"61,990","56,044","171,700",971,1.9%,4.1%,11.9%
+"Syracuse, NY ",xsmall,"Professional, scientific, and management, and administrative and waste management services",3.0,"61,990","56,044","171,700",971,1.9%,4.1%,11.9%
+"Syracuse, NY ",xsmall,"Educational services, and health care and social assistance",1.0,"61,990","56,044","171,700",971,1.9%,4.1%,11.9%
+"Syracuse, NY ",xsmall,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"61,990","56,044","171,700",971,1.9%,4.1%,11.9%
+"Syracuse, NY ",xsmall,Other services (except public administration),9.0,"61,990","56,044","171,700",971,1.9%,4.1%,11.9%
+"Syracuse, NY ",xsmall,Public administration,10.0,"61,990","56,044","171,700",971,1.9%,4.1%,11.9%
+"Tampa-St. Petersburg-Clearwater, FL ",xlarge,"Agriculture, forestry, fishing and hunting, and mining",13.0,"56,970","49,496","344,400","1,477",0.7%,1.1%,21.2%
+"Tampa-St. Petersburg-Clearwater, FL ",xlarge,Construction,6.0,"56,970","49,496","344,400","1,477",0.7%,1.1%,21.2%
+"Tampa-St. Petersburg-Clearwater, FL ",xlarge,Manufacturing,7.0,"56,970","49,496","344,400","1,477",0.7%,1.1%,21.2%
+"Tampa-St. Petersburg-Clearwater, FL ",xlarge,Wholesale trade,11.0,"56,970","49,496","344,400","1,477",0.7%,1.1%,21.2%
+"Tampa-St. Petersburg-Clearwater, FL ",xlarge,Retail trade,3.0,"56,970","49,496","344,400","1,477",0.7%,1.1%,21.2%
+"Tampa-St. Petersburg-Clearwater, FL ",xlarge,"Transportation and warehousing, and utilities",8.0,"56,970","49,496","344,400","1,477",0.7%,1.1%,21.2%
+"Tampa-St. Petersburg-Clearwater, FL ",xlarge,Information,12.0,"56,970","49,496","344,400","1,477",0.7%,1.1%,21.2%
+"Tampa-St. Petersburg-Clearwater, FL ",xlarge,"Finance and insurance, and real estate and rental and leasing",4.0,"56,970","49,496","344,400","1,477",0.7%,1.1%,21.2%
+"Tampa-St. Petersburg-Clearwater, FL ",xlarge,"Professional, scientific, and management, and administrative and waste management services",2.0,"56,970","49,496","344,400","1,477",0.7%,1.1%,21.2%
+"Tampa-St. Petersburg-Clearwater, FL ",xlarge,"Educational services, and health care and social assistance",1.0,"56,970","49,496","344,400","1,477",0.7%,1.1%,21.2%
+"Tampa-St. Petersburg-Clearwater, FL ",xlarge,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"56,970","49,496","344,400","1,477",0.7%,1.1%,21.2%
+"Tampa-St. Petersburg-Clearwater, FL ",xlarge,Other services (except public administration),9.0,"56,970","49,496","344,400","1,477",0.7%,1.1%,21.2%
+"Tampa-St. Petersburg-Clearwater, FL ",xlarge,Public administration,10.0,"56,970","49,496","344,400","1,477",0.7%,1.1%,21.2%
+"Toledo, OH ",xsmall,"Agriculture, forestry, fishing and hunting, and mining",13.0,"60,633","47,261","165,200",882,0.4%,1.7%,7.8%
+"Toledo, OH ",xsmall,Construction,7.0,"60,633","47,261","165,200",882,0.4%,1.7%,7.8%
+"Toledo, OH ",xsmall,Manufacturing,2.0,"60,633","47,261","165,200",882,0.4%,1.7%,7.8%
+"Toledo, OH ",xsmall,Wholesale trade,11.0,"60,633","47,261","165,200",882,0.4%,1.7%,7.8%
+"Toledo, OH ",xsmall,Retail trade,3.0,"60,633","47,261","165,200",882,0.4%,1.7%,7.8%
+"Toledo, OH ",xsmall,"Transportation and warehousing, and utilities",6.0,"60,633","47,261","165,200",882,0.4%,1.7%,7.8%
+"Toledo, OH ",xsmall,Information,12.0,"60,633","47,261","165,200",882,0.4%,1.7%,7.8%
+"Toledo, OH ",xsmall,"Finance and insurance, and real estate and rental and leasing",9.0,"60,633","47,261","165,200",882,0.4%,1.7%,7.8%
+"Toledo, OH ",xsmall,"Professional, scientific, and management, and administrative and waste management services",5.0,"60,633","47,261","165,200",882,0.4%,1.7%,7.8%
+"Toledo, OH ",xsmall,"Educational services, and health care and social assistance",1.0,"60,633","47,261","165,200",882,0.4%,1.7%,7.8%
+"Toledo, OH ",xsmall,"Arts, entertainment, and recreation, and accommodation and food services",4.0,"60,633","47,261","165,200",882,0.4%,1.7%,7.8%
+"Toledo, OH ",xsmall,Other services (except public administration),8.0,"60,633","47,261","165,200",882,0.4%,1.7%,7.8%
+"Toledo, OH ",xsmall,Public administration,10.0,"60,633","47,261","165,200",882,0.4%,1.7%,7.8%
+"Tucson, AZ ",medium,"Agriculture, forestry, fishing and hunting, and mining",12.0,"53,564","46,204","317,000","1,135",1.1%,2.3%,14.6%
+"Tucson, AZ ",medium,Construction,6.0,"53,564","46,204","317,000","1,135",1.1%,2.3%,14.6%
+"Tucson, AZ ",medium,Manufacturing,5.0,"53,564","46,204","317,000","1,135",1.1%,2.3%,14.6%
+"Tucson, AZ ",medium,Wholesale trade,13.0,"53,564","46,204","317,000","1,135",1.1%,2.3%,14.6%
+"Tucson, AZ ",medium,Retail trade,2.0,"53,564","46,204","317,000","1,135",1.1%,2.3%,14.6%
+"Tucson, AZ ",medium,"Transportation and warehousing, and utilities",9.0,"53,564","46,204","317,000","1,135",1.1%,2.3%,14.6%
+"Tucson, AZ ",medium,Information,11.0,"53,564","46,204","317,000","1,135",1.1%,2.3%,14.6%
+"Tucson, AZ ",medium,"Finance and insurance, and real estate and rental and leasing",7.0,"53,564","46,204","317,000","1,135",1.1%,2.3%,14.6%
+"Tucson, AZ ",medium,"Professional, scientific, and management, and administrative and waste management services",3.0,"53,564","46,204","317,000","1,135",1.1%,2.3%,14.6%
+"Tucson, AZ ",medium,"Educational services, and health care and social assistance",1.0,"53,564","46,204","317,000","1,135",1.1%,2.3%,14.6%
+"Tucson, AZ ",medium,"Arts, entertainment, and recreation, and accommodation and food services",4.0,"53,564","46,204","317,000","1,135",1.1%,2.3%,14.6%
+"Tucson, AZ ",medium,Other services (except public administration),10.0,"53,564","46,204","317,000","1,135",1.1%,2.3%,14.6%
+"Tucson, AZ ",medium,Public administration,8.0,"53,564","46,204","317,000","1,135",1.1%,2.3%,14.6%
+"Tulsa, OK ",medium,"Agriculture, forestry, fishing and hunting, and mining",12.0,"55,772","44,063","212,100",987,0.3%,1.2%,10.5%
+"Tulsa, OK ",medium,Construction,6.0,"55,772","44,063","212,100",987,0.3%,1.2%,10.5%
+"Tulsa, OK ",medium,Manufacturing,3.0,"55,772","44,063","212,100",987,0.3%,1.2%,10.5%
+"Tulsa, OK ",medium,Wholesale trade,11.0,"55,772","44,063","212,100",987,0.3%,1.2%,10.5%
+"Tulsa, OK ",medium,Retail trade,2.0,"55,772","44,063","212,100",987,0.3%,1.2%,10.5%
+"Tulsa, OK ",medium,"Transportation and warehousing, and utilities",7.0,"55,772","44,063","212,100",987,0.3%,1.2%,10.5%
+"Tulsa, OK ",medium,Information,13.0,"55,772","44,063","212,100",987,0.3%,1.2%,10.5%
+"Tulsa, OK ",medium,"Finance and insurance, and real estate and rental and leasing",8.0,"55,772","44,063","212,100",987,0.3%,1.2%,10.5%
+"Tulsa, OK ",medium,"Professional, scientific, and management, and administrative and waste management services",3.0,"55,772","44,063","212,100",987,0.3%,1.2%,10.5%
+"Tulsa, OK ",medium,"Educational services, and health care and social assistance",1.0,"55,772","44,063","212,100",987,0.3%,1.2%,10.5%
+"Tulsa, OK ",medium,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"55,772","44,063","212,100",987,0.3%,1.2%,10.5%
+"Tulsa, OK ",medium,Other services (except public administration),9.0,"55,772","44,063","212,100",987,0.3%,1.2%,10.5%
+"Tulsa, OK ",medium,Public administration,10.0,"55,772","44,063","212,100",987,0.3%,1.2%,10.5%
+"Urban Honolulu, HI ",medium,"Agriculture, forestry, fishing and hunting, and mining",13.0,"63,845","53,726","874,500","1,914",4.6%,5.3%,9.2%
+"Urban Honolulu, HI ",medium,Construction,6.0,"63,845","53,726","874,500","1,914",4.6%,5.3%,9.2%
+"Urban Honolulu, HI ",medium,Manufacturing,10.0,"63,845","53,726","874,500","1,914",4.6%,5.3%,9.2%
+"Urban Honolulu, HI ",medium,Wholesale trade,12.0,"63,845","53,726","874,500","1,914",4.6%,5.3%,9.2%
+"Urban Honolulu, HI ",medium,Retail trade,5.0,"63,845","53,726","874,500","1,914",4.6%,5.3%,9.2%
+"Urban Honolulu, HI ",medium,"Transportation and warehousing, and utilities",8.0,"63,845","53,726","874,500","1,914",4.6%,5.3%,9.2%
+"Urban Honolulu, HI ",medium,Information,11.0,"63,845","53,726","874,500","1,914",4.6%,5.3%,9.2%
+"Urban Honolulu, HI ",medium,"Finance and insurance, and real estate and rental and leasing",7.0,"63,845","53,726","874,500","1,914",4.6%,5.3%,9.2%
+"Urban Honolulu, HI ",medium,"Professional, scientific, and management, and administrative and waste management services",3.0,"63,845","53,726","874,500","1,914",4.6%,5.3%,9.2%
+"Urban Honolulu, HI ",medium,"Educational services, and health care and social assistance",1.0,"63,845","53,726","874,500","1,914",4.6%,5.3%,9.2%
+"Urban Honolulu, HI ",medium,"Arts, entertainment, and recreation, and accommodation and food services",2.0,"63,845","53,726","874,500","1,914",4.6%,5.3%,9.2%
+"Urban Honolulu, HI ",medium,Other services (except public administration),9.0,"63,845","53,726","874,500","1,914",4.6%,5.3%,9.2%
+"Urban Honolulu, HI ",medium,Public administration,4.0,"63,845","53,726","874,500","1,914",4.6%,5.3%,9.2%
+"Virginia Beach-Norfolk-Newport News, VA-NC ",large,"Agriculture, forestry, fishing and hunting, and mining",13.0,"60,740","49,855","318,300","1,365",0.7%,2.1%,11.1%
+"Virginia Beach-Norfolk-Newport News, VA-NC ",large,Construction,8.0,"60,740","49,855","318,300","1,365",0.7%,2.1%,11.1%
+"Virginia Beach-Norfolk-Newport News, VA-NC ",large,Manufacturing,4.0,"60,740","49,855","318,300","1,365",0.7%,2.1%,11.1%
+"Virginia Beach-Norfolk-Newport News, VA-NC ",large,Wholesale trade,11.0,"60,740","49,855","318,300","1,365",0.7%,2.1%,11.1%
+"Virginia Beach-Norfolk-Newport News, VA-NC ",large,Retail trade,3.0,"60,740","49,855","318,300","1,365",0.7%,2.1%,11.1%
+"Virginia Beach-Norfolk-Newport News, VA-NC ",large,"Transportation and warehousing, and utilities",9.0,"60,740","49,855","318,300","1,365",0.7%,2.1%,11.1%
+"Virginia Beach-Norfolk-Newport News, VA-NC ",large,Information,11.0,"60,740","49,855","318,300","1,365",0.7%,2.1%,11.1%
+"Virginia Beach-Norfolk-Newport News, VA-NC ",large,"Finance and insurance, and real estate and rental and leasing",7.0,"60,740","49,855","318,300","1,365",0.7%,2.1%,11.1%
+"Virginia Beach-Norfolk-Newport News, VA-NC ",large,"Professional, scientific, and management, and administrative and waste management services",2.0,"60,740","49,855","318,300","1,365",0.7%,2.1%,11.1%
+"Virginia Beach-Norfolk-Newport News, VA-NC ",large,"Educational services, and health care and social assistance",1.0,"60,740","49,855","318,300","1,365",0.7%,2.1%,11.1%
+"Virginia Beach-Norfolk-Newport News, VA-NC ",large,"Arts, entertainment, and recreation, and accommodation and food services",6.0,"60,740","49,855","318,300","1,365",0.7%,2.1%,11.1%
+"Virginia Beach-Norfolk-Newport News, VA-NC ",large,Other services (except public administration),10.0,"60,740","49,855","318,300","1,365",0.7%,2.1%,11.1%
+"Virginia Beach-Norfolk-Newport News, VA-NC ",large,Public administration,5.0,"60,740","49,855","318,300","1,365",0.7%,2.1%,11.1%
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",xlarge,"Agriculture, forestry, fishing and hunting, and mining",13.0,"90,317","76,464","553,100","1,864",6.0%,2.6%,25.4%
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",xlarge,Construction,6.0,"90,317","76,464","553,100","1,864",6.0%,2.6%,25.4%
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",xlarge,Manufacturing,10.0,"90,317","76,464","553,100","1,864",6.0%,2.6%,25.4%
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",xlarge,Wholesale trade,12.0,"90,317","76,464","553,100","1,864",6.0%,2.6%,25.4%
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",xlarge,Retail trade,4.0,"90,317","76,464","553,100","1,864",6.0%,2.6%,25.4%
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",xlarge,"Transportation and warehousing, and utilities",9.0,"90,317","76,464","553,100","1,864",6.0%,2.6%,25.4%
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",xlarge,Information,11.0,"90,317","76,464","553,100","1,864",6.0%,2.6%,25.4%
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",xlarge,"Finance and insurance, and real estate and rental and leasing",8.0,"90,317","76,464","553,100","1,864",6.0%,2.6%,25.4%
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",xlarge,"Professional, scientific, and management, and administrative and waste management services",1.0,"90,317","76,464","553,100","1,864",6.0%,2.6%,25.4%
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",xlarge,"Educational services, and health care and social assistance",2.0,"90,317","76,464","553,100","1,864",6.0%,2.6%,25.4%
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",xlarge,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"90,317","76,464","553,100","1,864",6.0%,2.6%,25.4%
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",xlarge,Other services (except public administration),7.0,"90,317","76,464","553,100","1,864",6.0%,2.6%,25.4%
+"Washington-Arlington-Alexandria, DC-VA-MD-WV ",xlarge,Public administration,3.0,"90,317","76,464","553,100","1,864",6.0%,2.6%,25.4%
+"Wichita, KS ",xsmall,"Agriculture, forestry, fishing and hunting, and mining",12.0,"56,293","41,916","191,000",915,0.5%,1.2%,7.9%
+"Wichita, KS ",xsmall,Construction,7.0,"56,293","41,916","191,000",915,0.5%,1.2%,7.9%
+"Wichita, KS ",xsmall,Manufacturing,2.0,"56,293","41,916","191,000",915,0.5%,1.2%,7.9%
+"Wichita, KS ",xsmall,Wholesale trade,11.0,"56,293","41,916","191,000",915,0.5%,1.2%,7.9%
+"Wichita, KS ",xsmall,Retail trade,3.0,"56,293","41,916","191,000",915,0.5%,1.2%,7.9%
+"Wichita, KS ",xsmall,"Transportation and warehousing, and utilities",9.0,"56,293","41,916","191,000",915,0.5%,1.2%,7.9%
+"Wichita, KS ",xsmall,Information,13.0,"56,293","41,916","191,000",915,0.5%,1.2%,7.9%
+"Wichita, KS ",xsmall,"Finance and insurance, and real estate and rental and leasing",6.0,"56,293","41,916","191,000",915,0.5%,1.2%,7.9%
+"Wichita, KS ",xsmall,"Professional, scientific, and management, and administrative and waste management services",4.0,"56,293","41,916","191,000",915,0.5%,1.2%,7.9%
+"Wichita, KS ",xsmall,"Educational services, and health care and social assistance",1.0,"56,293","41,916","191,000",915,0.5%,1.2%,7.9%
+"Wichita, KS ",xsmall,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"56,293","41,916","191,000",915,0.5%,1.2%,7.9%
+"Wichita, KS ",xsmall,Other services (except public administration),8.0,"56,293","41,916","191,000",915,0.5%,1.2%,7.9%
+"Wichita, KS ",xsmall,Public administration,10.0,"56,293","41,916","191,000",915,0.5%,1.2%,7.9%
+"Winston-Salem, NC ",small,"Agriculture, forestry, fishing and hunting, and mining",13.0,"52,802","44,624","231,200",945,0.4%,0.8%,12.1%
+"Winston-Salem, NC ",small,Construction,6.0,"52,802","44,624","231,200",945,0.4%,0.8%,12.1%
+"Winston-Salem, NC ",small,Manufacturing,2.0,"52,802","44,624","231,200",945,0.4%,0.8%,12.1%
+"Winston-Salem, NC ",small,Wholesale trade,11.0,"52,802","44,624","231,200",945,0.4%,0.8%,12.1%
+"Winston-Salem, NC ",small,Retail trade,3.0,"52,802","44,624","231,200",945,0.4%,0.8%,12.1%
+"Winston-Salem, NC ",small,"Transportation and warehousing, and utilities",6.0,"52,802","44,624","231,200",945,0.4%,0.8%,12.1%
+"Winston-Salem, NC ",small,Information,12.0,"52,802","44,624","231,200",945,0.4%,0.8%,12.1%
+"Winston-Salem, NC ",small,"Finance and insurance, and real estate and rental and leasing",8.0,"52,802","44,624","231,200",945,0.4%,0.8%,12.1%
+"Winston-Salem, NC ",small,"Professional, scientific, and management, and administrative and waste management services",4.0,"52,802","44,624","231,200",945,0.4%,0.8%,12.1%
+"Winston-Salem, NC ",small,"Educational services, and health care and social assistance",1.0,"52,802","44,624","231,200",945,0.4%,0.8%,12.1%
+"Winston-Salem, NC ",small,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"52,802","44,624","231,200",945,0.4%,0.8%,12.1%
+"Winston-Salem, NC ",small,Other services (except public administration),8.0,"52,802","44,624","231,200",945,0.4%,0.8%,12.1%
+"Winston-Salem, NC ",small,Public administration,10.0,"52,802","44,624","231,200",945,0.4%,0.8%,12.1%
+"Worcester, MA-CT ",medium,"Agriculture, forestry, fishing and hunting, and mining",13.0,"70,933","60,275","377,900","1,281",1.1%,1.8%,15.4%
+"Worcester, MA-CT ",medium,Construction,6.0,"70,933","60,275","377,900","1,281",1.1%,1.8%,15.4%
+"Worcester, MA-CT ",medium,Manufacturing,3.0,"70,933","60,275","377,900","1,281",1.1%,1.8%,15.4%
+"Worcester, MA-CT ",medium,Wholesale trade,11.0,"70,933","60,275","377,900","1,281",1.1%,1.8%,15.4%
+"Worcester, MA-CT ",medium,Retail trade,4.0,"70,933","60,275","377,900","1,281",1.1%,1.8%,15.4%
+"Worcester, MA-CT ",medium,"Transportation and warehousing, and utilities",8.0,"70,933","60,275","377,900","1,281",1.1%,1.8%,15.4%
+"Worcester, MA-CT ",medium,Information,12.0,"70,933","60,275","377,900","1,281",1.1%,1.8%,15.4%
+"Worcester, MA-CT ",medium,"Finance and insurance, and real estate and rental and leasing",7.0,"70,933","60,275","377,900","1,281",1.1%,1.8%,15.4%
+"Worcester, MA-CT ",medium,"Professional, scientific, and management, and administrative and waste management services",2.0,"70,933","60,275","377,900","1,281",1.1%,1.8%,15.4%
+"Worcester, MA-CT ",medium,"Educational services, and health care and social assistance",1.0,"70,933","60,275","377,900","1,281",1.1%,1.8%,15.4%
+"Worcester, MA-CT ",medium,"Arts, entertainment, and recreation, and accommodation and food services",5.0,"70,933","60,275","377,900","1,281",1.1%,1.8%,15.4%
+"Worcester, MA-CT ",medium,Other services (except public administration),9.0,"70,933","60,275","377,900","1,281",1.1%,1.8%,15.4%
+"Worcester, MA-CT ",medium,Public administration,10.0,"70,933","60,275","377,900","1,281",1.1%,1.8%,15.4%
+"Youngstown-Warren-Boardman, OH-PA ",xsmall,"Agriculture, forestry, fishing and hunting, and mining",13.0,"53,179","42,750","142,100",725,0.3%,1.8%,7.9%
+"Youngstown-Warren-Boardman, OH-PA ",xsmall,Construction,6.0,"53,179","42,750","142,100",725,0.3%,1.8%,7.9%
+"Youngstown-Warren-Boardman, OH-PA ",xsmall,Manufacturing,2.0,"53,179","42,750","142,100",725,0.3%,1.8%,7.9%
+"Youngstown-Warren-Boardman, OH-PA ",xsmall,Wholesale trade,11.0,"53,179","42,750","142,100",725,0.3%,1.8%,7.9%
+"Youngstown-Warren-Boardman, OH-PA ",xsmall,Retail trade,3.0,"53,179","42,750","142,100",725,0.3%,1.8%,7.9%
+"Youngstown-Warren-Boardman, OH-PA ",xsmall,"Transportation and warehousing, and utilities",7.0,"53,179","42,750","142,100",725,0.3%,1.8%,7.9%
+"Youngstown-Warren-Boardman, OH-PA ",xsmall,Information,12.0,"53,179","42,750","142,100",725,0.3%,1.8%,7.9%
+"Youngstown-Warren-Boardman, OH-PA ",xsmall,"Finance and insurance, and real estate and rental and leasing",9.0,"53,179","42,750","142,100",725,0.3%,1.8%,7.9%
+"Youngstown-Warren-Boardman, OH-PA ",xsmall,"Professional, scientific, and management, and administrative and waste management services",5.0,"53,179","42,750","142,100",725,0.3%,1.8%,7.9%
+"Youngstown-Warren-Boardman, OH-PA ",xsmall,"Educational services, and health care and social assistance",1.0,"53,179","42,750","142,100",725,0.3%,1.8%,7.9%
+"Youngstown-Warren-Boardman, OH-PA ",xsmall,"Arts, entertainment, and recreation, and accommodation and food services",4.0,"53,179","42,750","142,100",725,0.3%,1.8%,7.9%
+"Youngstown-Warren-Boardman, OH-PA ",xsmall,Other services (except public administration),8.0,"53,179","42,750","142,100",725,0.3%,1.8%,7.9%
+"Youngstown-Warren-Boardman, OH-PA ",xsmall,Public administration,10.0,"53,179","42,750","142,100",725,0.3%,1.8%,7.9%
