@@ -10,7 +10,7 @@ Fall 2023
 
 ## Objective
 
-Create a recommender system that provides personalized metropolitan and micropolitan statistical areas to individuals looking to relocate based on their preferences on industry, commuting, income, monthly housing payments, and population size.
+Create a recommender system that provides personalized metropolitan and micropolitan statistical areas to individuals looking to relocate based on their preferences in industry, commuting, income, monthly housing payments, and population size.
 
 ## Data Source 
 
